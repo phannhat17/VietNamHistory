@@ -22,6 +22,7 @@ public class App extends Application {
         stage.setScene(scene);
         Image icon = new Image(getClass().getResourceAsStream("images/icon.png"));
         stage.getIcons().add(icon);
+        stage.setTitle("Tra cứu lịch sử Việt Nam");
         stage.show();
     }
 
