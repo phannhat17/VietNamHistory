@@ -8,7 +8,9 @@ import javafx.fxml.FXML;
 
 import com.vietnam.history.App;
 
-
+/**
+ * Controller for the Sidebar
+ */
 public class SidebarController {
 
     @FXML
@@ -19,26 +21,31 @@ public class SidebarController {
 
     @FXML
     void returnStart(ActionEvent event) throws IOException {
+        // Return to Start scene
         App.setRoot("StartScene");
     }
 
     @FXML
     void switchToDynasty(ActionEvent event) throws IOException {
+        // Return to Dynasty scene
         App.setRoot("DynastyScene");
     }
 
     @FXML
     void switchToEvent(ActionEvent event) throws IOException {
+        // Return to Event scene
         App.setRoot("EventScene");
     }
 
     @FXML
     void switchToFestival(ActionEvent event) throws IOException {
+        // Return to Festival scene
         App.setRoot("FestivalScene");
     }
 
     @FXML
     void switchToHistoricalFigures(ActionEvent event) throws IOException {
+        // Return to Historical figures scene
         App.setRoot("FiguresScene");
     }
 
