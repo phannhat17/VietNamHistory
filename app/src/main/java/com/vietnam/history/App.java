@@ -8,6 +8,8 @@ import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
 import java.io.IOException;
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 
 /**
  * Start GUI App
@@ -15,6 +17,10 @@ import java.io.IOException;
 public class App extends Application {
 
     private static Scene scene;
+
+    public static void main(String[] args) {
+        launch();
+    }
 
     @Override
     public void start(Stage stage) throws IOException {
@@ -35,8 +41,24 @@ public class App extends Application {
         return fxmlLoader.load();
     }
 
-    public static void main(String[] args) {
-        launch();
+    public static void setRootWithObject(String fxml, Object object) throws IOException {
+        FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
+        Parent root = fxmlLoader.load();
+        Object controller = fxmlLoader.getController();
+
+        Class<?> objectClass = object.getClass();
+        Method setMethod = null;
+        try {
+            setMethod = controller.getClass().getMethod("setData", objectClass);
+            setMethod.invoke(controller, object);
+        } catch (NoSuchMethodException e) {
+            e.printStackTrace();
+        } catch (IllegalAccessException e) {
+            e.printStackTrace();
+        } catch (InvocationTargetException e) {
+            e.printStackTrace();
+        } 
+        scene.setRoot(root);
     }
 
 }

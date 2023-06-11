@@ -3,9 +3,9 @@ package com.vietnam.history.controller;
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
+
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-
 import com.vietnam.history.App;
 
 /**
@@ -45,7 +45,6 @@ public class SidebarController {
 
     @FXML
     void switchToHistoricalFigures(ActionEvent event) throws IOException {
-        // Return to Historical figures scene
         App.setRoot("FiguresScene");
     }
 
