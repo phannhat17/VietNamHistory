@@ -10,7 +10,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class DynastyCollection {
-    private static final String FOLDER_PATH = "C:\\Users\\f1rst\\OneDrive - opotato1\\Desktop\\VietNamHistory\\app\\src\\main\\java\\com\\vietnam\\history\\data\\dynasty";
+    private static final String FOLDER_PATH = "src/data/dynasty";
 
     public ObservableList<Dynasty> getDynasties() {
         ObservableList<Dynasty> dynasties = FXCollections.observableArrayList();
@@ -35,15 +35,5 @@ public class DynastyCollection {
         }
 
         return dynasties;
-    }
-
-    public static void main(String[] args) {
-        DynastyCollection dynastyCollection = new DynastyCollection();
-        ObservableList<Dynasty> allDynasties = dynastyCollection.getDynasties();
-
-        // Use the list of dynasties as needed
-        for (Dynasty dynasty : allDynasties) {
-            System.out.println(dynasty.getLabel());
-        }
     }
 }
