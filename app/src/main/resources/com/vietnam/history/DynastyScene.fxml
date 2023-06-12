@@ -8,10 +8,11 @@
 <?import javafx.scene.control.TableColumn?>
 <?import javafx.scene.control.TableView?>
 <?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0"  xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.DynastyController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/20.0.1" fx:controller="com.vietnam.history.controller.DynastyController">
    <top>
       <MenuBar BorderPane.alignment="CENTER">
         <menus>
@@ -36,7 +37,27 @@
                   <Insets bottom="20.0" right="20.0" top="20.0" />
                </VBox.margin>
             </Label>
-            <fx:include fx:id="searchBox" source="SearchBox.fxml" />
+            <HBox>
+               <children>
+                  <fx:include fx:id="searchBox" source="SearchBox.fxml" />
+                  <Label fx:id="totalNum1" layoutX="943.0" layoutY="10.0" text="Tổng số:">
+                     <font>
+                        <Font name="System Bold" size="17.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="460.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label fx:id="totalNum" text="Num" HBox.hgrow="ALWAYS">
+                     <HBox.margin>
+                        <Insets left="20.0" />
+                     </HBox.margin>
+                     <font>
+                        <Font name="System Bold" size="17.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
             <!-- <HBox>
                <children>
                   <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="25.0" prefWidth="90.0" text="Tìm kiếm">

@@ -9,6 +9,7 @@ import com.vietnam.history.model.collect.FigureCollection;
 import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.scene.control.Label;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
@@ -29,12 +30,17 @@ public class FiguresController {
     private TableView<Figure> tblFigure;
 
     @FXML
+    private Label totalNum;
+
+    @FXML
     void aboutClick(ActionEvent event) throws IOException {
         App.openAbout("About");
     }
 
     @FXML
     void initialize() {
+        totalNum.setText(Integer.toString(allFigures.size()));
+
         colFDescription.setCellValueFactory(
             new PropertyValueFactory<Figure, String>("overview")
         );
