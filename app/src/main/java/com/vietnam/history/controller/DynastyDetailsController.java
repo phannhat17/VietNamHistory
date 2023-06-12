@@ -34,6 +34,11 @@ public class DynastyDetailsController {
     private VBox claimsContainer;
 
     @FXML
+    void aboutClick(ActionEvent event) throws IOException {
+        App.openAbout("About");
+    }
+
+    @FXML
     void btnBackClick(ActionEvent event) throws IOException {
         App.setRoot("DynastyScene");
     }

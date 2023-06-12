@@ -41,6 +41,18 @@ public class App extends Application {
         return fxmlLoader.load();
     }
 
+    public static void openAbout(String fxml) throws IOException {
+        FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
+        Parent root = fxmlLoader.load();
+        Stage stage = new Stage();
+        Image icon = new Image(App.class.getResourceAsStream("images/icon.png"));
+        stage.getIcons().add(icon);
+        stage.setScene(new Scene(root));
+        stage.setTitle("About");
+        stage.showAndWait();
+        stage.close();
+    }
+
     public static void setRootWithObject(String fxml, Object object) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();

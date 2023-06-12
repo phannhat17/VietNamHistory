@@ -7,6 +7,7 @@ import com.vietnam.history.model.Figure;
 import com.vietnam.history.model.collect.FigureCollection;
 
 import javafx.collections.ObservableList;
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableRow;
@@ -26,6 +27,11 @@ public class FiguresController {
 
     @FXML
     private TableView<Figure> tblFigure;
+
+    @FXML
+    void aboutClick(ActionEvent event) throws IOException {
+        App.openAbout("About");
+    }
 
     @FXML
     void initialize() {

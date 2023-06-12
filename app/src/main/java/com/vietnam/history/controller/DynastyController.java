@@ -7,6 +7,7 @@ import com.vietnam.history.model.Dynasty;
 import com.vietnam.history.model.collect.DynastyCollection;
 
 import javafx.collections.ObservableList;
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableRow;
@@ -18,7 +19,7 @@ public class DynastyController {
     // Load Dynasty
     private DynastyCollection dynastyCollection = new DynastyCollection();
     private ObservableList<Dynasty> allDynasties = dynastyCollection.getDynasties();
-
+    
     @FXML
     private TableColumn<Dynasty, String> colFDescription;
 
@@ -27,6 +28,11 @@ public class DynastyController {
 
     @FXML
     private TableView<Dynasty> tblFigure;
+
+    @FXML
+    void aboutClick(ActionEvent event) throws IOException {
+        App.openAbout("About");
+    }
 
     @FXML
     void initialize() {
