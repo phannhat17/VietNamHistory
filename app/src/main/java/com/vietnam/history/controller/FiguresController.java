@@ -3,8 +3,8 @@ package com.vietnam.history.controller;
 import java.io.IOException;
 
 import com.vietnam.history.App;
-import com.vietnam.history.model.Dynasty;
-import com.vietnam.history.model.collect.DynastyCollection;
+import com.vietnam.history.model.Figure;
+import com.vietnam.history.model.collect.FigureCollection;
 
 import javafx.collections.ObservableList;
 import javafx.fxml.FXML;
@@ -15,38 +15,35 @@ import javafx.scene.control.cell.PropertyValueFactory;
 
 public class FiguresController {
 
-    private DynastyCollection dynastyCollection = new DynastyCollection();
-    private ObservableList<Dynasty> allDynasties = dynastyCollection.getDynasties();
+    private FigureCollection figureCollection = new FigureCollection();
+    private ObservableList<Figure> allFigures = figureCollection.getFigures();
 
     @FXML
-    private TableColumn<Dynasty, String> colFDescription;
+    private TableColumn<Figure, String> colFDescription;
 
     @FXML
-    private TableColumn<Dynasty, String> colFName;
+    private TableColumn<Figure, String> colFName;
 
     @FXML
-    private TableView<Dynasty> tblFigure;
+    private TableView<Figure> tblFigure;
 
     @FXML
     void initialize() {
-        assert colFDescription != null : "fx:id=\"colFDescription\" was not injected: check your FXML file 'FiguresScene.fxml'.";
-        assert colFName != null : "fx:id=\"colFName\" was not injected: check your FXML file 'FiguresScene.fxml'.";
-        assert tblFigure != null : "fx:id=\"tblFigure\" was not injected: check your FXML file 'FiguresScene.fxml'.";
         colFDescription.setCellValueFactory(
-            new PropertyValueFactory<Dynasty, String>("overview")
+            new PropertyValueFactory<Figure, String>("overview")
         );
         colFName.setCellValueFactory(
-            new PropertyValueFactory<Dynasty, String>("label")
+            new PropertyValueFactory<Figure, String>("label")
         );
 
-        tblFigure.setItems(allDynasties);
+        tblFigure.setItems(allFigures);
         tblFigure.setRowFactory(tableView -> {
-            TableRow<Dynasty> row = new TableRow<>();
+            TableRow<Figure> row = new TableRow<>();
             row.setOnMouseClicked(event -> {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
-                    Dynasty aaaaaaaaaaaaaaas = row.getItem();
+                    Figure figure = row.getItem();
                     try {
-                        App.setRootWithObject("FiguresDetailsScene", aaaaaaaaaaaaaaas);
+                        App.setRootWithObject("FiguresDetailsScene", figure);
                     } catch (IOException e){
                         e.printStackTrace();
                     }

@@ -1,28 +1,18 @@
 package com.vietnam.history.model;
 
 public abstract class HistoricalEntity {
-    private String id;
     private String name;
     private String overview;
 
     public HistoricalEntity() {
     }
 
-    public HistoricalEntity(String id, String name, String overview) {
-        this.id = id;
+    public HistoricalEntity(String name, String overview) {
         this.name = name;
         this.overview = overview;
     }
 
     // Getters and setters
-
-    public String getId() {
-        return id;
-    }
-
-    public void setId(String id) {
-        this.id = id;
-    }
 
     public String getName() {
         return name;
@@ -51,8 +41,7 @@ public abstract class HistoricalEntity {
     @Override
     public String toString() {
         return "HistoricalEntity{" +
-                "id='" + id + '\'' +
-                ", name='" + name + '\'' +
+                "name='" + name + '\'' +
                 ", overview='" + overview + '\'' +
                 '}';
     }

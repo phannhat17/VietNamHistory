@@ -3,7 +3,7 @@ package com.vietnam.history.controller;
 import java.util.List;
 import java.util.Map;
 
-import com.vietnam.history.model.Dynasty;
+import com.vietnam.history.model.Figure;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
@@ -12,12 +12,10 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
 
-public class FiguresDetailsScene {
+public class FiguresDetailsController {
 
     @FXML
     private Label lbName;
-    @FXML
-    private Label lbName1;
 
     @FXML
     private Text tOver;
@@ -26,7 +24,7 @@ public class FiguresDetailsScene {
 
     private VBox claimsContainer;
 
-    public void setData(Dynasty dynasty) {
+    public void setData(Figure dynasty) {
         lbName.setText(dynasty.getLabel());
         tOver.setText(dynasty.getOverview());
         // Create a VBox to contain the HBox containers

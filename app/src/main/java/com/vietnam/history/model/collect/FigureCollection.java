@@ -1,7 +1,7 @@
 package com.vietnam.history.model.collect;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.vietnam.history.model.Dynasty;
+import com.vietnam.history.model.Figure;
 
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
@@ -9,11 +9,11 @@ import javafx.collections.ObservableList;
 import java.io.File;
 import java.io.IOException;
 
-public class DynastyCollection {
-    private static final String FOLDER_PATH = "src/data/dynasty";
+public class FigureCollection {
+    private static final String FOLDER_PATH = "src/data/historical-figures";
 
-    public ObservableList<Dynasty> getDynasties() {
-        ObservableList<Dynasty> dynasties = FXCollections.observableArrayList();
+    public ObservableList<Figure> getFigures() {
+        ObservableList<Figure> figures = FXCollections.observableArrayList();
         ObjectMapper objectMapper = new ObjectMapper();
         File folder = new File(FOLDER_PATH);
 
@@ -24,8 +24,8 @@ public class DynastyCollection {
                 for (File file : files) {
                     if (file.isFile() && file.getName().endsWith(".json")) {
                         try {
-                            Dynasty dynasty = objectMapper.readValue(file, Dynasty.class);
-                            dynasties.add(dynasty);
+                            Figure figure = objectMapper.readValue(file, Figure.class);
+                            figures.add(figure);
                         } catch (IOException e) {
                             e.printStackTrace();
                         }
@@ -33,6 +33,6 @@ public class DynastyCollection {
                 }
             }
         }
-        return dynasties;
+        return figures;
     }
 }
