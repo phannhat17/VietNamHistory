@@ -26,8 +26,6 @@ public class FiguresDetailsScene {
 
     private VBox claimsContainer;
 
-    private Dynasty dynasty;
-
     public void setData(Dynasty dynasty) {
         lbName.setText(dynasty.getLabel());
         tOver.setText(dynasty.getOverview());

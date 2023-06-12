@@ -26,8 +26,6 @@ public class DynastyDetailsController {
 
     private VBox claimsContainer;
 
-    private Dynasty dynasty;
-
     public void setData(Dynasty dynasty) {
         lbName.setText(dynasty.getLabel());
         tOver.setText(dynasty.getOverview());
@@ -47,11 +45,11 @@ public class DynastyDetailsController {
 
             // Create a label to display the key
             Label keyLabel = new Label(key + ":");
-            keyLabel.setStyle("-fx-font-size: 16px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
+            keyLabel.setStyle("-fx-font-size: 14px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
 
             // Create a text node to display the value string
             Text valueText = new Text(valueString);
-            valueText.setStyle("-fx-font-size: 16px;");
+            valueText.setStyle("-fx-font-size: 14px;");
 
             // Create an HBox container to hold the label and text nodes
             HBox keyValuePair = new HBox();
