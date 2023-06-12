@@ -10,7 +10,7 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/20.0.1" fx:controller="com.vietnam.history.controller.FiguresController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.FiguresController">
    <top>
       <MenuBar BorderPane.alignment="CENTER">
         <menus>
@@ -33,24 +33,7 @@
                </VBox.margin>
             </Label>
             <fx:include fx:id="searchBox" source="SearchBox.fxml" />
-            <!-- <HBox>
-               <children>
-                  <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="25.0" prefWidth="90.0" text="Tìm kiếm">
-                     <HBox.margin>
-                        <Insets bottom="20.0" left="20.0" />
-                     </HBox.margin>
-                     <font>
-                        <Font size="16.0" />
-                     </font>
-                  </Label>
-                  <TextField prefHeight="25.0" prefWidth="233.0">
-                     <HBox.margin>
-                        <Insets bottom="20.0" left="20.0" right="20.0" />
-                     </HBox.margin>
-                  </TextField>
-               </children>
-            </HBox> -->
-            <TableView fx:id="tblFigure" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="433.0" prefWidth="611.0">
+            <TableView fx:id="tblFigure" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="433.0" prefWidth="611.0" VBox.vgrow="ALWAYS">
               <columns>
                 <TableColumn fx:id="colFName" prefWidth="180.0" text="Tên" />
                   <TableColumn fx:id="colFDescription" prefWidth="354.0" text="Tổng quan" />

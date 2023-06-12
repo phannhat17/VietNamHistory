@@ -13,7 +13,7 @@ public class Dynasty {
     private List<String> aliases;
 
     @JsonProperty("claims")
-    private Map<String, List<Map<String, Object>>> claims;
+    private Map<String, Object> claims;
 
     @JsonProperty("description")
     private String description;
@@ -38,9 +38,7 @@ public class Dynasty {
         return aliases;
     }
 
-    public Map<String, List<Map<String, Object>>> getClaims() {
-        return claims;
-    }
+    
 
     public String getDescription() {
         return description;
@@ -48,6 +46,16 @@ public class Dynasty {
 
     public String getId() {
         return id;
+    }
+
+    public Map<String, Object> getClaims() {
+        return claims;
+    }
+
+    @Override
+    public String toString() {
+        
+        return label;
     }
 
 

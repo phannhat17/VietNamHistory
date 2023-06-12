@@ -13,7 +13,7 @@ import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 
-public class FiguresController {
+public class DynastyController {
 
     private DynastyCollection dynastyCollection = new DynastyCollection();
     private ObservableList<Dynasty> allDynasties = dynastyCollection.getDynasties();
@@ -44,9 +44,9 @@ public class FiguresController {
             TableRow<Dynasty> row = new TableRow<>();
             row.setOnMouseClicked(event -> {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
-                    Dynasty aaaaaaaaaaaaaaas = row.getItem();
+                    Dynasty dynasty = row.getItem();
                     try {
-                        App.setRootWithObject("FiguresDetailsScene", aaaaaaaaaaaaaaas);
+                        App.setRootWithObject("DynastyDetailsScene", dynasty);
                     } catch (IOException e){
                         e.printStackTrace();
                     }

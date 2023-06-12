@@ -1,6 +1,8 @@
-package com.vietnam.history.model;
+package com.vietnam.history.model.collect;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.vietnam.history.model.Dynasty;
+
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 
