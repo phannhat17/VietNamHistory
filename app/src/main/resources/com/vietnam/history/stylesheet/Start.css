@@ -1,0 +1,5 @@
+.root {
+    -fx-background-image: url("../images/bg.png");
+    -fx-background-size: cover;
+    -fx-background-position: bottom;
+}
