@@ -1,11 +1,15 @@
 package com.vietnam.history.controller;
 
+import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 
+import com.vietnam.history.App;
 import com.vietnam.history.model.Dynasty;
 
+import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.HBox;
@@ -13,6 +17,9 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
 
 public class DynastyDetailsController {
+
+    @FXML
+    private Button btnBack;
 
     @FXML
     private Label lbName;
@@ -25,6 +32,11 @@ public class DynastyDetailsController {
     private ScrollPane scrollPane;
 
     private VBox claimsContainer;
+
+    @FXML
+    void btnBackClick(ActionEvent event) throws IOException {
+        App.setRoot("DynastyScene");
+    }
 
     public void setData(Dynasty dynasty) {
         lbName.setText(dynasty.getLabel());
