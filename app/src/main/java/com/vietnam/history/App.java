@@ -63,13 +63,9 @@ public class App extends Application {
         try {
             setMethod = controller.getClass().getMethod("setData", objectClass);
             setMethod.invoke(controller, object);
-        } catch (NoSuchMethodException e) {
+        } catch (NoSuchMethodException | IllegalAccessException | InvocationTargetException e) {
             e.printStackTrace();
-        } catch (IllegalAccessException e) {
-            e.printStackTrace();
-        } catch (InvocationTargetException e) {
-            e.printStackTrace();
-        } 
+        }
         scene.setRoot(root);
     }
 

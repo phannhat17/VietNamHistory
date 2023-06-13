@@ -26,6 +26,7 @@ public class FiguresDetailsController {
 
     @FXML
     private Text tOver;
+    
     @FXML
     private ScrollPane scrollPane;
 
@@ -42,13 +43,14 @@ public class FiguresDetailsController {
     }
 
     public void setData(Figure dynasty) {
+
         lbName.setText(dynasty.getLabel());
         tOver.setText(dynasty.getOverview());
+        
         // Create a VBox to contain the HBox containers
         claimsContainer = new VBox();
         scrollPane.setContent(claimsContainer);
 
-        // Assuming you have an instance of Dynasty with the retrieved data
         Map<String, Object> claims = dynasty.getClaims();
 
         for (Map.Entry<String, Object> entry : claims.entrySet()) {
@@ -109,6 +111,5 @@ public class FiguresDetailsController {
             return value.toString();
         }
     }
-
 
 }
