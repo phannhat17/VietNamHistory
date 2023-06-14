@@ -17,7 +17,7 @@
       </MenuBar>
    </top>
    <left>
-        <fx:include fx:id="sideBar" source="../Sidebar.fxml" />
+        <fx:include fx:id="sideBar" source="../SideBar.fxml" />
     </left>
    <center>
       <VBox>
