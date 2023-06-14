@@ -1,12 +1,7 @@
-package com.vietnam.history.controller;
-
-import java.io.IOException;
+package com.vietnam.history.controller.dynasty;
 
 import com.vietnam.history.App;
 import com.vietnam.history.model.Dynasty;
-import com.vietnam.history.model.collect.DynastyCollection;
-
-import javafx.collections.ObservableList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
@@ -15,12 +10,10 @@ import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 
+import java.io.IOException;
+
 public class DynastyController {
-    
-    // Load Dynasty
-    private DynastyCollection dynastyCollection = new DynastyCollection();
-    private ObservableList<Dynasty> allDynasties = dynastyCollection.getDynasties();
-    
+
     @FXML
     private TableColumn<Dynasty, String> colFDescription;
 
@@ -40,7 +33,7 @@ public class DynastyController {
 
     @FXML
     void initialize() {
-        totalNum.setText(Integer.toString(allDynasties.size()));
+        totalNum.setText(Integer.toString(App.dynasties.size()));
 
         colFDescription.setCellValueFactory(
             new PropertyValueFactory<Dynasty, String>("overview")
@@ -49,7 +42,7 @@ public class DynastyController {
             new PropertyValueFactory<Dynasty, String>("label")
         );
 
-        tblFigure.setItems(allDynasties);
+        tblFigure.setItems(App.dynasties);
 
         tblFigure.setRowFactory(tableView -> {
             TableRow<Dynasty> row = new TableRow<>();
@@ -57,7 +50,7 @@ public class DynastyController {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
                     Dynasty dynasty = row.getItem();
                     try {
-                        App.setRootWithObject("DynastyDetailsScene", dynasty);
+                        App.setRootWithObject("dynasty/DynastyDetailsScene", dynasty);
                     } catch (IOException e){
                         e.printStackTrace();
                     }

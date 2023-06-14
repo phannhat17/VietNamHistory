@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.figure.FiguresDetailsController">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+        <menus>
+          <Menu mnemonicParsing="false" text="About">
+               <items>
+                  <MenuItem mnemonicParsing="false" onAction="#aboutClick" text="About" />
+               </items></Menu>
+        </menus>
+      </MenuBar>
+   </top>
+   <left>
+        <fx:include fx:id="sideBar" source="../Sidebar.fxml" />
+    </left>
+   <center>
+      <VBox>
+         <children>
+            <Label fx:id="lbName" alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="1159.0" text="Name" textAlignment="CENTER" VBox.vgrow="ALWAYS">
+               <font>
+                  <Font name="System Bold" size="23.0" />
+               </font>
+               <VBox.margin>
+                  <Insets bottom="5.0" left="10.0" right="10.0" top="10.0" />
+               </VBox.margin>
+            </Label>
+            <StackPane prefWidth="340.0">
+               <children>
+                  <Text fx:id="tOver" blendMode="SRC_ATOP" smooth="false" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" textAlignment="CENTER" textOrigin="CENTER" wrappingWidth="988.515625">
+                     <font>
+                        <Font size="15.0" />
+                     </font>
+                     <StackPane.margin>
+                        <Insets bottom="10.0" />
+                     </StackPane.margin>
+                  </Text>
+               </children>
+            </StackPane>
+            <ScrollPane fx:id="scrollPane" prefHeight="472.0" prefWidth="610.0" BorderPane.alignment="CENTER" VBox.vgrow="ALWAYS">
+               <content>
+               </content>
+            </ScrollPane>
+            <ButtonBar prefHeight="40.0" prefWidth="200.0">
+              <buttons>
+                <Button fx:id="btnBack" mnemonicParsing="false" onAction="#btnBackClick" prefHeight="30.0" prefWidth="112.0" style="-fx-background-color: #5d8d87;" text="TRỞ LẠI" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="14.0" />
+                     </font>
+                  </Button>
+              </buttons>
+               <VBox.margin>
+                  <Insets bottom="20.0" right="40.0" top="20.0" />
+               </VBox.margin>
+            </ButtonBar>
+         </children>
+      </VBox>
+   </center>
+</BorderPane>

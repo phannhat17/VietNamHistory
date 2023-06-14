@@ -1,6 +1,9 @@
 package com.vietnam.history;
 
+import com.vietnam.history.model.*;
+import com.vietnam.history.model.loader.*;
 import javafx.application.Application;
+import javafx.collections.ObservableList;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
@@ -10,6 +13,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
+import java.util.Objects;
 
 /**
  * Start GUI App
@@ -17,6 +21,11 @@ import java.lang.reflect.Method;
 public class App extends Application {
 
     private static Scene scene;
+    public static ObservableList<Dynasty> dynasties = new DynastyLoader().loadData();
+    public static ObservableList<Figure> figures = new FigureLoader().loadData();
+    public static ObservableList<HistoryEvent> historyEvents = new EventLoader().loadData();
+    public static ObservableList<Festival> festivals = new FestivalLoader().loadData();
+    public static ObservableList<Place> places = new PlaceLoader().loadData();
 
     public static void main(String[] args) {
         launch();
@@ -26,7 +35,7 @@ public class App extends Application {
     public void start(Stage stage) throws IOException {
         scene = new Scene(loadFXML("StartScene"));
         stage.setScene(scene);
-        Image icon = new Image(getClass().getResourceAsStream("images/icon.png"));
+        Image icon = new Image(Objects.requireNonNull(getClass().getResourceAsStream("images/icon.png")));
         stage.getIcons().add(icon);
         stage.setTitle("Tra cứu lịch sử Việt Nam");
         stage.show();
@@ -45,7 +54,7 @@ public class App extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
         Stage stage = new Stage();
-        Image icon = new Image(App.class.getResourceAsStream("images/icon.png"));
+        Image icon = new Image(Objects.requireNonNull(App.class.getResourceAsStream("images/icon.png")));
         stage.getIcons().add(icon);
         stage.setScene(new Scene(root));
         stage.setTitle("About");
@@ -59,7 +68,7 @@ public class App extends Application {
         Object controller = fxmlLoader.getController();
 
         Class<?> objectClass = object.getClass();
-        Method setMethod = null;
+        Method setMethod;
         try {
             setMethod = controller.getClass().getMethod("setData", objectClass);
             setMethod.invoke(controller, object);

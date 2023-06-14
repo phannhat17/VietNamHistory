@@ -1,12 +1,7 @@
-package com.vietnam.history.controller;
-
-import java.io.IOException;
+package com.vietnam.history.controller.festival;
 
 import com.vietnam.history.App;
-import com.vietnam.history.model.Figure;
-import com.vietnam.history.model.collect.FigureCollection;
-
-import javafx.collections.ObservableList;
+import com.vietnam.history.model.Festival;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
@@ -15,19 +10,18 @@ import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
 import javafx.scene.control.cell.PropertyValueFactory;
 
-public class FiguresController {
+import java.io.IOException;
 
-    private FigureCollection figureCollection = new FigureCollection();
-    private ObservableList<Figure> allFigures = figureCollection.getFigures();
-
-    @FXML
-    private TableColumn<Figure, String> colFDescription;
+public class FestivalController {
 
     @FXML
-    private TableColumn<Figure, String> colFName;
+    private TableColumn<Festival, String> colFDescription;
 
     @FXML
-    private TableView<Figure> tblFigure;
+    private TableColumn<Festival, String> colFName;
+
+    @FXML
+    private TableView<Festival> tblFigure;
 
     @FXML
     private Label totalNum;
@@ -39,23 +33,23 @@ public class FiguresController {
 
     @FXML
     void initialize() {
-        totalNum.setText(Integer.toString(allFigures.size()));
+        totalNum.setText(Integer.toString(App.festivals.size()));
 
         colFDescription.setCellValueFactory(
-            new PropertyValueFactory<Figure, String>("overview")
+            new PropertyValueFactory<Festival, String>("overview")
         );
         colFName.setCellValueFactory(
-            new PropertyValueFactory<Figure, String>("label")
+            new PropertyValueFactory<Festival, String>("label")
         );
 
-        tblFigure.setItems(allFigures);
+        tblFigure.setItems(App.festivals);
         tblFigure.setRowFactory(tableView -> {
-            TableRow<Figure> row = new TableRow<>();
+            TableRow<Festival> row = new TableRow<>();
             row.setOnMouseClicked(event -> {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
-                    Figure figure = row.getItem();
+                    Festival festival = row.getItem();
                     try {
-                        App.setRootWithObject("FiguresDetailsScene", figure);
+                        App.setRootWithObject("festival/FestivalDetailsScene", festival);
                     } catch (IOException e){
                         e.printStackTrace();
                     }

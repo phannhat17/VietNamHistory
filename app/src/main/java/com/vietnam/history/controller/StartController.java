@@ -1,11 +1,10 @@
 package com.vietnam.history.controller;
 
-import java.io.IOException;
-
 import com.vietnam.history.App;
-
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+
+import java.io.IOException;
 
 public class StartController {
     @FXML

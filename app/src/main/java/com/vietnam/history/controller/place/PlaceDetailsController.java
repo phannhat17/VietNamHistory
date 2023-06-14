@@ -1,12 +1,7 @@
-package com.vietnam.history.controller;
-
-import java.io.IOException;
-import java.util.List;
-import java.util.Map;
+package com.vietnam.history.controller.place;
 
 import com.vietnam.history.App;
-import com.vietnam.history.model.Dynasty;
-
+import com.vietnam.history.model.Place;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -16,18 +11,21 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
 
-public class DynastyDetailsController {
+import java.io.IOException;
+import java.util.List;
+import java.util.Map;
+
+public class PlaceDetailsController {
 
     @FXML
     private Button btnBack;
 
     @FXML
     private Label lbName;
-    @FXML
-    private Label lbName1;
 
     @FXML
     private Text tOver;
+    
     @FXML
     private ScrollPane scrollPane;
 
@@ -40,18 +38,19 @@ public class DynastyDetailsController {
 
     @FXML
     void btnBackClick(ActionEvent event) throws IOException {
-        App.setRoot("DynastyScene");
+        App.setRoot("place/PlaceScene");
     }
 
-    public void setData(Dynasty dynasty) {
+    public void setData(Place place) {
 
-        lbName.setText(dynasty.getLabel());
-        tOver.setText(dynasty.getOverview());
+        lbName.setText(place.getLabel());
+        tOver.setText(place.getOverview());
+        
         // Create a VBox to contain the HBox containers
         claimsContainer = new VBox();
         scrollPane.setContent(claimsContainer);
 
-        Map<String, Object> claims = dynasty.getClaims();
+        Map<String, Object> claims = place.getClaims();
 
         for (Map.Entry<String, Object> entry : claims.entrySet()) {
             String key = entry.getKey();
@@ -62,11 +61,11 @@ public class DynastyDetailsController {
 
             // Create a label to display the key
             Label keyLabel = new Label(key + ":");
-            keyLabel.setStyle("-fx-font-size: 14px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
+            keyLabel.setStyle("-fx-font-size: 16px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
 
             // Create a text node to display the value string
             Text valueText = new Text(valueString);
-            valueText.setStyle("-fx-font-size: 14px;");
+            valueText.setStyle("-fx-font-size: 16px;");
 
             // Create an HBox container to hold the label and text nodes
             HBox keyValuePair = new HBox();
@@ -111,6 +110,5 @@ public class DynastyDetailsController {
             return value.toString();
         }
     }
-
 
 }

@@ -1,12 +1,7 @@
-package com.vietnam.history.controller;
-
-import java.io.IOException;
-import java.util.List;
-import java.util.Map;
+package com.vietnam.history.controller.festival;
 
 import com.vietnam.history.App;
-import com.vietnam.history.model.Figure;
-
+import com.vietnam.history.model.Festival;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -16,7 +11,11 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.scene.text.Text;
 
-public class FiguresDetailsController {
+import java.io.IOException;
+import java.util.List;
+import java.util.Map;
+
+public class FestivalDetailsController {
 
     @FXML
     private Button btnBack;
@@ -39,19 +38,19 @@ public class FiguresDetailsController {
 
     @FXML
     void btnBackClick(ActionEvent event) throws IOException {
-        App.setRoot("FiguresScene");
+        App.setRoot("festival/FestivalScene");
     }
 
-    public void setData(Figure dynasty) {
+    public void setData(Festival festival) {
 
-        lbName.setText(dynasty.getLabel());
-        tOver.setText(dynasty.getOverview());
+        lbName.setText(festival.getLabel());
+        tOver.setText(festival.getOverview());
         
         // Create a VBox to contain the HBox containers
         claimsContainer = new VBox();
         scrollPane.setContent(claimsContainer);
 
-        Map<String, Object> claims = dynasty.getClaims();
+        Map<String, Object> claims = festival.getClaims();
 
         for (Map.Entry<String, Object> entry : claims.entrySet()) {
             String key = entry.getKey();

@@ -5,7 +5,6 @@
 <?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.text.Font?>
-
 <HBox xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.SearchController">
    <children>
       <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="25.0" prefWidth="90.0" text="Tìm kiếm">

@@ -1,12 +1,12 @@
 package com.vietnam.history.controller;
 
+import com.vietnam.history.App;
+import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
+
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
-
-import javafx.event.ActionEvent;
-import javafx.fxml.FXML;
-import com.vietnam.history.App;
 
 /**
  * Controller for the Sidebar
@@ -28,29 +28,30 @@ public class SidebarController {
     @FXML
     void switchToDynasty(ActionEvent event) throws IOException {
         // Return to Dynasty scene
-        App.setRoot("DynastyScene");
+        App.setRoot("dynasty/DynastyScene");
     }
 
     @FXML
     void switchToEvent(ActionEvent event) throws IOException {
         // Return to Event scene
-        App.setRoot("EventScene");
+        App.setRoot("event/EventScene");
     }
 
     @FXML
     void switchToFestival(ActionEvent event) throws IOException {
         // Return to Festival scene
-        App.setRoot("FestivalScene");
+        App.setRoot("festival/FestivalScene");
+    }
+
+    @FXML
+    void switchToPlace(ActionEvent event) throws IOException {
+        // Return to Place scene
+        App.setRoot("place/PlaceScene");
     }
 
     @FXML
     void switchToHistoricalFigures(ActionEvent event) throws IOException {
-        App.setRoot("FiguresScene");
-    }
-
-    @FXML
-    void initialize() {
-
+        App.setRoot("figure/FiguresScene");
     }
 
 }

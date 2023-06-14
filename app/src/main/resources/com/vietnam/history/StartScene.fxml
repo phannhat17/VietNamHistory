@@ -3,13 +3,10 @@
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.Menu?>
 <?import javafx.scene.control.MenuBar?>
-<?import javafx.scene.layout.BorderPane?>
-<?import javafx.scene.layout.StackPane?>
-<?import javafx.scene.layout.VBox?>
-<?import javafx.scene.text.Font?>
 <?import javafx.scene.control.MenuItem?>
-
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" stylesheets="@./stylesheet/Start.css"  xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.StartController">
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" stylesheets="@./stylesheet/Start.css" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.StartController">
    <top>
       <MenuBar BorderPane.alignment="CENTER">
         <menus>

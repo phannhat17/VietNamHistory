@@ -1,49 +1,56 @@
 package com.vietnam.history.model;
 
+import java.util.List;
+import java.util.Map;
+
 public abstract class HistoricalEntity {
-    private String name;
+    private String id;
+    private String label;
     private String overview;
+    private List<String> aliases;
+    private Map<String, Object> references;
+    private Map<String, Object> claims;
+    private String description;
 
     public HistoricalEntity() {
     }
 
-    public HistoricalEntity(String name, String overview) {
-        this.name = name;
+    public HistoricalEntity(String id, String label, String overview, List<String> aliases, Map<String, Object> references, Map<String, Object> claims, String description) {
+        this.id = id;
+        this.label = label;
         this.overview = overview;
+        this.aliases = aliases;
+        this.references = references;
+        this.claims = claims;
+        this.description = description;
     }
 
-    // Getters and setters
-
-    public String getName() {
-        return name;
+    public String getId() {
+        return id;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public String getLabel() {
+        return label;
     }
 
     public String getOverview() {
         return overview;
     }
 
-    public void setOverview(String overview) {
-        this.overview = overview;
+    public List<String> getAliases() {
+        return aliases;
     }
 
-    // Check for a string is in name or not
-    public boolean isStringInName(String searchName) {
-        if (name != null && searchName != null) {
-            return name.toLowerCase().contains(searchName.toLowerCase());
-        }
-        return false;
+    public Map<String, Object> getReferences() {
+        return references;
     }
-    
-    @Override
-    public String toString() {
-        return "HistoricalEntity{" +
-                "name='" + name + '\'' +
-                ", overview='" + overview + '\'' +
-                '}';
+
+    public Map<String, Object> getClaims() {
+        return claims;
+    }
+
+    public String getDescription() {
+        return description;
     }
 }
 
