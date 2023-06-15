@@ -44,13 +44,28 @@ public abstract class DetailScene<T extends HistoricalEntity> {
         scrollPane.setContent(claimsContainer);
 
         JsonNode claims = entity.getClaims();
-        processClaims(claims, claimsContainer);
+       JsonNode refs = entity.getReferences();
+
+        processData("THÔNG TIN", claims, claimsContainer);
+        processData("LIÊN QUAN", refs, claimsContainer);
     }
 
-    private void processClaims(JsonNode claimsNode, VBox vbox) {
-        Iterator<Map.Entry<String, JsonNode>> properties = claimsNode.fields();
+    private void processData(String type,JsonNode claimsNode, VBox vbox) {
+
         VBox claimsContainer = new VBox(); // Create a new VBox for the claimsContainer
 
+        Label claimsLabel = new Label(type);
+        claimsLabel.setStyle("-fx-font-size: 20px;-fx-padding: 10px 10px 10px 10px; -fx-font-weight: bold;-fx-text-fill: #4b867e");
+        claimsContainer.getChildren().add(claimsLabel);
+
+        if (claimsNode == null) {
+            Label nullLabel = new Label("Chưa có thông tin");
+            nullLabel.setStyle("-fx-font-size: 16px;-fx-padding: 10px 10px 0px 10px; -fx-font-weight: bold;-fx-text-fill: red");
+            claimsContainer.getChildren().add(nullLabel);
+            vbox.getChildren().add(claimsContainer);
+            return;
+        }
+        Iterator<Map.Entry<String, JsonNode>> properties = claimsNode.fields();
         while (properties.hasNext()) {
             Map.Entry<String, JsonNode> property = properties.next();
             String propertyName = StringUtils.capitalize(property.getKey());

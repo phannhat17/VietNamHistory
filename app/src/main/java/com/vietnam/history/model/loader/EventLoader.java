@@ -1,9 +1,9 @@
 package com.vietnam.history.model.loader;
 
 
-import com.vietnam.history.model.HistoryEvent;
+import com.vietnam.history.model.HistoricalEvent;
 
-public class EventLoader extends DataLoader<HistoryEvent>{
+public class EventLoader extends DataLoader<HistoricalEvent>{
     private static final String FOLDER_PATH = "src/data/event";
 
     public EventLoader() {
@@ -11,7 +11,7 @@ public class EventLoader extends DataLoader<HistoryEvent>{
     }
 
     @Override
-    protected Class<HistoryEvent> getType() {
-        return HistoryEvent.class;
+    protected Class<HistoricalEvent> getType() {
+        return HistoricalEvent.class;
     }
 }

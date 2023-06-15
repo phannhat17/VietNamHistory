@@ -5,7 +5,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.figure.FiguresDetailsController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.place.PlaceDetailsController">
    <top>
       <MenuBar BorderPane.alignment="CENTER">
         <menus>
@@ -17,7 +17,7 @@
       </MenuBar>
    </top>
    <left>
-        <fx:include fx:id="sideBar" source="../Sidebar.fxml" />
+        <fx:include fx:id="sideBar" source="SideBar.fxml" />
     </left>
    <center>
       <VBox>

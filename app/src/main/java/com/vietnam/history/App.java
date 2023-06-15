@@ -20,9 +20,11 @@ import java.util.Objects;
 public class App extends Application {
 
     private static Scene scene;
+
+    //    Load all data
     public static ObservableList<Dynasty> dynasties = new DynastyLoader().loadData();
     public static ObservableList<Figure> figures = new FigureLoader().loadData();
-    public static ObservableList<HistoryEvent> historyEvents = new EventLoader().loadData();
+    public static ObservableList<HistoricalEvent> historicalEvents = new EventLoader().loadData();
     public static ObservableList<Festival> festivals = new FestivalLoader().loadData();
     public static ObservableList<Place> places = new PlaceLoader().loadData();
 

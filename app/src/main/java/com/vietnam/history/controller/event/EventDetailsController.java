@@ -2,13 +2,13 @@ package com.vietnam.history.controller.event;
 
 import com.vietnam.history.App;
 import com.vietnam.history.controller.DetailScene;
-import com.vietnam.history.model.HistoryEvent;
+import com.vietnam.history.model.HistoricalEvent;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 
 import java.io.IOException;
 
-public class EventDetailsController extends DetailScene<HistoryEvent> {
+public class EventDetailsController extends DetailScene<HistoricalEvent> {
 
     @FXML
     void btnBackClick(ActionEvent event) throws IOException {
@@ -16,7 +16,7 @@ public class EventDetailsController extends DetailScene<HistoryEvent> {
     }
 
     @Override
-    public void setData(HistoryEvent historyEvent) {
-        super.setData(historyEvent);
+    public void setData(HistoricalEvent historicalEvent) {
+        super.setData(historicalEvent);
     }
 }

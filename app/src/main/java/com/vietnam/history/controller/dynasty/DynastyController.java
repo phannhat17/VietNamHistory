@@ -13,7 +13,6 @@ import javafx.scene.control.cell.PropertyValueFactory;
 import java.io.IOException;
 
 public class DynastyController {
-
     @FXML
     private TableColumn<Dynasty, String> colFDescription;
 
@@ -43,7 +42,6 @@ public class DynastyController {
         );
 
         tblFigure.setItems(App.dynasties);
-
         tblFigure.setRowFactory(tableView -> {
             TableRow<Dynasty> row = new TableRow<>();
             row.setOnMouseClicked(event -> {

@@ -1,7 +1,7 @@
 package com.vietnam.history.controller.event;
 
 import com.vietnam.history.App;
-import com.vietnam.history.model.HistoryEvent;
+import com.vietnam.history.model.HistoricalEvent;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
@@ -14,13 +14,13 @@ import java.io.IOException;
 
 public class EventController {
     @FXML
-    private TableColumn<HistoryEvent, String> colFDescription;
+    private TableColumn<HistoricalEvent, String> colFDescription;
 
     @FXML
-    private TableColumn<HistoryEvent, String> colFName;
+    private TableColumn<HistoricalEvent, String> colFName;
 
     @FXML
-    private TableView<HistoryEvent> tblFigure;
+    private TableView<HistoricalEvent> tblFigure;
 
     @FXML
     private Label totalNum;
@@ -32,23 +32,23 @@ public class EventController {
 
     @FXML
     void initialize() {
-        totalNum.setText(Integer.toString(App.historyEvents.size()));
+        totalNum.setText(Integer.toString(App.historicalEvents.size()));
 
         colFDescription.setCellValueFactory(
-            new PropertyValueFactory<HistoryEvent, String>("overview")
+            new PropertyValueFactory<HistoricalEvent, String>("overview")
         );
         colFName.setCellValueFactory(
-            new PropertyValueFactory<HistoryEvent, String>("label")
+            new PropertyValueFactory<HistoricalEvent, String>("label")
         );
 
-        tblFigure.setItems(App.historyEvents);
+        tblFigure.setItems(App.historicalEvents);
         tblFigure.setRowFactory(tableView -> {
-            TableRow<HistoryEvent> row = new TableRow<>();
+            TableRow<HistoricalEvent> row = new TableRow<>();
             row.setOnMouseClicked(event -> {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
-                    HistoryEvent historyEvent = row.getItem();
+                    HistoricalEvent historicalEvent = row.getItem();
                     try {
-                        App.setRootWithEntity("event/EventDetailsScene", historyEvent);
+                        App.setRootWithEntity("event/EventDetailsScene", historicalEvent);
                     } catch (IOException e){
                         e.printStackTrace();
                     }
