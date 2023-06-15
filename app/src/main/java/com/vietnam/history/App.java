@@ -1,5 +1,6 @@
 package com.vietnam.history;
 
+import com.vietnam.history.controller.DetailScene;
 import com.vietnam.history.model.*;
 import com.vietnam.history.model.loader.*;
 import javafx.application.Application;
@@ -11,8 +12,6 @@ import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
 import java.io.IOException;
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
 import java.util.Objects;
 
 /**
@@ -62,20 +61,16 @@ public class App extends Application {
         stage.close();
     }
 
-    public static void setRootWithObject(String fxml, Object object) throws IOException {
+    public static void setRootWithEntity(String fxml, HistoricalEntity entity) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
         Object controller = fxmlLoader.getController();
 
-        Class<?> objectClass = object.getClass();
-        Method setMethod;
-        try {
-            setMethod = controller.getClass().getMethod("setData", objectClass);
-            setMethod.invoke(controller, object);
-        } catch (NoSuchMethodException | IllegalAccessException | InvocationTargetException e) {
-            e.printStackTrace();
+        if (controller instanceof DetailScene) {
+            DetailScene<HistoricalEntity> detailsController = (DetailScene<HistoricalEntity>) controller;
+            detailsController.setData(entity);
         }
+
         scene.setRoot(root);
     }
-
 }

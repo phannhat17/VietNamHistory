@@ -49,7 +49,7 @@ public class FiguresController {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
                     Figure figure = row.getItem();
                     try {
-                        App.setRootWithObject("figure/FiguresDetailsScene", figure);
+                        App.setRootWithEntity("figure/FiguresDetailsScene", figure);
                     } catch (IOException e){
                         e.printStackTrace();
                     }

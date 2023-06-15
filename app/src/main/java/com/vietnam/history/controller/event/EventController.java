@@ -48,7 +48,7 @@ public class EventController {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
                     HistoryEvent historyEvent = row.getItem();
                     try {
-                        App.setRootWithObject("event/EventDetailsScene", historyEvent);
+                        App.setRootWithEntity("event/EventDetailsScene", historyEvent);
                     } catch (IOException e){
                         e.printStackTrace();
                     }

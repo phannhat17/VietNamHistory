@@ -49,7 +49,7 @@ public class PlaceController {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
                     Place place = row.getItem();
                     try {
-                        App.setRootWithObject("place/PlaceDetailsScene", place);
+                        App.setRootWithEntity("place/PlaceDetailsScene", place);
                     } catch (IOException e){
                         e.printStackTrace();
                     }

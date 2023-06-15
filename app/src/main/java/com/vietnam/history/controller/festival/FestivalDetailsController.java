@@ -8,6 +8,8 @@ import javafx.fxml.FXML;
 
 import java.io.IOException;
 
+;
+
 public class FestivalDetailsController extends DetailScene<Festival> {
 
     @FXML

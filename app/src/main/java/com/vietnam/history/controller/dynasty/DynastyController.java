@@ -50,7 +50,7 @@ public class DynastyController {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
                     Dynasty dynasty = row.getItem();
                     try {
-                        App.setRootWithObject("dynasty/DynastyDetailsScene", dynasty);
+                        App.setRootWithEntity("dynasty/DynastyDetailsScene", dynasty);
                     } catch (IOException e){
                         e.printStackTrace();
                     }

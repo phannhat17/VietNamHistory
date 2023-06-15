@@ -49,7 +49,7 @@ public class FestivalController {
                 if(event.getClickCount() == 2 && (!row.isEmpty())){
                     Festival festival = row.getItem();
                     try {
-                        App.setRootWithObject("festival/FestivalDetailsScene", festival);
+                        App.setRootWithEntity("festival/FestivalDetailsScene", festival);
                     } catch (IOException e){
                         e.printStackTrace();
                     }
