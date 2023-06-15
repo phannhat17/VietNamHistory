@@ -2,14 +2,16 @@ package com.vietnam.history.controller;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.vietnam.history.App;
-import com.vietnam.history.model.HistoricalEntity;
+import com.vietnam.history.model.*;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
+import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
+import javafx.scene.text.TextFlow;
 import org.apache.commons.lang3.StringUtils;
 
 import java.io.IOException;
@@ -50,7 +52,7 @@ public abstract class DetailScene<T extends HistoricalEntity> {
         processData("LIÊN QUAN", refs, claimsContainer);
     }
 
-    private void processData(String type,JsonNode claimsNode, VBox vbox) {
+    private void processData(String type, JsonNode claimsNode, VBox vbox) {
 
         VBox claimsContainer = new VBox(); // Create a new VBox for the claimsContainer
 
@@ -70,59 +72,85 @@ public abstract class DetailScene<T extends HistoricalEntity> {
             Map.Entry<String, JsonNode> property = properties.next();
             String propertyName = StringUtils.capitalize(property.getKey());
             Label keyLabel = new Label(propertyName + ":");
-            keyLabel.setPrefWidth(200);
+            keyLabel.setPrefWidth(250);
             keyLabel.setWrapText(true);
             keyLabel.setStyle("-fx-font-size: 16px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
 
             JsonNode propertyArr = property.getValue();
-            StringBuilder sb = new StringBuilder(); // Use StringBuilder for efficient string concatenation
+
+            TextFlow valueTextFlow = new TextFlow(); // Use TextFlow to allow for styling individual Text nodes
 
             int count = 0;
             for (JsonNode propertyDetail : propertyArr) {
                 if (count > 0) {
-                    sb.append(", \n");
+                    valueTextFlow.getChildren().add(new Text(", \n"));
                 }
+
                 String value = propertyDetail.get("value").asText();
-                sb.append(value);
+                Text valueText = new Text(value);
+                if (propertyDetail.get("id")!= null) {
+                    valueText.setFill(Color.web("#3498db"));
+                    valueText.setOnMouseClicked(mouseEvent -> {
+                        String id = propertyDetail.get("id").asText();
+                        HistoricalEntity obj = getObjectById(id);
+                        try {
+                            App.setRootWithEntity("ReferenceDetail", obj);
+                        } catch (IOException e) {
+                            throw new RuntimeException(e);
+                        }
+                    });
+                }
+                valueTextFlow.getChildren().add(valueText);
 
                 if (propertyDetail.has("qualifiers")) {
-                    sb.append("(");
+                    valueTextFlow.getChildren().add(new Text("("));
                     JsonNode qualifiersObj = propertyDetail.get("qualifiers");
                     Iterator<Map.Entry<String, JsonNode>> qualifierKeys = qualifiersObj.fields();
 
-                    StringBuilder qualifierSB = new StringBuilder(); // Use StringBuilder for efficient string concatenation
+                    TextFlow qualifierTextFlow = new TextFlow(); // Use TextFlow to allow for styling individual Text nodes within qualifiers
 
                     int subCount = 0;
                     while (qualifierKeys.hasNext()) {
                         if (subCount != 0) {
-                            qualifierSB.append(", \n");
+                            qualifierTextFlow.getChildren().add(new Text(", \n"));
                         }
                         Map.Entry<String, JsonNode> qualifierProperty = qualifierKeys.next();
                         String qualifierPropertyName = qualifierProperty.getKey();
-                        qualifierSB.append(qualifierPropertyName).append(": ");
+                        qualifierTextFlow.getChildren().add(new Text(qualifierPropertyName + ": "));
                         JsonNode qualifierPropertyArr = qualifierProperty.getValue();
                         int subSubCount = 0;
                         for (JsonNode ele : qualifierPropertyArr) {
                             if (subSubCount != 0) {
-                                qualifierSB.append(", \n");
+                                qualifierTextFlow.getChildren().add(new Text(", \n"));
                             }
                             String subQualifierPropertyValue = ele.get("value").asText();
-                            qualifierSB.append(subQualifierPropertyValue);
+                            Text subQualifierPropertyValueText = new Text(subQualifierPropertyValue);
+                            if (ele.get("id")!=null) {
+                                subQualifierPropertyValueText.setFill(Color.web("#3498db"));
+                                subQualifierPropertyValueText.setOnMouseClicked(mouseEvent -> {
+                                    String id = ele.get("id").asText();
+                                    HistoricalEntity obj = getObjectById(id);
+                                    try {
+                                        App.setRootWithEntity("ReferenceDetail", obj);
+                                    } catch (IOException e) {
+                                        throw new RuntimeException(e);
+                                    }
+                                });
+                            }
+                            qualifierTextFlow.getChildren().add(subQualifierPropertyValueText);
                             subSubCount++;
                         }
                         subCount++;
                     }
-                    sb.append(qualifierSB.toString()); // Append the qualifiers string
-                    sb.append(")");
+                    valueTextFlow.getChildren().add(qualifierTextFlow); // Add the qualifierTextFlow TextFlow to the valueTextFlow TextFlow
+                    valueTextFlow.getChildren().add(new Text(")"));
                 }
                 count++;
             }
 
-            Text valueText = new Text(sb.toString());
-            valueText.setStyle("-fx-font-size: 16px;");
-
+            valueTextFlow.setStyle("-fx-font-size: 16px;");
             HBox keyValuePair = new HBox();
-            keyValuePair.getChildren().addAll(keyLabel, valueText);
+            keyValuePair.getChildren().addAll(keyLabel, valueTextFlow);
             keyValuePair.setStyle("-fx-padding: 10px 0px 0px 10px");
             // Add the key-value pair HBox container to the VBox container
             claimsContainer.getChildren().add(keyValuePair);
@@ -130,4 +158,35 @@ public abstract class DetailScene<T extends HistoricalEntity> {
 
         vbox.getChildren().add(claimsContainer); // Add the claimsContainer VBox to the main VBox (vbox)
     }
+
+    private HistoricalEntity getObjectById(String id) {
+        // Search through the appropriate list of objects for the object with the matching id
+        for (Dynasty dynasty : App.dynasties) {
+            if (dynasty.getId().equals(id)) {
+                return dynasty;
+            }
+        }
+        for (Figure figure : App.figures) {
+            if (figure.getId().equals(id)) {
+                return figure;
+            }
+        }
+        for (HistoricalEvent event : App.historicalEvents) {
+            if (event.getId().equals(id)) {
+                return event;
+            }
+        }
+        for (Festival festival : App.festivals) {
+            if (festival.getId().equals(id)) {
+                return festival;
+            }
+        }
+        for (Place place : App.places) {
+            if (place.getId().equals(id)) {
+                return place;
+            }
+        }
+        return null; // Object with the given id not found
+    }
+
 }
