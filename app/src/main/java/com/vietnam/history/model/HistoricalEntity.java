@@ -1,21 +1,23 @@
 package com.vietnam.history.model;
 
+import com.fasterxml.jackson.databind.JsonNode;
+
 import java.util.List;
-import java.util.Map;
+
 
 public abstract class HistoricalEntity {
     private String id;
     private String label;
     private String overview;
     private List<String> aliases;
-    private Map<String, Object> references;
-    private Map<String, Object> claims;
+    private JsonNode references;
+    private JsonNode claims;
     private String description;
 
     public HistoricalEntity() {
     }
 
-    public HistoricalEntity(String id, String label, String overview, List<String> aliases, Map<String, Object> references, Map<String, Object> claims, String description) {
+    public HistoricalEntity(String id, String label, String overview, List<String> aliases, JsonNode references, JsonNode claims, String description) {
         this.id = id;
         this.label = label;
         this.overview = overview;
@@ -41,11 +43,11 @@ public abstract class HistoricalEntity {
         return aliases;
     }
 
-    public Map<String, Object> getReferences() {
+    public JsonNode getReferences() {
         return references;
     }
 
-    public Map<String, Object> getClaims() {
+    public JsonNode getClaims() {
         return claims;
     }
 

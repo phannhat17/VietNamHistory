@@ -3,6 +3,7 @@ module com.vietnam.history {
     requires javafx.fxml;
     requires transitive javafx.graphics;
     requires com.fasterxml.jackson.databind;
+    requires org.apache.commons.lang3;
 
     opens com.vietnam.history.controller to javafx.fxml;
     opens com.vietnam.history.controller.dynasty to javafx.fxml;
