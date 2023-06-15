@@ -55,6 +55,8 @@ public abstract class DetailScene<T extends HistoricalEntity> {
             Map.Entry<String, JsonNode> property = properties.next();
             String propertyName = StringUtils.capitalize(property.getKey());
             Label keyLabel = new Label(propertyName + ":");
+            keyLabel.setPrefWidth(200);
+            keyLabel.setWrapText(true);
             keyLabel.setStyle("-fx-font-size: 16px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
 
             JsonNode propertyArr = property.getValue();
@@ -63,10 +65,10 @@ public abstract class DetailScene<T extends HistoricalEntity> {
             int count = 0;
             for (JsonNode propertyDetail : propertyArr) {
                 if (count > 0) {
-                    sb.append(", ");
+                    sb.append(", \n");
                 }
                 String value = propertyDetail.get("value").asText();
-                sb.append(value).append(" ");
+                sb.append(value);
 
                 if (propertyDetail.has("qualifiers")) {
                     sb.append("(");
@@ -78,7 +80,7 @@ public abstract class DetailScene<T extends HistoricalEntity> {
                     int subCount = 0;
                     while (qualifierKeys.hasNext()) {
                         if (subCount != 0) {
-                            qualifierSB.append(", ");
+                            qualifierSB.append(", \n");
                         }
                         Map.Entry<String, JsonNode> qualifierProperty = qualifierKeys.next();
                         String qualifierPropertyName = qualifierProperty.getKey();
@@ -87,7 +89,7 @@ public abstract class DetailScene<T extends HistoricalEntity> {
                         int subSubCount = 0;
                         for (JsonNode ele : qualifierPropertyArr) {
                             if (subSubCount != 0) {
-                                qualifierSB.append(", ");
+                                qualifierSB.append(", \n");
                             }
                             String subQualifierPropertyValue = ele.get("value").asText();
                             qualifierSB.append(subQualifierPropertyValue);
