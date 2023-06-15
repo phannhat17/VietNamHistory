@@ -27,8 +27,7 @@ public class App extends Application {
     public static ObservableList<HistoricalEvent> historicalEvents = new EventLoader().loadData();
     public static ObservableList<Festival> festivals = new FestivalLoader().loadData();
     public static ObservableList<Place> places = new PlaceLoader().loadData();
-
-    public static void main(String[] args) {
+     static void main(String[] args) {
         launch();
     }
 

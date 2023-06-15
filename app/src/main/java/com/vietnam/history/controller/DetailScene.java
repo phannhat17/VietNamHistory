@@ -16,6 +16,7 @@ import org.apache.commons.lang3.StringUtils;
 
 import java.io.IOException;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Map;
 
 public abstract class DetailScene<T extends HistoricalEntity> {
@@ -46,19 +47,53 @@ public abstract class DetailScene<T extends HistoricalEntity> {
         scrollPane.setContent(claimsContainer);
 
         JsonNode claims = entity.getClaims();
-       JsonNode refs = entity.getReferences();
+        JsonNode refs = entity.getReferences();
 
-        processData("THÔNG TIN", claims, claimsContainer);
+        processData("THÔNG TIN", claims, claimsContainer, entity);
         processData("LIÊN QUAN", refs, claimsContainer);
     }
 
+
     private void processData(String type, JsonNode claimsNode, VBox vbox) {
+        processData(type, claimsNode, vbox, null);
+    }
+    private void processData(String type, JsonNode claimsNode, VBox vbox, T entity) {
 
         VBox claimsContainer = new VBox(); // Create a new VBox for the claimsContainer
 
-        Label claimsLabel = new Label(type);
-        claimsLabel.setStyle("-fx-font-size: 20px;-fx-padding: 10px 10px 10px 10px; -fx-font-weight: bold;-fx-text-fill: #4b867e");
-        claimsContainer.getChildren().add(claimsLabel);
+        if (type != null) {
+            Label claimsLabel = new Label(type);
+            claimsLabel.setStyle("-fx-font-size: 20px;-fx-padding: 10px 10px 10px 10px; -fx-font-weight: bold;-fx-text-fill: #4b867e");
+            claimsContainer.getChildren().add(claimsLabel);
+        }
+
+        if (entity != null) {
+            // Add the "Mô tả" label with the description text
+            Label descriptionLabel = new Label("Mô tả:");
+            descriptionLabel.setPrefWidth(250);
+            descriptionLabel.setWrapText(true);
+            descriptionLabel.setStyle("-fx-font-size: 16px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
+            Text descriptionText = new Text(entity.getDescription());
+            descriptionText.setStyle("-fx-font-size: 16px;");
+            HBox descriptionH = new HBox();
+            descriptionH.getChildren().addAll(descriptionLabel, descriptionText);
+            descriptionH.setStyle("-fx-padding: 10px 0px 0px 10px");
+            claimsContainer.getChildren().add(descriptionH);
+
+            // Add the "Biệt danh" label with the alias text
+            Label aliasLabel = new Label("Biệt danh:");
+            aliasLabel.setPrefWidth(250);
+            aliasLabel.setWrapText(true);
+            aliasLabel.setStyle("-fx-font-size: 16px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
+            List<String> aliases = entity.getAliases();
+            String aliasTextString = String.join(", \n", aliases); // Join the aliases with commas
+            Text aliasText = new Text(aliasTextString);
+            aliasText.setStyle("-fx-font-size: 16px;");
+            HBox aliasH = new HBox();
+            aliasH.getChildren().addAll(aliasLabel, aliasText);
+            aliasH.setStyle("-fx-padding: 10px 0px 0px 10px");
+            claimsContainer.getChildren().add(aliasH);
+        }
 
         if (claimsNode == null) {
             Label nullLabel = new Label("Chưa có thông tin");
