@@ -68,19 +68,19 @@ public abstract class DetailScene<T extends HistoricalEntity> {
         }
 
         if (entity != null) {
-            // Add the "Mô tả" label with the description text
+            // Add the description text
             Label descriptionLabel = new Label("Mô tả:");
             descriptionLabel.setPrefWidth(250);
             descriptionLabel.setWrapText(true);
             descriptionLabel.setStyle("-fx-font-size: 16px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
             Text descriptionText = new Text(entity.getDescription());
+            descriptionText.setWrappingWidth(700);
             descriptionText.setStyle("-fx-font-size: 16px;");
             HBox descriptionH = new HBox();
             descriptionH.getChildren().addAll(descriptionLabel, descriptionText);
             descriptionH.setStyle("-fx-padding: 10px 0px 0px 10px");
             claimsContainer.getChildren().add(descriptionH);
 
-            // Add the "Biệt danh" label with the alias text
             Label aliasLabel = new Label("Biệt danh:");
             aliasLabel.setPrefWidth(250);
             aliasLabel.setWrapText(true);
@@ -124,6 +124,7 @@ public abstract class DetailScene<T extends HistoricalEntity> {
                 String value = propertyDetail.get("value").asText();
                 Text valueText = new Text(value);
                 if (propertyDetail.get("id")!= null) {
+                    valueText.setStyle("-fx-underline: true;");
                     valueText.setFill(Color.web("#3498db"));
                     valueText.setOnMouseClicked(mouseEvent -> {
                         String id = propertyDetail.get("id").asText();
@@ -138,7 +139,7 @@ public abstract class DetailScene<T extends HistoricalEntity> {
                 valueTextFlow.getChildren().add(valueText);
 
                 if (propertyDetail.has("qualifiers")) {
-                    valueTextFlow.getChildren().add(new Text("("));
+                    valueTextFlow.getChildren().add(new Text(" ("));
                     JsonNode qualifiersObj = propertyDetail.get("qualifiers");
                     Iterator<Map.Entry<String, JsonNode>> qualifierKeys = qualifiersObj.fields();
 
@@ -160,25 +161,13 @@ public abstract class DetailScene<T extends HistoricalEntity> {
                             }
                             String subQualifierPropertyValue = ele.get("value").asText();
                             Text subQualifierPropertyValueText = new Text(subQualifierPropertyValue);
-                            if (ele.get("id")!=null) {
-                                subQualifierPropertyValueText.setFill(Color.web("#3498db"));
-                                subQualifierPropertyValueText.setOnMouseClicked(mouseEvent -> {
-                                    String id = ele.get("id").asText();
-                                    HistoricalEntity obj = getObjectById(id);
-                                    try {
-                                        App.setRootWithEntity("ReferenceDetail", obj);
-                                    } catch (IOException e) {
-                                        throw new RuntimeException(e);
-                                    }
-                                });
-                            }
                             qualifierTextFlow.getChildren().add(subQualifierPropertyValueText);
                             subSubCount++;
                         }
                         subCount++;
                     }
+                    qualifierTextFlow.getChildren().add(new Text(")"));
                     valueTextFlow.getChildren().add(qualifierTextFlow); // Add the qualifierTextFlow TextFlow to the valueTextFlow TextFlow
-                    valueTextFlow.getChildren().add(new Text(")"));
                 }
                 count++;
             }
@@ -221,7 +210,7 @@ public abstract class DetailScene<T extends HistoricalEntity> {
                 return place;
             }
         }
-        return null; // Object with the given id not found
+        return null;
     }
 
 }
