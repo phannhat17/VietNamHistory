@@ -33,14 +33,9 @@ public class PlaceController {
     void aboutClick(ActionEvent event) throws IOException {
         App.openAbout("About");
     }
-    @FXML
-    private SearchController searchController;
-
 
     @FXML
     void initialize() {
-
-        searchController.healthCheck("aaaaaaaaaa");
 
         totalNum.setText(Integer.toString(App.places.size()));
         tblFigure.setItems(App.places);
