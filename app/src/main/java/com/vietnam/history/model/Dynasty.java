@@ -4,6 +4,9 @@ import com.fasterxml.jackson.databind.JsonNode;
 
 import java.util.List;
 
+/**
+ * Represents a historical dynasty, such as a ruling family or dynasty.
+ */
 public class Dynasty extends HistoricalEntity{
     public Dynasty() {
     }

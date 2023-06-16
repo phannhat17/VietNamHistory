@@ -4,6 +4,9 @@ import com.fasterxml.jackson.databind.JsonNode;
 
 import java.util.List;
 
+/**
+ * Represents a historical event, such as a war, revolution, treaty, or ceremony.
+ */
 public class HistoricalEvent extends HistoricalEntity{
     public HistoricalEvent() {
     }

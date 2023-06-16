@@ -11,13 +11,28 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
+/**
+ * A base class for loading data from JSON files.
+ *
+ * @param <T> the type of object to load
+ */
 public abstract class DataLoader<T> {
     private final String folderPath;
 
+    /**
+     * Constructs a new {@code DataLoader} with the specified folder path.
+     *
+     * @param folderPath the path to the folder containing the JSON files
+     */
     public DataLoader(String folderPath) {
         this.folderPath = folderPath;
     }
 
+    /**
+     * Loads the data from the JSON files and returns an observable list of objects.
+     *
+     * @return an observable list of objects
+     */
     public ObservableList<T> loadData() {
         ObservableList<T> list = FXCollections.observableArrayList();
 
@@ -48,5 +63,10 @@ public abstract class DataLoader<T> {
         return list;
     }
 
+    /**
+     * Returns the class of the objects to load.
+     *
+     * @return the class of the objects to load
+     */
     protected abstract Class<T> getType();
 }

@@ -5,6 +5,7 @@ import com.vietnam.history.App;
 import com.vietnam.history.model.*;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
+import javafx.scene.Cursor;
 import javafx.scene.control.Label;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.HBox;
@@ -35,10 +36,18 @@ public abstract class DetailScene<T extends HistoricalEntity> {
 
     @FXML
     void aboutClick(ActionEvent event) throws IOException {
+        // Open the "About" page
         App.openAbout("About");
     }
 
+    /**
+     * Set the data of the detail scene with the given entity.
+     *
+     * @param entity the entity to display the data for
+     */
     public void setData(T entity) {
+
+        // Set the name and overview text
         lbName.setText(entity.getLabel());
         tOver.setText(entity.getOverview());
 
@@ -46,6 +55,7 @@ public abstract class DetailScene<T extends HistoricalEntity> {
         claimsContainer = new VBox();
         scrollPane.setContent(claimsContainer);
 
+        // Process information and references
         JsonNode claims = entity.getClaims();
         JsonNode refs = entity.getReferences();
 
@@ -53,24 +63,41 @@ public abstract class DetailScene<T extends HistoricalEntity> {
         processData("LIÊN QUAN", refs, claimsContainer);
     }
 
-
-    private void processData(String type, JsonNode claimsNode, VBox vbox) {
-        processData(type, claimsNode, vbox, null);
+    /**
+     * Processes and displays data of a given type in a VBox container.
+     *
+     * @param type          the type of data (either "information" or "reference")
+     * @param jsonNode      the JSON node containing the data
+     * @param vbox          the VBox container to display the processed data
+     */
+    private void processData(String type, JsonNode jsonNode, VBox vbox) {
+        processData(type, jsonNode, vbox, null);
     }
-    private void processData(String type, JsonNode claimsNode, VBox vbox, T entity) {
+
+    /**
+     * Processes and displays data of a given type and entity in a VBox container.
+     *
+     * @param type          the type of data (either "information" or "reference")
+     * @param jsonNode      the JSON node containing the data
+     * @param vbox          the VBox container to display the processed data
+     * @param entity        the entity associated with the data (optional)
+     */
+    private void processData(String type, JsonNode jsonNode, VBox vbox, T entity) {
 
         VBox claimsContainer = new VBox(); // Create a new VBox for the claimsContainer
 
+        // Label for "THÔNG TIN" or "LIÊN QUAN"
         if (type != null) {
             Label claimsLabel = new Label(type);
             claimsLabel.setStyle("-fx-font-size: 20px;-fx-padding: 10px 10px 10px 10px; -fx-font-weight: bold;-fx-text-fill: #4b867e");
             claimsContainer.getChildren().add(claimsLabel);
         }
 
+        // Display entity-specific information if an entity is provided
         if (entity != null) {
-            // Add the description text
-            Label descriptionLabel = new Label("Mô tả:");
-            descriptionLabel.setPrefWidth(250);
+            // Add the description
+            Label descriptionLabel = new Label("Mô tả ngắn:");
+            descriptionLabel.setPrefWidth(300);
             descriptionLabel.setWrapText(true);
             descriptionLabel.setStyle("-fx-font-size: 16px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
             Text descriptionText = new Text(entity.getDescription());
@@ -81,12 +108,13 @@ public abstract class DetailScene<T extends HistoricalEntity> {
             descriptionH.setStyle("-fx-padding: 10px 0px 0px 10px");
             claimsContainer.getChildren().add(descriptionH);
 
-            Label aliasLabel = new Label("Biệt danh:");
-            aliasLabel.setPrefWidth(250);
+            // Add aliases
+            Label aliasLabel = new Label("Tên gọi khác:");
+            aliasLabel.setPrefWidth(300);
             aliasLabel.setWrapText(true);
             aliasLabel.setStyle("-fx-font-size: 16px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
             List<String> aliases = entity.getAliases();
-            String aliasTextString = String.join(", \n", aliases); // Join the aliases with commas
+            String aliasTextString = String.join(", \n", aliases);
             Text aliasText = new Text(aliasTextString);
             aliasText.setStyle("-fx-font-size: 16px;");
             HBox aliasH = new HBox();
@@ -95,25 +123,28 @@ public abstract class DetailScene<T extends HistoricalEntity> {
             claimsContainer.getChildren().add(aliasH);
         }
 
-        if (claimsNode == null) {
+        // No information yet
+        if (jsonNode == null) {
             Label nullLabel = new Label("Chưa có thông tin");
             nullLabel.setStyle("-fx-font-size: 16px;-fx-padding: 10px 10px 0px 10px; -fx-font-weight: bold;-fx-text-fill: red");
             claimsContainer.getChildren().add(nullLabel);
             vbox.getChildren().add(claimsContainer);
             return;
         }
-        Iterator<Map.Entry<String, JsonNode>> properties = claimsNode.fields();
+
+        Iterator<Map.Entry<String, JsonNode>> properties = jsonNode.fields();
         while (properties.hasNext()) {
             Map.Entry<String, JsonNode> property = properties.next();
             String propertyName = StringUtils.capitalize(property.getKey());
+            // Add label for holding key value
             Label keyLabel = new Label(propertyName + ":");
-            keyLabel.setPrefWidth(250);
+            keyLabel.setPrefWidth(300);
             keyLabel.setWrapText(true);
             keyLabel.setStyle("-fx-font-size: 16px;-fx-padding: 0px 10px 0px 0px; -fx-font-weight: bold;");
 
             JsonNode propertyArr = property.getValue();
 
-            TextFlow valueTextFlow = new TextFlow(); // Use TextFlow to allow for styling individual Text nodes
+            TextFlow valueTextFlow = new TextFlow(); // Use TextFlow for styling individual Text nodes
 
             int count = 0;
             for (JsonNode propertyDetail : propertyArr) {
@@ -123,10 +154,12 @@ public abstract class DetailScene<T extends HistoricalEntity> {
 
                 String value = propertyDetail.get("value").asText();
                 Text valueText = new Text(value);
+                // If there is an ID, it proves to be associated with another entity
                 if (propertyDetail.get("id")!= null) {
                     valueText.setStyle("-fx-underline: true;");
-                    valueText.setFill(Color.web("#3498db"));
-                    valueText.setOnMouseClicked(mouseEvent -> {
+                    valueText.setCursor(Cursor.HAND);
+                    valueText.setFill(Color.web("#3498db")); // Set color and underline
+                    valueText.setOnMouseClicked(mouseEvent -> { // Click to go to another entity
                         String id = propertyDetail.get("id").asText();
                         HistoricalEntity obj = getObjectById(id);
                         try {
@@ -183,6 +216,12 @@ public abstract class DetailScene<T extends HistoricalEntity> {
         vbox.getChildren().add(claimsContainer); // Add the claimsContainer VBox to the main VBox (vbox)
     }
 
+    /**
+     * Retrieves a HistoricalEntity object based on its ID.
+     *
+     * @param id the ID of the HistoricalEntity object
+     * @return the HistoricalEntity object with the matching ID, or null if not found
+     */
     private HistoricalEntity getObjectById(String id) {
         // Search through the appropriate list of objects for the object with the matching id
         for (Dynasty dynasty : App.dynasties) {

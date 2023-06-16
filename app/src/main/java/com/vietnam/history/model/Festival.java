@@ -4,6 +4,9 @@ import com.fasterxml.jackson.databind.JsonNode;
 
 import java.util.List;
 
+/**
+ * Represents a historical festival, such as a religious or cultural celebration.
+ */
 public class Festival extends HistoricalEntity{
     public Festival() {
     }

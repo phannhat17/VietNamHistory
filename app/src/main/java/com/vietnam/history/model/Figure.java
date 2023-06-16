@@ -4,6 +4,9 @@ import com.fasterxml.jackson.databind.JsonNode;
 
 import java.util.List;
 
+/**
+ * Represents a historical figure, such as a king, queen, emperor, or politician.
+ */
 public class Figure extends HistoricalEntity{
     public Figure() {
     }

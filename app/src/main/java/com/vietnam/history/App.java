@@ -21,16 +21,24 @@ public class App extends Application {
 
     private static Scene scene;
 
-    //    Load all data
+    // Load all data
     public static ObservableList<Dynasty> dynasties = new DynastyLoader().loadData();
     public static ObservableList<Figure> figures = new FigureLoader().loadData();
     public static ObservableList<HistoricalEvent> historicalEvents = new EventLoader().loadData();
     public static ObservableList<Festival> festivals = new FestivalLoader().loadData();
     public static ObservableList<Place> places = new PlaceLoader().loadData();
-     static void main(String[] args) {
+
+    /**
+     * The main method that launches the application.
+     */
+    
+    public static void main(String[] args) {
         launch();
     }
 
+    /**
+     * Starts the application and loads the start scene.
+     */
     @Override
     public void start(Stage stage) throws IOException {
         scene = new Scene(loadFXML("StartScene"));
@@ -41,15 +49,34 @@ public class App extends Application {
         stage.show();
     }
 
+    /**
+     * Sets the root of the scene to the specified FXML file.
+     *
+     * @param fxml the name of the FXML file
+     * @throws IOException if the FXML file cannot be loaded
+     */
     public static void setRoot(String fxml) throws IOException {
         scene.setRoot(loadFXML(fxml));
     }
 
+    /**
+     * Loads the FXML file with the specified name and returns its root node.
+     *
+     * @param fxml the name of the FXML file
+     * @return the root node of the FXML file
+     * @throws IOException if the FXML file cannot be loaded
+     */
     private static Parent loadFXML(String fxml) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         return fxmlLoader.load();
     }
 
+    /**
+     * Opens the about dialog window.
+     *
+     * @param fxml the name of the FXML file for the about dialog
+     * @throws IOException if the FXML file cannot be loaded
+     */
     public static void openAbout(String fxml) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
@@ -62,6 +89,13 @@ public class App extends Application {
         stage.close();
     }
 
+    /**
+     * Sets the root of the scene to the specified FXML file and passes the specified entity to the controller.
+     *
+     * @param fxml   the name of the FXML file
+     * @param entity the entity to pass to the controller
+     * @throws IOException if the FXML file cannot be loaded
+     */
     public static void setRootWithEntity(String fxml, HistoricalEntity entity) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
