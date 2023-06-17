@@ -2,27 +2,20 @@ package com.vietnam.history.controller;
 
 import com.vietnam.history.App;
 import com.vietnam.history.model.HistoricalEntity;
-
 import javafx.collections.ObservableList;
 import javafx.collections.transformation.FilteredList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
-import javafx.scene.control.Label;
-import javafx.scene.control.TableColumn;
-import javafx.scene.control.TableRow;
-import javafx.scene.control.TableView;
-import javafx.scene.control.TextField;
+import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
-import javafx.scene.layout.HBox;
-import javafx.scene.layout.VBox;
 
 import java.io.IOException;
 
 public class ListEntityScene<T extends HistoricalEntity> {
 
-    public VBox sideBar;
-    public Label entityType;
-    public HBox searchBox;
+    @FXML
+    private Label entityType;
+
     @FXML
     private TableColumn<T, String> colFDescription;
 

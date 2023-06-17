@@ -20,7 +20,7 @@ public abstract class HistoricalEntity {
     /**
      * Default constructor for the HistoricalEntity class.
      */
-    public HistoricalEntity() {
+    protected HistoricalEntity() {
     }
 
     /**
@@ -34,7 +34,7 @@ public abstract class HistoricalEntity {
      * @param claims      the claims of the entity
      * @param description the description of the entity
      */
-    public HistoricalEntity(String id, String label, String overview, List<String> aliases, JsonNode references, JsonNode claims, String description) {
+    protected HistoricalEntity(String id, String label, String overview, List<String> aliases, JsonNode references, JsonNode claims, String description) {
         this.id = id;
         this.label = label;
         this.overview = overview;
