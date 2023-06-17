@@ -100,7 +100,7 @@ public class DetailSceneController {
 
                 valueTextFlow.getChildren().add(valueText);
 
-                if (propertyDetail.has("qualifiers") && propertyDetail.has("source")) {
+                if (propertyDetail.has("qualifiers")) {
                     addQualifiersAndSource(propertyDetail, valueTextFlow);
                 } else if (!propertyDetail.has("qualifiers") && propertyDetail.has("source")) {
                     String source = propertyDetail.get("source").asText();
@@ -145,7 +145,7 @@ public class DetailSceneController {
             aliasesLabel.getStyleClass().add("key-label");
             TextFlow aliasesTextFlow = new TextFlow();
             for (String alias : aliases) {
-                aliasesTextFlow.getChildren().add(new Text(alias + ", \n"));
+                aliasesTextFlow.getChildren().add(new Text(alias + "\n"));
             }
             aliasesTextFlow.getStyleClass().add("value-label");
             HBox aliasesSection = new HBox(aliasesLabel, aliasesTextFlow);
@@ -155,24 +155,21 @@ public class DetailSceneController {
     }
 
     private void addQualifiersAndSource(JsonNode propertyDetail, TextFlow valueTextFlow) {
-        JsonNode qualifiers = propertyDetail.get("qualifiers");
-        JsonNode source = propertyDetail.get("source");
-
         valueTextFlow.getChildren().add(new Text(" ("));
-        TextFlow qualifierTextFlow = new TextFlow();
+        JsonNode qualifiersObj = propertyDetail.get("qualifiers");
+        Iterator<Map.Entry<String, JsonNode>> qualifierKeys = qualifiersObj.fields();
 
-        Iterator<Map.Entry<String, JsonNode>> qualifiersIterator = qualifiers.fields();
+        TextFlow qualifierTextFlow = new TextFlow(); 
+
         int subCount = 0;
-        while (qualifiersIterator.hasNext()) {
+        while (qualifierKeys.hasNext()) {
             if (subCount != 0) {
                 qualifierTextFlow.getChildren().add(new Text(", \n"));
             }
-
-            Map.Entry<String, JsonNode> qualifierEntry = qualifiersIterator.next();
-            String qualifierKey = qualifierEntry.getKey();
-
-            qualifierTextFlow.getChildren().add(new Text(qualifierKey + ": "));
-            JsonNode qualifierPropertyArr = qualifierEntry.getValue();
+            Map.Entry<String, JsonNode> qualifierProperty = qualifierKeys.next();
+            String qualifierPropertyName = qualifierProperty.getKey();
+            qualifierTextFlow.getChildren().add(new Text(qualifierPropertyName + ": "));
+            JsonNode qualifierPropertyArr = qualifierProperty.getValue();
             int subSubCount = 0;
             for (JsonNode ele : qualifierPropertyArr) {
                 if (subSubCount != 0) {
@@ -187,13 +184,18 @@ public class DetailSceneController {
         }
         qualifierTextFlow.getChildren().add(new Text(")"));
         
-        String sourceValue = source.asText();
-        if (!sourceValue.equals("both")) {
-            Text sourceText = new Text(" (Nguồn: " + sourceValue + ")");
-            sourceText.setFill(Color.web("#9b59b6"));
-            qualifierTextFlow.getChildren().add(sourceText);
+
+        if (propertyDetail.has("source")) {
+            JsonNode source = propertyDetail.get("source");
+            String sourceValue = source.asText();
+            if (!sourceValue.equals("both")) {
+                Text sourceText = new Text(" (Nguồn: " + sourceValue + ")");
+                sourceText.setFill(Color.web("#9b59b6"));
+                qualifierTextFlow.getChildren().add(sourceText);
+            }
         }
-        valueTextFlow.getChildren().add(qualifierTextFlow);
+
+        valueTextFlow.getChildren().add(qualifierTextFlow); 
     }
 
     private void configureLinkedValueText(Text valueText, String entityId) {
