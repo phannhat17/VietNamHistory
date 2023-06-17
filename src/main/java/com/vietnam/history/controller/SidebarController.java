@@ -1,12 +1,13 @@
 package com.vietnam.history.controller;
 
-import com.vietnam.history.App;
-import javafx.event.ActionEvent;
-import javafx.fxml.FXML;
-
 import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
+
+import com.vietnam.history.App;
+
+import javafx.event.ActionEvent;
+import javafx.fxml.FXML;
 
 /**
  * Controller for the Sidebar
@@ -28,19 +29,19 @@ public class SidebarController {
     @FXML
     void switchToDynasty(ActionEvent event) throws IOException {
         // Return to Dynasty scene
-        App.setRootWithEntity("ListEntityScene", App.dynasties, "TRIỀU ĐẠI");
+        App.setRootWithEntity("ListEntityScene", App.dynasties, "TRIỀU ĐẠI LỊCH SỬ");
     }
 
     @FXML
     void switchToEvent(ActionEvent event) throws IOException {
         // Return to Event scene
-        App.setRootWithEntity("ListEntityScene", App.historicalEvents, "SỰ KIỆN");
+        App.setRootWithEntity("ListEntityScene", App.historicalEvents, "SỰ KIỆN LỊCH SỬ");
     }
 
     @FXML
     void switchToFestival(ActionEvent event) throws IOException {
         // Return to Festival scene
-        App.setRootWithEntity("ListEntityScene", App.festivals, "LỄ HỘI");
+        App.setRootWithEntity("ListEntityScene", App.festivals, "LỄ HỘI VĂN HOÁ");
     }
 
     @FXML
@@ -52,7 +53,7 @@ public class SidebarController {
     @FXML
     void switchToHistoricalFigures(ActionEvent event) throws IOException {
         // Return to Figure scene
-        App.setRootWithEntity("ListEntityScene", App.figures, "NHÂN VẬT");
+        App.setRootWithEntity("ListEntityScene", App.figures, "NHÂN VẬT LỊCH SỬ");
     }
 
 }

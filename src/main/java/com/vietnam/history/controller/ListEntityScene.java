@@ -82,7 +82,6 @@ public class ListEntityScene<T extends HistoricalEntity> {
                 return entity.getLabel().toLowerCase().contains(filterText);
             });
         });
-
         tblFigure.setItems(filteredList);
 
     }
