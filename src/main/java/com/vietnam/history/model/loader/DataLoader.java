@@ -24,7 +24,7 @@ public abstract class DataLoader<T> {
      *
      * @param folderPath the path to the folder containing the JSON files
      */
-    public DataLoader(String folderPath) {
+    protected DataLoader(String folderPath) {
         this.folderPath = folderPath;
     }
 
