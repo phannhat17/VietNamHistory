@@ -23,6 +23,9 @@
 hs_err_pid*
 replay_pid*
 
+.idea
+.vscode
+
 app/target
 app/.vscode
 app/.idea
