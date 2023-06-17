@@ -92,7 +92,7 @@ public class DetailSceneController {
                 }
 
                 String value = propertyDetail.get("value").asText();
-                Text valueText = new Text(value);
+                Text valueText = new Text(value.trim());
 
                 if (propertyDetail.has("id")) {
                     configureLinkedValueText(valueText, propertyDetail.get("id").asText());
@@ -105,7 +105,7 @@ public class DetailSceneController {
                 } else if (!propertyDetail.has("qualifiers") && propertyDetail.has("source")) {
                     String source = propertyDetail.get("source").asText();
                     if (!source.equals("both")) {
-                        Text sourceText = new Text(" (Nguồn: " + source + ")");
+                        Text sourceText = new Text(" (Nguồn: " + source.trim() + ")");
                         sourceText.setFill(Color.web("#9b59b6"));
                         valueTextFlow.getChildren().add(sourceText);
                     }
@@ -145,7 +145,7 @@ public class DetailSceneController {
             aliasesLabel.getStyleClass().add("key-label");
             TextFlow aliasesTextFlow = new TextFlow();
             for (String alias : aliases) {
-                aliasesTextFlow.getChildren().add(new Text(alias + "\n"));
+                aliasesTextFlow.getChildren().add(new Text(alias.trim() + "\n"));
             }
             aliasesTextFlow.getStyleClass().add("value-label");
             HBox aliasesSection = new HBox(aliasesLabel, aliasesTextFlow);
@@ -176,7 +176,7 @@ public class DetailSceneController {
                     qualifierTextFlow.getChildren().add(new Text(", \n"));
                 }
                 String subQualifierPropertyValue = ele.get("value").asText();
-                Text subQualifierPropertyValueText = new Text(subQualifierPropertyValue);
+                Text subQualifierPropertyValueText = new Text(subQualifierPropertyValue.trim());
                 qualifierTextFlow.getChildren().add(subQualifierPropertyValueText);
                 subSubCount++;
             }
