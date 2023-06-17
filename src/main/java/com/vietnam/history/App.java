@@ -1,6 +1,6 @@
 package com.vietnam.history;
 
-import com.vietnam.history.controller.DetailScene;
+import com.vietnam.history.controller.DetailSceneController;
 import com.vietnam.history.controller.ListEntityScene;
 import com.vietnam.history.model.*;
 import com.vietnam.history.model.loader.*;
@@ -99,7 +99,7 @@ public class App extends Application {
     public static void setRootWithEntity(String fxml, HistoricalEntity entity) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
-        DetailScene controller = fxmlLoader.getController();
+        DetailSceneController controller = fxmlLoader.getController();
         controller.setData(entity);
         scene.setRoot(root);
     }
@@ -118,5 +118,34 @@ public class App extends Application {
         ListEntityScene<T> controller = fxmlLoader.getController();
         controller.setData(entityList, entityType);
         scene.setRoot(root);
+    }
+
+    public static HistoricalEntity fetchEntity(String entityId) {
+        for (Dynasty dynasty : dynasties) {
+            if (dynasty.getId().equals(entityId)) {
+                return dynasty;
+            }
+        }
+        for (Figure figure : figures) {
+            if (figure.getId().equals(entityId)) {
+                return figure;
+            }
+        }
+        for (HistoricalEvent event : historicalEvents) {
+            if (event.getId().equals(entityId)) {
+                return event;
+            }
+        }
+        for (Festival festival : festivals) {
+            if (festival.getId().equals(entityId)) {
+                return festival;
+            }
+        }
+        for (Place place : App.places) {
+            if (place.getId().equals(entityId)) {
+                return place;
+            }
+        }
+        return null;
     }
 }

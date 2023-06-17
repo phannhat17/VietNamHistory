@@ -12,7 +12,7 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" xmlns:fx="http://javafx.com/fxml" fx:controller="com.vietnam.history.controller.DetailScene">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" xmlns:fx="http://javafx.com/fxml" stylesheets="@./stylesheet/Details.css" fx:controller="com.vietnam.history.controller.DetailSceneController">
    <top>
       <MenuBar BorderPane.alignment="CENTER">
          <Menu mnemonicParsing="false" text="About">
@@ -26,7 +26,7 @@
    <center>
       <VBox>
          <StackPane layoutX="10.0" layoutY="59.0" prefWidth="340.0">
-            <Label fx:id="lbName" alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="1159.0"
+            <Label fx:id="nameLabel" alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="1159.0"
                    text="Name" textAlignment="CENTER" textFill="#4b867e">
                <font>
                   <Font name="System Bold" size="23.0"/>
@@ -37,7 +37,7 @@
             </Label>
          </StackPane>
          <StackPane prefWidth="340.0">
-            <Text fx:id="tOver" blendMode="SRC_ATOP" smooth="false" strokeType="OUTSIDE" strokeWidth="0.0"
+            <Text fx:id="overviewText" blendMode="SRC_ATOP" smooth="false" strokeType="OUTSIDE" strokeWidth="0.0"
                   text="Text" textAlignment="CENTER" textOrigin="CENTER" wrappingWidth="971.515625">
                <font>
                   <Font size="15.0"/>
