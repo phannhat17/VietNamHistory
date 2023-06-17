@@ -1,17 +1,14 @@
 module com.vietnam.history {
-    requires javafx.controls;
-    requires javafx.fxml;
+    requires transitive javafx.controls;
+    requires transitive javafx.fxml;
     requires transitive javafx.graphics;
-    requires com.fasterxml.jackson.databind;
+    requires transitive com.fasterxml.jackson.databind;
     requires org.apache.commons.lang3;
 
     opens com.vietnam.history.controller to javafx.fxml;
-    opens com.vietnam.history.controller.dynasty to javafx.fxml;
-    opens com.vietnam.history.controller.figure to javafx.fxml;
-    opens com.vietnam.history.controller.event to javafx.fxml;
-    opens com.vietnam.history.controller.festival to javafx.fxml;
-    opens com.vietnam.history.controller.place to javafx.fxml;
-    opens com.vietnam.history.model to com.fasterxml.jackson.databind, javafx.base;
+    opens com.vietnam.history to javafx.fxml;
+    opens com.vietnam.history.model to com.fasterxml.jackson.databind, javafx.base, javafx.fxml;
     exports com.vietnam.history.model;
+    exports com.vietnam.history.controller;
     exports com.vietnam.history;
 }

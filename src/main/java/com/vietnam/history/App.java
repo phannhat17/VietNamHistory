@@ -1,6 +1,7 @@
 package com.vietnam.history;
 
 import com.vietnam.history.controller.DetailScene;
+import com.vietnam.history.controller.ListEntityScene;
 import com.vietnam.history.model.*;
 import com.vietnam.history.model.loader.*;
 import javafx.application.Application;
@@ -31,7 +32,6 @@ public class App extends Application {
     /**
      * The main method that launches the application.
      */
-    
     public static void main(String[] args) {
         launch();
     }
@@ -99,13 +99,24 @@ public class App extends Application {
     public static void setRootWithEntity(String fxml, HistoricalEntity entity) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
-        Object controller = fxmlLoader.getController();
+        DetailScene controller = fxmlLoader.getController();
+        controller.setData(entity);
+        scene.setRoot(root);
+    }
 
-        if (controller instanceof DetailScene) {
-            DetailScene<HistoricalEntity> detailsController = (DetailScene<HistoricalEntity>) controller;
-            detailsController.setData(entity);
-        }
-
+    /**
+     * Sets the root of the scene to the specified FXML file and passes the specified entity to the controller.
+     *
+     * @param fxml   the name of the FXML file
+     * @param entityList the list of entity to pass to the controller
+     * @param entityType the type of entity to pass to the controller
+     * @throws IOException if the FXML file cannot be loaded
+     */
+    public static <T extends HistoricalEntity> void setRootWithEntity(String fxml, ObservableList<T> entityList, String entityType) throws IOException {
+        FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
+        Parent root = fxmlLoader.load();
+        ListEntityScene<T> controller = fxmlLoader.getController();
+        controller.setData(entityList, entityType);
         scene.setRoot(root);
     }
 }

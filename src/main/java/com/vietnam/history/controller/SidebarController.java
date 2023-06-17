@@ -28,30 +28,31 @@ public class SidebarController {
     @FXML
     void switchToDynasty(ActionEvent event) throws IOException {
         // Return to Dynasty scene
-        App.setRoot("dynasty/DynastyScene");
+        App.setRootWithEntity("ListEntityScene", App.dynasties, "TRIỀU ĐẠI");
     }
 
     @FXML
     void switchToEvent(ActionEvent event) throws IOException {
         // Return to Event scene
-        App.setRoot("event/EventScene");
+        App.setRootWithEntity("ListEntityScene", App.historicalEvents, "SỰ KIỆN");
     }
 
     @FXML
     void switchToFestival(ActionEvent event) throws IOException {
         // Return to Festival scene
-        App.setRoot("festival/FestivalScene");
+        App.setRootWithEntity("ListEntityScene", App.festivals, "LỄ HỘI");
     }
 
     @FXML
     void switchToPlace(ActionEvent event) throws IOException {
         // Return to Place scene
-        App.setRoot("place/PlaceScene");
+        App.setRootWithEntity("ListEntityScene", App.places, "ĐỊA ĐIỂM");
     }
 
     @FXML
     void switchToHistoricalFigures(ActionEvent event) throws IOException {
-        App.setRoot("figure/FiguresScene");
+        // Return to Figure scene
+        App.setRootWithEntity("ListEntityScene", App.figures, "NHÂN VẬT");
     }
 
 }

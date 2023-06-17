@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" xmlns:fx="http://javafx.com/fxml" fx:controller="com.vietnam.history.controller.DetailScene">
+   <top>
+      <MenuBar BorderPane.alignment="CENTER">
+         <Menu mnemonicParsing="false" text="About">
+            <MenuItem mnemonicParsing="false" onAction="#aboutClick" text="About"/>
+         </Menu>
+      </MenuBar>
+   </top>
+   <left>
+        <fx:include fx:id="sideBar" source="SideBar.fxml" />
+    </left>
+   <center>
+      <VBox>
+         <StackPane layoutX="10.0" layoutY="59.0" prefWidth="340.0">
+            <Label fx:id="lbName" alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="1159.0"
+                   text="Name" textAlignment="CENTER" textFill="#4b867e">
+               <font>
+                  <Font name="System Bold" size="23.0"/>
+               </font>
+               <StackPane.margin>
+                  <Insets bottom="10.0" top="10.0"/>
+               </StackPane.margin>
+            </Label>
+         </StackPane>
+         <StackPane prefWidth="340.0">
+            <Text fx:id="tOver" blendMode="SRC_ATOP" smooth="false" strokeType="OUTSIDE" strokeWidth="0.0"
+                  text="Text" textAlignment="CENTER" textOrigin="CENTER" wrappingWidth="971.515625">
+               <font>
+                  <Font size="15.0"/>
+               </font>
+               <StackPane.margin>
+                  <Insets bottom="10.0"/>
+               </StackPane.margin>
+            </Text>
+         </StackPane>
+         <ScrollPane fx:id="scrollPane" prefHeight="472.0" prefWidth="610.0"
+                     style="-fx-background-color: transparent;" BorderPane.alignment="CENTER" VBox.vgrow="ALWAYS">
+         </ScrollPane>
+      </VBox>
+   </center>
+</BorderPane>

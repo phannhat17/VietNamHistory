@@ -20,7 +20,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-public abstract class DetailScene<T extends HistoricalEntity> {
+public class DetailScene {
 
     @FXML
     private Label lbName;
@@ -30,7 +30,6 @@ public abstract class DetailScene<T extends HistoricalEntity> {
 
     @FXML
     private ScrollPane scrollPane;
-
     @FXML
     private VBox claimsContainer;
 
@@ -45,7 +44,7 @@ public abstract class DetailScene<T extends HistoricalEntity> {
      *
      * @param entity the entity to display the data for
      */
-    public void setData(T entity) {
+    public void setData(HistoricalEntity entity) {
 
         // Set the name and overview text
         lbName.setText(entity.getLabel());
@@ -82,7 +81,7 @@ public abstract class DetailScene<T extends HistoricalEntity> {
      * @param vbox          the VBox container to display the processed data
      * @param entity        the entity associated with the data (optional)
      */
-    private void processData(String type, JsonNode jsonNode, VBox vbox, T entity) {
+    private void processData(String type, JsonNode jsonNode, VBox vbox, HistoricalEntity entity) {
 
         VBox claimsContainer = new VBox(); // Create a new VBox for the claimsContainer
 
@@ -149,8 +148,9 @@ public abstract class DetailScene<T extends HistoricalEntity> {
             int count = 0;
             for (JsonNode propertyDetail : propertyArr) {
                 if (count > 0) {
-                    valueTextFlow.getChildren().add(new Text(", \n"));
+                    valueTextFlow.getChildren().add(new Text("\n"));
                 }
+
 
                 String value = propertyDetail.get("value").asText();
                 Text valueText = new Text(value);
@@ -158,12 +158,12 @@ public abstract class DetailScene<T extends HistoricalEntity> {
                 if (propertyDetail.get("id")!= null) {
                     valueText.setStyle("-fx-underline: true;");
                     valueText.setCursor(Cursor.HAND);
-                    valueText.setFill(Color.web("#3498db")); // Set color and underline
+                    valueText.setFill(Color.web("#056df5")); // Set color and underline
                     valueText.setOnMouseClicked(mouseEvent -> { // Click to go to another entity
                         String id = propertyDetail.get("id").asText();
                         HistoricalEntity obj = getObjectById(id);
                         try {
-                            App.setRootWithEntity("ReferenceDetail", obj);
+                            App.setRootWithEntity("DetailScene", obj);
                         } catch (IOException e) {
                             throw new RuntimeException(e);
                         }
@@ -171,7 +171,7 @@ public abstract class DetailScene<T extends HistoricalEntity> {
                 }
                 valueTextFlow.getChildren().add(valueText);
 
-                if (propertyDetail.has("qualifiers")) {
+                if (propertyDetail.has("qualifiers") && propertyDetail.has("source")) {
                     valueTextFlow.getChildren().add(new Text(" ("));
                     JsonNode qualifiersObj = propertyDetail.get("qualifiers");
                     Iterator<Map.Entry<String, JsonNode>> qualifierKeys = qualifiersObj.fields();
@@ -200,7 +200,23 @@ public abstract class DetailScene<T extends HistoricalEntity> {
                         subCount++;
                     }
                     qualifierTextFlow.getChildren().add(new Text(")"));
+
+                    String source = propertyDetail.get("source").asText();
+                    if (!source.equals("both")) {
+                        Text sourceText = new Text(" (Nguồn: " + source + ")");
+                        sourceText.setFill(Color.web("#3498db"));
+                        qualifierTextFlow.getChildren().add(sourceText);
+
+                    }
+
                     valueTextFlow.getChildren().add(qualifierTextFlow); // Add the qualifierTextFlow TextFlow to the valueTextFlow TextFlow
+                } else if (!propertyDetail.has("qualifiers") && propertyDetail.has("source")) {
+                    String source = propertyDetail.get("source").asText();
+                    if (!source.equals("both")) {
+                        Text sourceText = new Text(" (Nguồn: " + source + ")");
+                        sourceText.setFill(Color.web("#3498db"));
+                        valueTextFlow.getChildren().add(sourceText);
+                    }
                 }
                 count++;
             }

@@ -6,63 +6,72 @@
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
-<VBox alignment="TOP_CENTER" prefHeight="575.0" prefWidth="190.0" spacing="16.0" style="-fx-background-color: #FAEFD7;" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.SidebarController">
-   <children>
-      <ImageView fitHeight="150.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
-         <image>
-            <Image url="@images/logo.png" />
-         </image>
-         <VBox.margin>
-            <Insets bottom="20.0" left="20.0" right="20.0" top="40.0" />
-         </VBox.margin>
-      </ImageView>
-      <Button alignment="CENTER" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#returnStart" style="-fx-background-color: #6F9E99;" text="TRANG CHỦ" textAlignment="CENTER" textFill="WHITE">
-         <font>
-            <Font name="System Bold" size="14.0" />
-         </font>
-         <VBox.margin>
-            <Insets left="25.0" right="25.0" />
-         </VBox.margin>
-      </Button>
-      <Button alignment="CENTER" contentDisplay="CENTER" layoutX="35.0" layoutY="386.0" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#switchToHistoricalFigures" style="-fx-background-color: #6F9E99;" text="NHÂN VẬT" textAlignment="CENTER" textFill="WHITE">
-         <font>
-            <Font name="System Bold" size="14.0" />
-         </font>
-         <VBox.margin>
-            <Insets left="25.0" right="25.0" />
-         </VBox.margin>
-      </Button>
-      <Button alignment="CENTER" contentDisplay="CENTER" layoutX="10.0" layoutY="409.0" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#switchToDynasty" style="-fx-background-color: #6F9E99;" text="TRIỀU ĐẠI" textAlignment="CENTER" textFill="WHITE">
-         <font>
-            <Font name="System Bold" size="14.0" />
-         </font>
-         <VBox.margin>
-            <Insets left="25.0" right="25.0" />
-         </VBox.margin>
-      </Button>
-      <Button alignment="CENTER" contentDisplay="CENTER" layoutX="10.0" layoutY="432.0" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#switchToEvent" style="-fx-background-color: #6F9E99;" text="SỰ KIỆN" textAlignment="CENTER" textFill="WHITE">
-         <font>
-            <Font name="System Bold" size="14.0" />
-         </font>
-         <VBox.margin>
-            <Insets left="25.0" right="25.0" />
-         </VBox.margin>
-      </Button>
-      <Button alignment="CENTER" contentDisplay="CENTER" layoutX="10.0" layoutY="455.0" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#switchToFestival" style="-fx-background-color: #6F9E99;" text="LỄ HỘI" textAlignment="CENTER" textFill="WHITE">
-         <font>
-            <Font name="System Bold" size="14.0" />
-         </font>
-         <VBox.margin>
-            <Insets left="25.0" right="25.0" />
-         </VBox.margin>
-      </Button>
-      <Button alignment="CENTER" contentDisplay="CENTER" layoutX="35.0" layoutY="420.0" maxWidth="1.7976931348623157E308" mnemonicParsing="false" onAction="#switchToPlace" style="-fx-background-color: #6F9E99;" text="ĐỊA ĐIỂM" textAlignment="CENTER" textFill="WHITE">
-         <font>
-            <Font name="System Bold" size="14.0" />
-         </font>
-         <VBox.margin>
-            <Insets left="25.0" right="25.0" />
-         </VBox.margin>
-      </Button>
-   </children>
+<VBox alignment="TOP_CENTER" prefHeight="575.0" prefWidth="190.0" spacing="16.0" style="-fx-background-color: #FAEFD7;"
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.SidebarController">
+   <ImageView fitHeight="150.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
+      <VBox.margin>
+         <Insets bottom="20.0" left="20.0" right="20.0" top="40.0"/>
+      </VBox.margin>
+      <Image url="@images/logo.png"/>
+   </ImageView>
+   <Button alignment="CENTER" contentDisplay="CENTER" maxWidth="1.7976931348623157E308" mnemonicParsing="false"
+           onAction="#returnStart" style="-fx-background-color: #6F9E99;" text="TRANG CHỦ" textAlignment="CENTER"
+           textFill="WHITE">
+      <font>
+         <Font name="System Bold" size="14.0"/>
+      </font>
+      <VBox.margin>
+         <Insets left="25.0" right="25.0"/>
+      </VBox.margin>
+   </Button>
+   <Button alignment="CENTER" contentDisplay="CENTER" layoutX="35.0" layoutY="386.0" maxWidth="1.7976931348623157E308"
+           mnemonicParsing="false" onAction="#switchToHistoricalFigures" style="-fx-background-color: #6F9E99;"
+           text="NHÂN VẬT" textAlignment="CENTER" textFill="WHITE">
+      <font>
+         <Font name="System Bold" size="14.0"/>
+      </font>
+      <VBox.margin>
+         <Insets left="25.0" right="25.0"/>
+      </VBox.margin>
+   </Button>
+   <Button alignment="CENTER" contentDisplay="CENTER" layoutX="10.0" layoutY="409.0" maxWidth="1.7976931348623157E308"
+           mnemonicParsing="false" onAction="#switchToDynasty" style="-fx-background-color: #6F9E99;" text="TRIỀU ĐẠI"
+           textAlignment="CENTER" textFill="WHITE">
+      <font>
+         <Font name="System Bold" size="14.0"/>
+      </font>
+      <VBox.margin>
+         <Insets left="25.0" right="25.0"/>
+      </VBox.margin>
+   </Button>
+   <Button alignment="CENTER" contentDisplay="CENTER" layoutX="10.0" layoutY="432.0" maxWidth="1.7976931348623157E308"
+           mnemonicParsing="false" onAction="#switchToEvent" style="-fx-background-color: #6F9E99;" text="SỰ KIỆN"
+           textAlignment="CENTER" textFill="WHITE">
+      <font>
+         <Font name="System Bold" size="14.0"/>
+      </font>
+      <VBox.margin>
+         <Insets left="25.0" right="25.0"/>
+      </VBox.margin>
+   </Button>
+   <Button alignment="CENTER" contentDisplay="CENTER" layoutX="10.0" layoutY="455.0" maxWidth="1.7976931348623157E308"
+           mnemonicParsing="false" onAction="#switchToFestival" style="-fx-background-color: #6F9E99;" text="LỄ HỘI"
+           textAlignment="CENTER" textFill="WHITE">
+      <font>
+         <Font name="System Bold" size="14.0"/>
+      </font>
+      <VBox.margin>
+         <Insets left="25.0" right="25.0"/>
+      </VBox.margin>
+   </Button>
+   <Button alignment="CENTER" contentDisplay="CENTER" layoutX="35.0" layoutY="420.0" maxWidth="1.7976931348623157E308"
+           mnemonicParsing="false" onAction="#switchToPlace" style="-fx-background-color: #6F9E99;" text="ĐỊA ĐIỂM"
+           textAlignment="CENTER" textFill="WHITE">
+      <font>
+         <Font name="System Bold" size="14.0"/>
+      </font>
+      <VBox.margin>
+         <Insets left="25.0" right="25.0"/>
+      </VBox.margin>
+   </Button>
 </VBox>
