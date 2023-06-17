@@ -2,13 +2,16 @@ package com.vietnam.history.controller;
 
 import com.vietnam.history.App;
 import com.vietnam.history.model.HistoricalEntity;
+
 import javafx.collections.ObservableList;
+import javafx.collections.transformation.FilteredList;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 import javafx.scene.control.TableColumn;
 import javafx.scene.control.TableRow;
 import javafx.scene.control.TableView;
+import javafx.scene.control.TextField;
 import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
@@ -33,7 +36,7 @@ public class ListEntityScene<T extends HistoricalEntity> {
     private Label totalNum;
 
     @FXML
-    private  SearchController searchController;
+    private TextField tfFilter;
 
     @FXML
     void aboutClick(ActionEvent event) throws IOException {
@@ -42,7 +45,7 @@ public class ListEntityScene<T extends HistoricalEntity> {
 
 
     public void setData(ObservableList<T> entityList, String type) {
-//        searchController.healthCheck();
+
         entityType.setText(type);
 
         totalNum.setText(Integer.toString(entityList.size()));
@@ -66,5 +69,21 @@ public class ListEntityScene<T extends HistoricalEntity> {
             });
             return row;
         });
+
+        FilteredList<T> filteredList = new FilteredList<>(entityList, p -> true);
+
+        tfFilter.textProperty().addListener((observable, oldValue, newValue) -> {
+            filteredList.setPredicate(entity -> {
+                if (newValue == null || newValue.isEmpty()) {
+                    return true;
+                }
+
+                String filterText = newValue.toLowerCase();
+                return entity.getLabel().toLowerCase().contains(filterText);
+            });
+        });
+
+        tblFigure.setItems(filteredList);
+
     }
 }
