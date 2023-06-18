@@ -1,1 +1,83 @@
-{"overview":"Đối với các định nghĩa khác, xem Đinh (định hướng).","aliases":["Đinh","Thời Đinh","Đời Đinh"],"references":{"vua":[{"id":"Q1184365","type":"wikibase-item","value":"Đinh Tiên Hoàng"},{"id":"Q1210389","type":"wikibase-item","value":"Đinh Phế Đế"}]},"claims":{"trung tâm hành chính":[{"source":"both","type":"string","value":"Hoa Lư"}],"lãnh đạo":[{"id":"Q1184365","type":"wikibase-item","value":"Đinh Tiên Hoàng"},{"id":"Q1210389","type":"wikibase-item","value":"Đinh Phế Đế"}],"ngày giải thể, bãi bỏ hoặc phá bỏ":[{"type":"string","value":"Năm 0980"}],"người sáng lập":[{"id":"Q1184365","type":"wikibase-item","value":"Đinh Tiên Hoàng"}],"đơn vị tiền tệ":[{"source":"both","type":"string","value":"văn"},{"source":"DBPedia","type":"string","value":"Tiền Thái Bình hưng bảo"}],"ngày thành lập hoặc tạo ra":[{"type":"string","value":"Năm 0968"}],"là một":[{"type":"string","value":"triều đại"}]},"description":"Triều đại phong kiến Việt Nam","id":"Q1372154","label":"Nhà Đinh"}
+{
+	"overview": "Nhà Đinh (chữ Nôm: 茹丁, chữ Hán: 丁朝, Hán Việt: Đinh triều) là triều đại quân chủ phong kiến trong lịch sử Việt Nam bắt đầu năm 968, sau khi Đinh Tiên Hoàng dẹp xong loạn 12 sứ quân thống nhất đất nước và kết thúc năm 980 khi con của Đinh Tiên Hoàng là Đinh Phế Đế nhường ngôi cho Lê Hoàn.",
+	"aliases": [
+		"Đinh",
+		"Thời Đinh",
+		"Đời Đinh"
+	],
+	"references": {
+		"vua": [
+			{
+				"id": "Q1184365",
+				"type": "wikibase-item",
+				"value": "Đinh Tiên Hoàng"
+			},
+			{
+				"id": "Q1210389",
+				"type": "wikibase-item",
+				"value": "Đinh Phế Đế"
+			}
+		]
+	},
+	"claims": {
+		"trung tâm hành chính": [
+			{
+				"source": "both",
+				"type": "string",
+				"value": "Hoa Lư"
+			}
+		],
+		"lãnh đạo": [
+			{
+				"id": "Q1184365",
+				"type": "wikibase-item",
+				"value": "Đinh Tiên Hoàng"
+			},
+			{
+				"id": "Q1210389",
+				"type": "wikibase-item",
+				"value": "Đinh Phế Đế"
+			}
+		],
+		"ngày giải thể, bãi bỏ hoặc phá bỏ": [
+			{
+				"type": "string",
+				"value": "Năm 0980"
+			}
+		],
+		"người sáng lập": [
+			{
+				"id": "Q1184365",
+				"type": "wikibase-item",
+				"value": "Đinh Tiên Hoàng"
+			}
+		],
+		"đơn vị tiền tệ": [
+			{
+				"source": "both",
+				"type": "string",
+				"value": "văn"
+			},
+			{
+				"source": "DBPedia",
+				"type": "string",
+				"value": "Tiền Thái Bình hưng bảo"
+			}
+		],
+		"ngày thành lập hoặc tạo ra": [
+			{
+				"type": "string",
+				"value": "Năm 0968"
+			}
+		],
+		"là một": [
+			{
+				"type": "string",
+				"value": "triều đại"
+			}
+		]
+	},
+	"description": "Triều đại phong kiến Việt Nam",
+	"id": "Q1372154",
+	"label": "Nhà Đinh"
+}
