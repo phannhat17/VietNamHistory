@@ -36,14 +36,14 @@ public class DetailSceneController {
     @FXML
     private VBox claimsContainer;
 
-    private HistoricalEntity backEntity;
-
     @FXML
     void initialize() {
         claimsContainer = new VBox();
         scrollPane.setContent(claimsContainer);
+        if (App.entityStack.size()>1){
+            backBtnBar.setDisable(false);
+        }
     }
-
 
     @FXML
     void aboutClick(ActionEvent event) throws IOException {
@@ -52,15 +52,18 @@ public class DetailSceneController {
 
     @FXML
     void goBackPress(ActionEvent actionEvent) throws IOException {
-        App.setRootWithEntity("DetailScene", backEntity);
-    }
-
-    public void setBack(HistoricalEntity backEntity){
-        this.backEntity = backEntity;
-        backBtnBar.setDisable(false);
+        if (App.entityStack.size()>1) {
+            App.entityStack.pop();
+            if (!App.entityStack.isEmpty()) {
+                HistoricalEntity previousEntity = App.entityStack.peek();
+                App.entityStack.pop();
+                App.setRootWithEntity("DetailScene", previousEntity);
+            }
+        }
     }
 
     public void setData(HistoricalEntity entity) {
+
         nameLabel.setText(entity.getLabel());
         overviewText.setText(entity.getOverview());
 
@@ -220,7 +223,7 @@ public class DetailSceneController {
             try {
                 HistoricalEntity entity = App.fetchEntity(entityId);
                 if (entity != null) {
-                    App.setRootWithEntity("DetailScene", entity, backEntity);
+                    App.setRootWithEntity("DetailScene", entity);
                 }
             } catch (IOException e) {
                 e.printStackTrace();

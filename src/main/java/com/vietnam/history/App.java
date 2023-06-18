@@ -14,6 +14,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 import java.util.Objects;
+import java.util.Stack;
 
 /**
  * Start GUI App
@@ -21,7 +22,7 @@ import java.util.Objects;
 public class App extends Application {
 
     private static Scene scene;
-
+    public static Stack<HistoricalEntity> entityStack = new Stack<>();
     // Load all data
     public static final ObservableList<Dynasty> dynasties = new DynastyLoader().loadData();
     public static final ObservableList<Figure> figures = new FigureLoader().loadData();
@@ -96,21 +97,12 @@ public class App extends Application {
      * @param entity the entity to pass to the controller
      * @throws IOException if the FXML file cannot be loaded
      */
-    public static void setRootWithEntity(String fxml, HistoricalEntity entity) throws IOException {
-        setRootWithEntity(fxml, entity, null);
-    }
-
-    public static void setRootWithEntity(String fxml, HistoricalEntity nextEntity, HistoricalEntity previousEntity)throws IOException {
-        System.out.println(nextEntity.getLabel());
-
+    public static void setRootWithEntity(String fxml, HistoricalEntity entity)throws IOException {
+        entityStack.push(entity);
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
         DetailSceneController controller = fxmlLoader.getController();
-        controller.setData(nextEntity);
-        if (!(previousEntity == null)){
-            System.out.println(previousEntity.getLabel());
-            controller.setBack(previousEntity);
-        };
+        controller.setData(entity);
         scene.setRoot(root);
     }
 
@@ -123,6 +115,7 @@ public class App extends Application {
      * @throws IOException if the FXML file cannot be loaded
      */
     public static <T extends HistoricalEntity> void setRootWithEntity(String fxml, ObservableList<T> entityList, String entityType) throws IOException {
+        entityStack.clear();
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
         ListEntityScene<T> controller = fxmlLoader.getController();
