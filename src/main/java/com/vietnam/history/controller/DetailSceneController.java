@@ -6,6 +6,7 @@ import com.vietnam.history.model.HistoricalEntity;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.Cursor;
+import javafx.scene.control.ButtonBar;
 import javafx.scene.control.Label;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.layout.HBox;
@@ -22,6 +23,7 @@ import java.util.Map;
 
 public class DetailSceneController {
 
+    public ButtonBar backBtnBar;
     @FXML
     private Label nameLabel;
 
@@ -34,15 +36,28 @@ public class DetailSceneController {
     @FXML
     private VBox claimsContainer;
 
+    private HistoricalEntity backEntity;
+
     @FXML
     void initialize() {
         claimsContainer = new VBox();
         scrollPane.setContent(claimsContainer);
     }
 
+
     @FXML
     void aboutClick(ActionEvent event) throws IOException {
         App.openAbout("About");
+    }
+
+    @FXML
+    void goBackPress(ActionEvent actionEvent) throws IOException {
+        App.setRootWithEntity("DetailScene", backEntity);
+    }
+
+    public void setBack(HistoricalEntity backEntity){
+        this.backEntity = backEntity;
+        backBtnBar.setDisable(false);
     }
 
     public void setData(HistoricalEntity entity) {
@@ -50,7 +65,7 @@ public class DetailSceneController {
         overviewText.setText(entity.getOverview());
 
         displayData("THÔNG TIN", entity.getClaims(), entity);
-        displayData("LIÊN QUAN", entity.getReferences(), null);
+        displayData("LIÊN QUAN", entity.getReferences(), entity);
     }
 
     private void displayData(String type, JsonNode jsonNode, HistoricalEntity entity) {
@@ -58,11 +73,10 @@ public class DetailSceneController {
             Label claimsLabel = new Label(type);
             claimsLabel.getStyleClass().add("section-label");
             claimsContainer.getChildren().add(claimsLabel);
-        }
-
-        if (entity != null) {
-            addDescriptionSection(entity.getDescription());
-            addAliasesSection(entity.getAliases());
+            if (type.equals("THÔNG TIN")) {
+                addDescriptionSection(entity.getDescription());
+                addAliasesSection(entity.getAliases());
+            }
         }
 
         if (jsonNode == null) {
@@ -95,7 +109,7 @@ public class DetailSceneController {
                 Text valueText = new Text(value.trim());
 
                 if (propertyDetail.has("id")) {
-                    configureLinkedValueText(valueText, propertyDetail.get("id").asText());
+                    configureLinkedValueText(valueText, propertyDetail.get("id").asText(), entity);
                 }
 
                 valueTextFlow.getChildren().add(valueText);
@@ -198,7 +212,7 @@ public class DetailSceneController {
         valueTextFlow.getChildren().add(qualifierTextFlow); 
     }
 
-    private void configureLinkedValueText(Text valueText, String entityId) {
+    private void configureLinkedValueText(Text valueText, String entityId, HistoricalEntity backEntity) {
         valueText.setFill(Color.web("#3498db"));
         valueText.setCursor(Cursor.HAND);
         valueText.getStyleClass().add("linked-text");
@@ -206,11 +220,12 @@ public class DetailSceneController {
             try {
                 HistoricalEntity entity = App.fetchEntity(entityId);
                 if (entity != null) {
-                    App.setRootWithEntity("DetailScene", entity);
+                    App.setRootWithEntity("DetailScene", entity, backEntity);
                 }
             } catch (IOException e) {
                 e.printStackTrace();
             }
         });
     }
+
 }

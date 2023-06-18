@@ -97,10 +97,20 @@ public class App extends Application {
      * @throws IOException if the FXML file cannot be loaded
      */
     public static void setRootWithEntity(String fxml, HistoricalEntity entity) throws IOException {
+        setRootWithEntity(fxml, entity, null);
+    }
+
+    public static void setRootWithEntity(String fxml, HistoricalEntity nextEntity, HistoricalEntity previousEntity)throws IOException {
+        System.out.println(nextEntity.getLabel());
+
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
         DetailSceneController controller = fxmlLoader.getController();
-        controller.setData(entity);
+        controller.setData(nextEntity);
+        if (!(previousEntity == null)){
+            System.out.println(previousEntity.getLabel());
+            controller.setBack(previousEntity);
+        };
         scene.setRoot(root);
     }
 
