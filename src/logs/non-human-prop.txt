@@ -1,0 +1,1165 @@
+data/địa điểm du lịch, di tích lịch sử/Q7619083.json
+Name: nói, viết hoặc ký bằng các ngôn ngữ
+    Appear: 1
+    nói, viết hoặc ký bằng các ngôn ngữ: chữ Hán
+
+data/sự kiện lịch sử/Q748780.json
+Name: lịch sử của
+    Appear: 1
+    lịch sử của: Quân đội Quốc gia Việt Nam
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: thành phố kết nghĩa
+    Appear: 1
+    thành phố kết nghĩa: Blois
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: giáo phận của
+    Appear: 1
+    giáo phận của: Ngô Đình Thục
+
+data/sự kiện lịch sử/Q6269566.json
+Name: dẫn đến
+    Appear: 2
+    dẫn đến: Chiến tranh Việt Nam tại Campuchia
+
+data/địa điểm du lịch, di tích lịch sử/Q1088224.json
+Name: phong trào
+    Appear: 1
+    phong trào: Art Deco
+
+data/sự kiện lịch sử/Q182121.json
+Name: trái nghĩa với
+    Appear: 1
+    trái nghĩa với: chủ nghĩa cộng sản
+
+data/địa điểm du lịch, di tích lịch sử/Q5929149.json
+Name: công trình thay thế cho
+    Appear: 1
+    công trình thay thế cho: Điện Long An
+
+data/triều đại lịch sử/Q878309.json
+Name: tham gia
+    Appear: 1
+    tham gia: Con đường tơ lụa
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: khác với
+    Appear: 9
+    khác với: Huế
+
+data/địa điểm du lịch, di tích lịch sử/Q10743287.json
+Name: vị trí trụ sở
+    Appear: 3
+    vị trí trụ sở: Hà Nội
+
+data/địa điểm du lịch, di tích lịch sử/Q7619083.json
+Name: cách dùng
+    Appear: 4
+    cách dùng: văn kiện
+
+data/địa điểm du lịch, di tích lịch sử/Q55954790.json
+Name: màu sắc
+    Appear: 1
+    màu sắc: vàng kim loại
+
+data/sự kiện lịch sử/Q183421.json
+Name: số phạm nhân
+    Appear: 1
+    số phạm nhân: 1204323  
+
+data/địa điểm du lịch, di tích lịch sử/Q10911930.json
+Name: nằm trên hoặc trong địa mạo
+    Appear: 22
+    nằm trên hoặc trong địa mạo: quần đảo Trường Sa
+
+data/sự kiện lịch sử/Q249853.json
+Name: chủ tịch
+    Appear: 1
+    chủ tịch: Vàng Pao
+
+data/triều đại lịch sử/Q6500483.json
+Name: bài hát chính thức
+    Appear: 2
+    bài hát chính thức: Đăng đàn cung
+
+data/sự kiện lịch sử/Q748780.json
+Name: được biết đến nhờ ảnh hưởng của
+    Appear: 1
+    được biết đến nhờ ảnh hưởng của: Nguyễn Văn Lập
+
+data/địa điểm du lịch, di tích lịch sử/Q864758.json
+Name: địa chỉ đầy đủ của
+    Appear: 2
+    địa chỉ đầy đủ của: Liên bang Đông Dương
+
+data/triều đại lịch sử/Q1034173.json
+Name: các đơn vị của
+    Appear: 1
+    các đơn vị của: Trận Rạch Gầm – Xoài Mút
+
+data/địa điểm du lịch, di tích lịch sử/Q10768928.json
+Name: nơi khám phá
+    Appear: 4
+    nơi khám phá: Hà Đông
+
+data/triều đại lịch sử/Q6500483.json
+Name: quốc gia của
+    Appear: 2
+    quốc gia của: Khâm định Việt sử Thông giám cương mục
+
+data/triều đại lịch sử/Q1317884.json
+Name: ngôn ngữ chính thức
+    Appear: 6
+    ngôn ngữ chính thức: tiếng Việt
+
+data/địa điểm du lịch, di tích lịch sử/Q864758.json
+Name: số tầng trên mặt đất
+    Appear: 2
+    số tầng trên mặt đất: 3  
+
+data/địa điểm du lịch, di tích lịch sử/Q60974.json
+Name: lưu lượng
+    Appear: 3
+    lưu lượng: 5.351 mét khối trên giây
+
+data/triều đại lịch sử/Q878309.json
+Name: chức vụ của
+    Appear: 3
+    chức vụ của: Lý Thái Tông
+
+data/địa điểm du lịch, di tích lịch sử/Q5029050.json
+Name: nơi miệng của
+    Appear: 1
+    nơi miệng của: Sông Đồng Nai
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: thành phố gần nhất của
+    Appear: 1
+    thành phố gần nhất của: Vườn quốc gia Bạch Mã
+
+data/địa điểm du lịch, di tích lịch sử/Q10768928.json
+Name: tên gọi
+    Appear: 7
+    tên gọi: Trống đồng Hoàng Hạ
+
+data/địa điểm du lịch, di tích lịch sử/Q4115006.json
+Name: tên
+    Appear: 1
+    tên: Sân bay quốc tế Tân Sơn Nhất
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: số vùng điện thoại
+    Appear: 1
+    số vùng điện thoại: 54
+
+data/sự kiện lịch sử/Q3616301.json
+Name: trận đánh của
+    Appear: 35
+    trận đánh của: Sư đoàn 304, Quân đội Nhân dân Việt Nam
+
+data/triều đại lịch sử/Q1209047.json
+Name: cuộc xung đột
+    Appear: 3
+    cuộc xung đột: Chiến tranh Minh - Đại Ngu
+
+data/sự kiện lịch sử/Q4750162.json
+Name: tác giả
+    Appear: 7
+    tác giả: Lê Tắc
+
+data/địa điểm du lịch, di tích lịch sử/Q5965459.json
+Name: xếp hạng di sản
+    Appear: 23
+    xếp hạng di sản: Di sản thế giới
+
+data/địa điểm du lịch, di tích lịch sử/Q782099.json
+Name: dành riêng cho
+    Appear: 7
+    dành riêng cho: Maria
+
+data/sự kiện lịch sử/Q10842249.json
+Name: tư tưởng chính trị
+    Appear: 1
+    tư tưởng chính trị: chủ nghĩa cộng sản
+
+data/địa điểm du lịch, di tích lịch sử/Q16481033.json
+Name: được đặt tên theo
+    Appear: 15
+    được đặt tên theo: Gherman Stepanovich Titov
+
+data/sự kiện lịch sử/Q5254589.json
+Name: là tập hợp con của
+    Appear: 1
+    là tập hợp con của: biểu tình
+
+data/triều đại lịch sử/Q6500483.json
+Name: điều khiển của
+    Appear: 1
+    điều khiển của: Thành Gia Định
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: tên chính thức
+    Appear: 7
+    tên chính thức: Phú Xuân
+
+data/địa điểm du lịch, di tích lịch sử/Q11072051.json
+Name: sân nhà của
+    Appear: 1
+    sân nhà của: Yết Kiêu (HQ-927)
+
+data/địa điểm du lịch, di tích lịch sử/Q106656518.json
+Name: nhân vật
+    Appear: 2
+    nhân vật: Quán Thế Âm
+
+data/sự kiện lịch sử/Q3089036.json
+Name: thuộc quyền tài phán
+    Appear: 3
+    thuộc quyền tài phán: Campuchia
+
+data/địa điểm du lịch, di tích lịch sử/Q215664.json
+Name: danh sách
+    Appear: 1
+    danh sách: Danh sách thực thể bị chiếm đóng ở quần đảo Trường Sa
+
+data/triều đại lịch sử/Q1034173.json
+Name: thực thể tham chiến của
+    Appear: 6
+    thực thể tham chiến của: Trận Ngọc Hồi - Đống Đa
+
+data/địa điểm du lịch, di tích lịch sử/Q2942901.json
+Name: nghi thức phụng vụ Kitô giáo
+    Appear: 12
+    nghi thức phụng vụ Kitô giáo: Nghi thức Rôma
+
+data/địa điểm du lịch, di tích lịch sử/Q10796763.json
+Name: quốc gia
+    Appear: 804
+    quốc gia: Việt Nam
+
+data/địa điểm du lịch, di tích lịch sử/Q1421202.json
+Name: chính quyền
+    Appear: 1
+    chính quyền: Bộ Nông nghiệp và Phát triển Nông thôn
+
+data/sự kiện lịch sử/Q20969067.json
+Name: quốc ca
+    Appear: 3
+    quốc ca: Đăng đàn cung
+
+data/địa điểm du lịch, di tích lịch sử/Q1076388.json
+Name: cổng của
+    Appear: 1
+    cổng của: Sông Đồng Nai
+
+data/địa điểm du lịch, di tích lịch sử/Q7619083.json
+Name: số lượng
+    Appear: 4
+    số lượng: 82 bia
+
+data/địa điểm du lịch, di tích lịch sử/Q391406.json
+Name: văn hóa
+    Appear: 5
+    văn hóa: Chăm Pa
+
+data/sự kiện lịch sử/Q769960.json
+Name: sự kiện trước của
+    Appear: 2
+    sự kiện trước của: Việt Nam Dân chủ Cộng hòa
+
+data/địa điểm du lịch, di tích lịch sử/Q106656518.json
+Name: chiều rộng
+    Appear: 17
+    chiều rộng: 200 xentimét
+
+data/địa điểm du lịch, di tích lịch sử/Q1088224.json
+Name: kiến trúc sư
+    Appear: 3
+    kiến trúc sư: Ernest Hébrard
+
+data/địa điểm du lịch, di tích lịch sử/Q782099.json
+Name: nhà thờ chính tòa của
+    Appear: 2
+    nhà thờ chính tòa của: Giáo phận Phát Diệm
+
+data/lễ hội văn hóa/Q10831151.json
+Name: hãng đĩa ghi âm của
+    Appear: 1
+    hãng đĩa ghi âm của: Tôn giáo tại Việt Nam
+
+data/địa điểm du lịch, di tích lịch sử/Q28197251.json
+Name: chôn cất của
+    Appear: 1
+    chôn cất của: Philípphê Nguyễn Kim Điền
+
+data/địa điểm du lịch, di tích lịch sử/Q874234.json
+Name: chủ thể được xây dựng
+    Appear: 1
+    chủ thể được xây dựng: Hồ Chí Minh
+
+data/địa điểm du lịch, di tích lịch sử/Q187702.json
+Name: phong cách kiến trúc
+    Appear: 7
+    phong cách kiến trúc: kiến trúc La Mã
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: nhãn bản ngữ
+    Appear: 14
+    nhãn bản ngữ: Thành Phố Huế
+
+data/triều đại lịch sử/Q1209047.json
+Name: đơn vị tiền tệ
+    Appear: 16
+    đơn vị tiền tệ: tiền
+
+data/địa điểm du lịch, di tích lịch sử/Q10768928.json
+Name: đường kính
+    Appear: 1
+    đường kính: 78.5 xentimét
+
+data/sự kiện lịch sử/Q5254589.json
+Name: loạt
+    Appear: 1
+    loạt: Chiến tranh Việt Nam
+
+data/địa điểm du lịch, di tích lịch sử/Q10752805.json
+Name: phỏng theo
+    Appear: 1
+    phỏng theo: Cửu đỉnh
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: miêu tả trong
+    Appear: 13
+    miêu tả trong: Từ điển bách khoa Brockhaus và Efron
+
+data/sự kiện lịch sử/Q672556.json
+Name: ký bởi
+    Appear: 5
+    ký bởi: Jean Baptiste Paul Beau
+
+data/địa điểm du lịch, di tích lịch sử/Q1005307.json
+Name: đảo lớn của
+    Appear: 6
+    đảo lớn của: quần đảo Trường Sa
+
+data/sự kiện lịch sử/Q86005745.json
+Name: lấy cảm hứng từ
+    Appear: 1
+    lấy cảm hứng từ: Chiến dịch đả hổ diệt ruồi
+
+data/triều đại lịch sử/Q3111454.json
+Name: dân tộc
+    Appear: 1
+    dân tộc: người Hoa
+
+data/sự kiện lịch sử/Q182121.json
+Name: khía cạnh của
+    Appear: 1
+    khía cạnh của: Chủ nghĩa bảo thủ
+
+data/sự kiện lịch sử/Q10787231.json
+Name: nơi xuất bản
+    Appear: 1
+    nơi xuất bản: Sài Gòn
+
+data/địa điểm du lịch, di tích lịch sử/Q10911930.json
+Name: gồm có
+    Appear: 21
+    gồm có: Đá Bắc
+
+data/địa điểm du lịch, di tích lịch sử/Q19840069.json
+Name: người/tổ chức cư ngụ
+    Appear: 4
+    người/tổ chức cư ngụ: Lực lượng Biệt động quân Việt Nam Cộng hòa
+
+data/sự kiện lịch sử/Q2448644.json
+Name: một phần của xung đột quân sự của
+    Appear: 9
+    một phần của xung đột quân sự của: Trận Bình Lệ Nguyên
+
+data/địa điểm du lịch, di tích lịch sử/Q5029050.json
+Name: vị trí miệng của
+    Appear: 1
+    vị trí miệng của: Sông Đồng Nai
+
+data/địa điểm du lịch, di tích lịch sử/Q106656518.json
+Name: ảnh hưởng bởi
+    Appear: 4
+    ảnh hưởng bởi: Phật giáo
+
+data/sự kiện lịch sử/Q4356691.json
+Name: thời điểm
+    Appear: 119
+    thời điểm: Ngày 16 Tháng 02 Năm 1965
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: nơi mất của
+    Appear: 16
+    nơi mất của: Vũ Thị Duyên
+
+data/địa điểm du lịch, di tích lịch sử/Q782099.json
+Name: tôn giáo
+    Appear: 37
+    tôn giáo: Công giáo
+
+data/địa điểm du lịch, di tích lịch sử/Q106656518.json
+Name: bộ sưu tập
+    Appear: 11
+    bộ sưu tập: Bảo tàng Mỹ thuật Việt Nam
+
+data/sự kiện lịch sử/Q182121.json
+Name: tư tưởng chính trị của
+    Appear: 1
+    tư tưởng chính trị của: Đảng Cần lao Nhân vị
+
+data/địa điểm du lịch, di tích lịch sử/Q187702.json
+Name: sức chứa tối đa
+    Appear: 1
+    sức chứa tối đa: 8000  
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: trung tâm hành chính của
+    Appear: 3
+    trung tâm hành chính của: Lâm Ấp
+
+data/sự kiện lịch sử/Q4750162.json
+Name: nhà xuất bản
+    Appear: 2
+    nhà xuất bản: Nhà Nguyên
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: thành phố chính của
+    Appear: 2
+    thành phố chính của: Vietravel Airlines
+
+data/địa điểm du lịch, di tích lịch sử/Q60974.json
+Name: diện tích lưu vực
+    Appear: 1
+    diện tích lưu vực: 146000 kilômét vuông
+
+data/địa điểm du lịch, di tích lịch sử/Q10768928.json
+Name: ngày khám phá
+    Appear: 6
+    ngày khám phá: Năm 1937
+
+data/địa điểm du lịch, di tích lịch sử/Q10768928.json
+Name: số kiểm kê
+    Appear: 5
+    số kiểm kê: Lsb.5723
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: tên phân khu của
+    Appear: 3
+    tên phân khu của: Thuận An
+
+data/địa điểm du lịch, di tích lịch sử/Q60974.json
+Name: quốc gia trong lưu vực
+    Appear: 1
+    quốc gia trong lưu vực: Canada
+
+data/địa điểm du lịch, di tích lịch sử/Q106656518.json
+Name: chiều cao
+    Appear: 14
+    chiều cao: 235 xentimét
+
+data/sự kiện lịch sử/Q182121.json
+Name: phản đối
+    Appear: 2
+    phản đối: chủ nghĩa cộng sản
+
+data/lễ hội văn hóa/Q10788596.json
+Name: mục tiêu của dự án hoặc hành động
+    Appear: 1
+    mục tiêu của dự án hoặc hành động: Khuyến nông Việt Nam
+
+data/lễ hội văn hóa/Q379519.json
+Name: món ăn truyền thống
+    Appear: 1
+    món ăn truyền thống: bánh trung thu
+
+data/triều đại lịch sử/Q1209047.json
+Name: lãnh đạo
+    Appear: 16
+    lãnh đạo: Hồ Hán Thương
+
+data/địa điểm du lịch, di tích lịch sử/Q159144.json
+Name: khách thăm hàng năm
+    Appear: 1
+    khách thăm hàng năm: 250000  
+
+data/triều đại lịch sử/Q878309.json
+Name: nằm trong phạm vi của khu vực hành chính ngày nay
+    Appear: 5
+    nằm trong phạm vi của khu vực hành chính ngày nay: Việt Nam
+
+data/địa điểm du lịch, di tích lịch sử/Q866033.json
+Name: tọa lạc trong hoặc bên cạnh thủy vực
+    Appear: 45
+    tọa lạc trong hoặc bên cạnh thủy vực: Biển Đông
+
+data/địa điểm du lịch, di tích lịch sử/Q274388.json
+Name: các phân cấp hành chính
+    Appear: 1
+    các phân cấp hành chính: Vĩnh Hưng
+
+data/địa điểm du lịch, di tích lịch sử/Q159144.json
+Name: lượt theo dõi trên phương tiện truyền thông xã hội
+    Appear: 5
+    lượt theo dõi trên phương tiện truyền thông xã hội: 29828  
+
+data/địa điểm du lịch, di tích lịch sử/Q619905.json
+Name: mệnh lệnh của
+    Appear: 1
+    mệnh lệnh của: Phạm Phú Quốc
+
+data/địa điểm du lịch, di tích lịch sử/Q864758.json
+Name: tủ hq của
+    Appear: 1
+    tủ hq của: chính trị Việt Nam
+
+data/sự kiện lịch sử/Q491117.json
+Name: câu ghi
+    Appear: 1
+    câu ghi: Hàn Quốc trong chiến tranh Việt Nam
+
+data/địa điểm du lịch, di tích lịch sử/Q782099.json
+Name: nơi thánh hiến của
+    Appear: 1
+    nơi thánh hiến của: Tađêô Lê Hữu Từ
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: sân bay của
+    Appear: 2
+    sân bay của: Vietravel Airlines
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: nơi sinh của
+    Appear: 9
+    nơi sinh của: Nguyễn Phúc Vĩnh Lộc
+
+data/sự kiện lịch sử/Q1072362.json
+Name: chế độ chính phủ
+    Appear: 3
+    chế độ chính phủ: cộng hòa
+
+data/địa điểm du lịch, di tích lịch sử/Q864758.json
+Name: nơi cư trú của
+    Appear: 2
+    nơi cư trú của: Chủ tịch nước Việt Nam
+
+data/sự kiện lịch sử/Q4750162.json
+Name: tình trạng bản quyền
+    Appear: 4
+    tình trạng bản quyền: phạm vi công cộng
+
+data/triều đại lịch sử/Q1209047.json
+Name: tiếp giáp với
+    Appear: 4
+    tiếp giáp với: Lan Xang
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: mã bưu chính
+    Appear: 4
+    mã bưu chính: 530000–539999
+
+data/địa điểm du lịch, di tích lịch sử/Q187702.json
+Name: dòng tu
+    Appear: 1
+    dòng tu: Dòng Anh Em Hèn Mọn
+
+data/sự kiện lịch sử/Q2627940.json
+Name: phạm nhân
+    Appear: 1
+    phạm nhân: Nguyễn Văn Cử
+
+data/sự kiện lịch sử/Q4750162.json
+Name: ngày xuất bản/phát hành
+    Appear: 11
+    ngày xuất bản/phát hành: Năm 1335
+
+data/địa điểm du lịch, di tích lịch sử/Q60974.json
+Name: phụ lưu
+    Appear: 1
+    phụ lưu: Kênh đào Rideau
+
+data/lễ hội văn hóa/Q10831151.json
+Name: tôn giáo của
+    Appear: 1
+    tôn giáo của: Người Việt tại Đài Loan
+
+data/địa điểm du lịch, di tích lịch sử/Q1442181.json
+Name: quần đảo của
+    Appear: 3
+    quần đảo của: Thổ Chu
+
+data/địa điểm du lịch, di tích lịch sử/Q60974.json
+Name: lục địa
+    Appear: 6
+    lục địa: Bắc Mỹ
+
+data/địa điểm du lịch, di tích lịch sử/Q2942901.json
+Name: chất liệu
+    Appear: 16
+    chất liệu: bê tông
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: dân số
+    Appear: 13
+    dân số: 652572  
+
+data/lễ hội văn hóa/Q2963441.json
+Name: ngày trong năm của chu kỳ xảy ra
+    Appear: 3
+    ngày trong năm của chu kỳ xảy ra: 30 tháng 4
+
+data/triều đại lịch sử/Q1209047.json
+Name: phần kế trước của
+    Appear: 9
+    phần kế trước của: Bắc thuộc lần 4
+
+data/địa điểm du lịch, di tích lịch sử/Q7818628.json
+Name: nơi chôn cất của
+    Appear: 7
+    nơi chôn cất của: Lê Văn Duyệt
+
+data/địa điểm du lịch, di tích lịch sử/Q274388.json
+Name: bảo quản bởi
+    Appear: 1
+    bảo quản bởi: Tam Sa
+
+data/địa điểm du lịch, di tích lịch sử/Q5965378.json
+Name: dữ liệu bên ngoài có sẵn tại
+    Appear: 1
+    dữ liệu bên ngoài có sẵn tại: Thanh Hóa
+
+data/địa điểm du lịch, di tích lịch sử/Q10779554.json
+Name: được thay thế bởi
+    Appear: 6
+    được thay thế bởi: Thư viện Khoa học Tổng hợp Thành phố Hồ Chí Minh
+
+data/địa điểm du lịch, di tích lịch sử/Q91765289.json
+Name: nơi lập pháp của
+    Appear: 1
+    nơi lập pháp của: chính trị Việt Nam
+
+data/địa điểm du lịch, di tích lịch sử/Q1496675.json
+Name: ngày bắt đầu phục vụ
+    Appear: 1
+    ngày bắt đầu phục vụ: Năm 1900
+
+data/địa điểm du lịch, di tích lịch sử/Q10840231.json
+Name: công trình được thay thế bằng
+    Appear: 1
+    công trình được thay thế bằng: Bảo tàng Mỹ thuật Cung đình Huế
+
+data/địa điểm du lịch, di tích lịch sử/Q2405955.json
+Name: chu vi
+    Appear: 4
+    chu vi: 0 kilômét
+
+data/địa điểm du lịch, di tích lịch sử/Q5005097.json
+Name: chủ sở hữu
+    Appear: 3
+    chủ sở hữu: Chính phủ Việt Nam
+
+data/sự kiện lịch sử/Q280468.json
+Name: số người tử vong
+    Appear: 7
+    số người tử vong: 104  
+
+data/sự kiện lịch sử/Q1072362.json
+Name: nhánh của
+    Appear: 1
+    nhánh của: Mặt trận Dân tộc Giải phóng miền Nam Việt Nam
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: phân khu của
+    Appear: 4
+    phân khu của: Thuận An
+
+data/sự kiện lịch sử/Q10842249.json
+Name: cánh của
+    Appear: 1
+    cánh của: Đảng Cộng sản Việt Nam
+
+data/địa điểm du lịch, di tích lịch sử/Q1926602.json
+Name: điểm cuối cùng của
+    Appear: 1
+    điểm cuối cùng của: Chuyến bay 474 của Vietnam Airlines
+
+data/địa điểm du lịch, di tích lịch sử/Q10796763.json
+Name: là một
+    Appear: 999
+    là một: bãi biển
+
+data/sự kiện lịch sử/Q482456.json
+Name: có quan hệ với của
+    Appear: 1
+    có quan hệ với của: Ngày Giải phóng miền Nam
+
+data/sự kiện lịch sử/Q1072362.json
+Name: đảng viên của đảng chính trị của
+    Appear: 1
+    đảng viên của đảng chính trị của: Trương Như Tảng
+
+data/triều đại lịch sử/Q6500483.json
+Name: chủ làm việc của
+    Appear: 1
+    chủ làm việc của: Trương Định
+
+data/sự kiện lịch sử/Q2627940.json
+Name: mục tiêu
+    Appear: 2
+    mục tiêu: Ngô Đình Diệm
+
+data/sự kiện lịch sử/Q748780.json
+Name: sự sử dụng trong chiến tranh của
+    Appear: 3
+    sự sử dụng trong chiến tranh của: M3 Grease Gun
+
+data/địa điểm du lịch, di tích lịch sử/Q106656518.json
+Name: mô tả
+    Appear: 7
+    mô tả: Quán Thế Âm
+
+data/lễ hội văn hóa/Q1320004.json
+Name: quốc gia xuất xứ
+    Appear: 5
+    quốc gia xuất xứ: Việt Nam
+
+data/sự kiện lịch sử/Q107304097.json
+Name: điểm cuối cùng
+    Appear: 1
+    điểm cuối cùng: Thành phố Hồ Chí Minh
+
+data/triều đại lịch sử/Q6500483.json
+Name: thuộc quyền tài phán của
+    Appear: 1
+    thuộc quyền tài phán của: Viện cơ mật (Huế)
+
+data/triều đại lịch sử/Q6500483.json
+Name: thành viên của
+    Appear: 2
+    thành viên của: Liên bang Đông Dương
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: trụ sở chính của
+    Appear: 2
+    trụ sở chính của: Vietravel Airlines
+
+data/địa điểm du lịch, di tích lịch sử/Q1055897.json
+Name: chủ đề
+    Appear: 3
+    chủ đề: Hồ Chí Minh
+
+data/triều đại lịch sử/Q1034173.json
+Name: người tiền nhiệm của
+    Appear: 1
+    người tiền nhiệm của: Nguyễn Nhạc
+
+data/sự kiện lịch sử/Q482456.json
+Name: tương tự của
+    Appear: 1
+    tương tự của: Ngày Giải phóng miền Nam
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: địa phương của
+    Appear: 4
+    địa phương của: Trường Trung học phổ thông chuyên Quốc Học – Huế
+
+data/triều đại lịch sử/Q10800791.json
+Name: tình trạng xuất xứ của
+    Appear: 1
+    tình trạng xuất xứ của: Đoàn Thị Điểm
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: diện tích
+    Appear: 72
+    diện tích: 265.99 kilômét vuông
+
+data/địa điểm du lịch, di tích lịch sử/Q7180409.json
+Name: mã sân bay ICAO
+    Appear: 5
+    mã sân bay ICAO: VVPR
+
+data/địa điểm du lịch, di tích lịch sử/Q146695.json
+Name: bộ phận quản lý quốc gia của
+    Appear: 1
+    bộ phận quản lý quốc gia của: Thổ Chu
+
+data/sự kiện lịch sử/Q748780.json
+Name: chiến tranh của
+    Appear: 3
+    chiến tranh của: DShK
+
+data/địa điểm du lịch, di tích lịch sử/Q42548080.json
+Name: dịch giả
+    Appear: 1
+    dịch giả: Étienne Aymonier
+
+data/triều đại lịch sử/Q2301908.json
+Name: kế vị của
+    Appear: 1
+    kế vị của: Gia Long
+
+data/sự kiện lịch sử/Q3616301.json
+Name: cuộc xung đột của
+    Appear: 42
+    cuộc xung đột của: Sư đoàn 2 Bộ binh Quân lực Việt Nam Cộng hòa
+
+data/triều đại lịch sử/Q878309.json
+Name: tôn giáo chính thức
+    Appear: 4
+    tôn giáo chính thức: Phật giáo
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: vị trí trụ sở của
+    Appear: 2
+    vị trí trụ sở của: Sư đoàn 1 Bộ binh Quân lực Việt Nam Cộng hòa
+
+data/địa điểm du lịch, di tích lịch sử/Q106656518.json
+Name: tiêu đề
+    Appear: 7
+    tiêu đề: Thiên thủ thiên nhãn Quan thế âm Bồ tát Phật tượng
+
+data/địa điểm du lịch, di tích lịch sử/Q10834099.json
+Name: tiêu biểu cho
+    Appear: 1
+    tiêu biểu cho: Đàng Trong
+
+data/triều đại lịch sử/Q6500483.json
+Name: nhà xuất bản của
+    Appear: 2
+    nhà xuất bản của: Khâm định Việt sử Thông giám cương mục
+
+data/địa điểm du lịch, di tích lịch sử/Q97777007.json
+Name: địa chỉ đầy đủ
+    Appear: 5
+    địa chỉ đầy đủ: 9A Hồ Xuân Hương, Phường 9, Đà Lạt, Lâm Đồng
+
+data/sự kiện lịch sử/Q5507706.json
+Name: ngày giải thể, bãi bỏ hoặc phá bỏ
+    Appear: 21
+    ngày giải thể, bãi bỏ hoặc phá bỏ: Năm 0629
+
+data/địa điểm du lịch, di tích lịch sử/Q161258.json
+Name: ký tự Unicode
+    Appear: 1
+    ký tự Unicode: 🇨🇵
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: thủ đô / thủ phủ / tỉnh lỵ / quận lỵ của
+    Appear: 6
+    thủ đô / thủ phủ / tỉnh lỵ / quận lỵ của: Thừa Thiên Huế
+
+data/sự kiện lịch sử/Q2448644.json
+Name: sự kiện quan trọng của
+    Appear: 9
+    sự kiện quan trọng của: Nhà Trần
+
+data/địa điểm du lịch, di tích lịch sử/Q1055897.json
+Name: ngày mở cửa
+    Appear: 14
+    ngày mở cửa: Năm 1990
+
+data/địa điểm du lịch, di tích lịch sử/Q215664.json
+Name: tên gọi khác
+    Appear: 1
+    tên gọi khác: Kalayaan
+
+data/sự kiện lịch sử/Q280468.json
+Name: số người bị thương
+    Appear: 1
+    số người bị thương: 147  
+
+data/địa điểm du lịch, di tích lịch sử/Q5029050.json
+Name: miệng núi của
+    Appear: 1
+    miệng núi của: Sông Đồng Nai
+
+data/địa điểm du lịch, di tích lịch sử/Q782099.json
+Name: chú thích phương tiện của
+    Appear: 5
+    chú thích phương tiện của: Phát Diệm
+
+data/triều đại lịch sử/Q1209333.json
+Name: thời kì
+    Appear: 1
+    thời kì: thời đại đồ đồng
+
+data/địa điểm du lịch, di tích lịch sử/Q60974.json
+Name: cửa sông
+    Appear: 1
+    cửa sông: Sông Saint Lawrence
+
+data/triều đại lịch sử/Q10800791.json
+Name: quốc tịch của
+    Appear: 1
+    quốc tịch của: Đoàn Thị Điểm
+
+data/địa điểm du lịch, di tích lịch sử/Q428129.json
+Name: nơi thụ phong linh mục của
+    Appear: 1
+    nơi thụ phong linh mục của: Phêrô Nguyễn Văn Khảm
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: múi giờ
+    Appear: 10
+    múi giờ: UTC+7
+
+data/địa điểm du lịch, di tích lịch sử/Q106656518.json
+Name: thời kỳ
+    Appear: 13
+    thời kỳ: Nhà Lê trung hưng
+
+data/triều đại lịch sử/Q10825108.json
+Name: nhà của
+    Appear: 13
+    nhà của: Triệu Đà
+
+data/sự kiện lịch sử/Q5254589.json
+Name: dẫn đến của
+    Appear: 1
+    dẫn đến của: Văn hoá phản kháng của thập niên 1960
+
+data/địa điểm du lịch, di tích lịch sử/Q16481033.json
+Name: địa phương
+    Appear: 231
+    địa phương: Hạ Long
+
+data/địa điểm du lịch, di tích lịch sử/Q782099.json
+Name: ngày thành lập hoặc tạo ra
+    Appear: 124
+    ngày thành lập hoặc tạo ra: Năm 1899
+
+data/sự kiện lịch sử/Q86005745.json
+Name: sáng tác
+    Appear: 7
+    sáng tác: Nguyễn Phú Trọng
+
+data/sự kiện lịch sử/Q97167535.json
+Name: số người bị bắt giữ
+    Appear: 1
+    số người bị bắt giữ: 52  
+
+data/sự kiện lịch sử/Q1072362.json
+Name: tên gọi dân cư
+    Appear: 1
+    tên gọi dân cư: người Việt
+
+data/triều đại lịch sử/Q1034173.json
+Name: lòng trung thành của
+    Appear: 2
+    lòng trung thành của: Lê Chất
+
+data/địa điểm du lịch, di tích lịch sử/Q713628.json
+Name: nhà quản lý
+    Appear: 5
+    nhà quản lý: Cục Công viên Quốc gia Hoa Kỳ
+
+data/địa điểm du lịch, di tích lịch sử/Q7619083.json
+Name: người đặt làm
+    Appear: 4
+    người đặt làm: Lê Thánh Tông
+
+data/sự kiện lịch sử/Q1257296.json
+Name: sự kiện bắt đầu của
+    Appear: 3
+    sự kiện bắt đầu của: Việt Nam Cộng hòa
+
+data/sự kiện lịch sử/Q3616301.json
+Name: ngày kết thúc
+    Appear: 80
+    ngày kết thúc: Ngày 02 Tháng 04 Năm 1975
+
+data/địa điểm du lịch, di tích lịch sử/Q3137837.json
+Name: núi cao nhất của
+    Appear: 1
+    núi cao nhất của: quần đảo Trường Sa
+
+data/sự kiện lịch sử/Q10755041.json
+Name: ngày công bố
+    Appear: 1
+    ngày công bố: Ngày 09 Tháng 09 Năm 1969
+
+data/địa điểm du lịch, di tích lịch sử/Q2405955.json
+Name: chính quyền tuyên bố chủ quyền
+    Appear: 24
+    chính quyền tuyên bố chủ quyền: Brunei
+
+data/sự kiện lịch sử/Q672556.json
+Name: sự kiện quan trọng
+    Appear: 14
+    sự kiện quan trọng: Phong trào Nghĩa Hòa Đoàn
+
+data/sự kiện lịch sử/Q5005106.json
+Name: có ấn bản hoặc bản dịch
+    Appear: 2
+    có ấn bản hoặc bản dịch: Bình Ngô đại cáo
+
+data/sự kiện lịch sử/Q1072362.json
+Name: nội dung khẩu hiệu
+    Appear: 1
+    nội dung khẩu hiệu: Độc lập - Dân chủ - Hoà bình - Trung lập
+
+data/địa điểm du lịch, di tích lịch sử/Q10796763.json
+Name: cao độ so với mực nước biển
+    Appear: 54
+    cao độ so với mực nước biển: 1 mét
+
+data/địa điểm du lịch, di tích lịch sử/Q619905.json
+Name: đường băng
+    Appear: 1
+    đường băng: 09L/27R
+
+data/triều đại lịch sử/Q10800789.json
+Name: được tuyên bố trong
+    Appear: 1
+    được tuyên bố trong: Encyclopædia Britannica
+
+data/địa điểm du lịch, di tích lịch sử/Q10840231.json
+Name: chủ thể là
+    Appear: 1
+    chủ thể là: Điện thờ
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: thay thế cho
+    Appear: 6
+    thay thế cho: Kinh thành Huế
+
+data/sự kiện lịch sử/Q4750162.json
+Name: ngôn ngữ gốc của tác phẩm
+    Appear: 5
+    ngôn ngữ gốc của tác phẩm: văn ngôn
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: sân vận động của
+    Appear: 1
+    sân vận động của: Câu lạc bộ bóng đá Huda Huế
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: vị trí của
+    Appear: 15
+    vị trí của: Biến động Miền Trung
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: nằm trong khu vực của
+    Appear: 1
+    nằm trong khu vực của: Cầu Trường Tiền
+
+data/triều đại lịch sử/Q1209047.json
+Name: phần tiếp theo của
+    Appear: 8
+    phần tiếp theo của: Nhà Trần
+
+data/địa điểm du lịch, di tích lịch sử/Q36167.json
+Name: kiểu
+    Appear: 5
+    kiểu: thành phố trực thuộc tỉnh Việt Nam
+
+data/triều đại lịch sử/Q1209047.json
+Name: sử dụng ngôn ngữ
+    Appear: 8
+    sử dụng ngôn ngữ: chữ Nôm
+
+data/sự kiện lịch sử/Q5507706.json
+Name: trung tâm hành chính
+    Appear: 24
+    trung tâm hành chính: Trà Kiệu
+
+data/sự kiện lịch sử/Q7022318.json
+Name: nhân vật quan trọng
+    Appear: 4
+    nhân vật quan trọng: Trần Phú
+
+data/địa điểm du lịch, di tích lịch sử/Q782099.json
+Name: giáo phận
+    Appear: 20
+    giáo phận: Giáo phận Phát Diệm
+
+data/sự kiện lịch sử/Q4750162.json
+Name: ngôn ngữ của tên gọi hoặc tác phẩm
+    Appear: 5
+    ngôn ngữ của tên gọi hoặc tác phẩm: văn ngôn
+
+data/địa điểm du lịch, di tích lịch sử/Q42548080.json
+Name: chiều dày
+    Appear: 1
+    chiều dày: 80 xentimét
+
+data/địa điểm du lịch, di tích lịch sử/Q8558541.json
+Name: dãy núi
+    Appear: 5
+    dãy núi: Dãy Trường Sơn
+
+data/sự kiện lịch sử/Q641185.json
+Name: sự kiện kết thúc của
+    Appear: 5
+    sự kiện kết thúc của: Trấn Tây Thành
+
+data/địa điểm du lịch, di tích lịch sử/Q116170750.json
+Name: nhà đầu tư
+    Appear: 1
+    nhà đầu tư: Sun Group
+
+data/địa điểm du lịch, di tích lịch sử/Q159144.json
+Name: số nhân viên
+    Appear: 1
+    số nhân viên: 3600  
+
+data/địa điểm du lịch, di tích lịch sử/Q215664.json
+Name: khu vực của
+    Appear: 1
+    khu vực của: Bão Molave (2020)
+
+data/địa điểm du lịch, di tích lịch sử/Q60974.json
+Name: chiều dài
+    Appear: 16
+    chiều dài: 1271 kilômét
+
+data/sự kiện lịch sử/Q3616301.json
+Name: ngày bắt đầu
+    Appear: 81
+    ngày bắt đầu: Ngày 05 Tháng 03 Năm 1975
+
+data/địa điểm du lịch, di tích lịch sử/Q5965378.json
+Name: hãng đĩa ghi âm
+    Appear: 1
+    hãng đĩa ghi âm: tỉnh của Việt Nam
+
+data/triều đại lịch sử/Q3111454.json
+Name: người kế nhiệm của
+    Appear: 1
+    người kế nhiệm của: Lý Chiêu Hoàng
+
+data/địa điểm du lịch, di tích lịch sử/Q16481033.json
+Name: một phần của
+    Appear: 197
+    một phần của: Vịnh Hạ Long
+
+data/triều đại lịch sử/Q6500483.json
+Name: thời kì của
+    Appear: 3
+    thời kì của: Vũ Trinh
+
+data/sự kiện lịch sử/Q378392.json
+Name: thực thể tham gia
+    Appear: 57
+    thực thể tham gia: Hoa Kỳ
+
+data/địa điểm du lịch, di tích lịch sử/Q478280.json
+Name: chú thích bản đồ của
+    Appear: 1
+    chú thích bản đồ của: Hang Con Moong
+
+data/địa điểm du lịch, di tích lịch sử/Q187702.json
+Name: người sáng lập
+    Appear: 7
+    người sáng lập: Constantinus I
+
+data/sự kiện lịch sử/Q4356691.json
+Name: vị trí
+    Appear: 229
+    vị trí: Việt Nam Cộng hòa
+
