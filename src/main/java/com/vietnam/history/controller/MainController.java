@@ -6,9 +6,11 @@ import javafx.fxml.FXML;
 
 import java.io.IOException;
 
-public class StartController {
+public class MainController {
+
     @FXML
     void aboutClick(ActionEvent event) throws IOException {
         App.openAbout("About");
     }
+
 }

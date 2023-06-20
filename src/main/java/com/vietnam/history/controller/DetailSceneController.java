@@ -21,9 +21,11 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-public class DetailSceneController {
+public class DetailSceneController extends MainController {
 
+    @FXML
     public ButtonBar backBtnBar;
+
     @FXML
     private Label nameLabel;
 
@@ -43,11 +45,6 @@ public class DetailSceneController {
         if (App.entityStack.size()>1){
             backBtnBar.setDisable(false);
         }
-    }
-
-    @FXML
-    void aboutClick(ActionEvent event) throws IOException {
-        App.openAbout("About");
     }
 
     @FXML

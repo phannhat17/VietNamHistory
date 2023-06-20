@@ -4,14 +4,13 @@ import com.vietnam.history.App;
 import com.vietnam.history.model.HistoricalEntity;
 import javafx.collections.ObservableList;
 import javafx.collections.transformation.FilteredList;
-import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
 
 import java.io.IOException;
 
-public class ListEntityScene<T extends HistoricalEntity> {
+public class ListEntityScene<T extends HistoricalEntity> extends MainController {
 
     @FXML
     private Label entityType;
@@ -30,12 +29,6 @@ public class ListEntityScene<T extends HistoricalEntity> {
 
     @FXML
     private TextField tfFilter;
-
-    @FXML
-    void aboutClick(ActionEvent event) throws IOException {
-        App.openAbout("About");
-    }
-
 
     public void setData(ObservableList<T> entityList, String type) {
 
