@@ -40,7 +40,7 @@ public class SidebarController {
     @FXML
     void switchToPlace(ActionEvent event) throws IOException {
         // Return to Place scene
-        App.setRootWithEntity(sceneName, App.places, "ĐỊA ĐIỂM");
+        App.setRootWithEntity(sceneName, App.places, "ĐỊA ĐIỂM, DI TÍCH");
     }
 
     @FXML
