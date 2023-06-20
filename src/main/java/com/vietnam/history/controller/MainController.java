@@ -8,6 +8,7 @@ import java.io.IOException;
 
 public class MainController {
 
+    //  Handle the click event on the "About" menu
     @FXML
     void aboutClick(ActionEvent event) throws IOException {
         App.openAbout("About");
