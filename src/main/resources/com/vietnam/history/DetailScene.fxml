@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
 <?import javafx.scene.control.Button?>
 <?import javafx.scene.control.ButtonBar?>
 <?import javafx.scene.control.Label?>
@@ -14,7 +15,7 @@
 <?import javafx.scene.text.Font?>
 <?import javafx.scene.text.Text?>
 
-<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" stylesheets="@./stylesheet/Details.css" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.DetailSceneController">
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="800.0" prefWidth="1200.0" stylesheets="@./stylesheet/Details.css" xmlns:fx="http://javafx.com/fxml/1"  fx:controller="com.vietnam.history.controller.DetailSceneController">
    <top>
       <MenuBar BorderPane.alignment="CENTER">
          <Menu mnemonicParsing="false" text="About">
@@ -26,7 +27,7 @@
         <fx:include fx:id="sideBar" source="SideBar.fxml" />
     </left>
    <center>
-      <VBox>
+      <VBox BorderPane.alignment="CENTER">
          <StackPane layoutX="10.0" layoutY="59.0" prefWidth="340.0">
             <Label fx:id="nameLabel" alignment="CENTER" contentDisplay="CENTER" prefHeight="34.0" prefWidth="1159.0" text="Name" textAlignment="CENTER" textFill="#4b867e">
                <font>
@@ -47,7 +48,7 @@
                </StackPane.margin>
             </Text>
          </StackPane>
-         <ScrollPane fx:id="scrollPane" prefHeight="472.0" prefWidth="610.0" style="-fx-background-color: transparent;" BorderPane.alignment="CENTER" VBox.vgrow="ALWAYS">
+         <ScrollPane fx:id="scrollPane" pannable="true" prefHeight="472.0" prefWidth="610.0" style="-fx-background-color: transparent;" BorderPane.alignment="CENTER" VBox.vgrow="ALWAYS">
          </ScrollPane>
          <ButtonBar fx:id="backBtnBar" disable="true" prefHeight="40.0" prefWidth="200.0">
            <buttons>
@@ -61,6 +62,9 @@
                <Insets bottom="10.0" left="10.0" right="40.0" top="10.0" />
             </VBox.margin>
          </ButtonBar>
+         <cursor>
+            <Cursor fx:constant="DEFAULT" />
+         </cursor>
       </VBox>
    </center>
 </BorderPane>
