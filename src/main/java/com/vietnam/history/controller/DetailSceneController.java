@@ -40,45 +40,61 @@ public class DetailSceneController extends MainController {
 
     @FXML
     void initialize() {
+        // Initialize the claims container and set it as the content of the scroll pane
         claimsContainer = new VBox();
         scrollPane.setContent(claimsContainer);
+
         if (App.entityStack.size()>1){
-            backBtnBar.setDisable(false);
+            backBtnBar.setDisable(false); // Disable the back button if there's only one entity in the stack
         }
     }
 
     @FXML
     void goBackPress(ActionEvent actionEvent) throws IOException {
         if (App.entityStack.size()>1) {
-            App.entityStack.pop();
+            App.entityStack.pop(); // Pop the current entity from the stack
             if (!App.entityStack.isEmpty()) {
-                HistoricalEntity previousEntity = App.entityStack.peek();
-                App.entityStack.pop();
-                App.setRootWithEntity("DetailScene", previousEntity);
+                HistoricalEntity previousEntity = App.entityStack.pop();
+                App.setRootWithEntity("DetailScene", previousEntity); // If there's a previous entity, retrieve it from the stack and display
             }
         }
     }
 
+    /**
+     * Set data for the detail scene based on the given historical entity
+     * @param entity the entity to display data
+     */
     public void setData(HistoricalEntity entity) {
 
         nameLabel.setText(entity.getLabel());
         overviewText.setText(entity.getOverview());
 
+        // Display information and related data sections
         displayData("THÔNG TIN", entity.getClaims(), entity);
         displayData("LIÊN QUAN", entity.getReferences(), entity);
     }
 
+    /**
+     * Display all data for a specific section (type) of the entity
+     *
+     * @param type type of the data "THÔNG TIN" or "LIÊN QUAN"
+     * @param jsonNode the data to display
+     * @param entity the entity contain these data
+     */
     private void displayData(String type, JsonNode jsonNode, HistoricalEntity entity) {
         if (type != null) {
+            // Create and display a label for the section
             Label claimsLabel = new Label(type);
             claimsLabel.getStyleClass().add("section-label");
             claimsContainer.getChildren().add(claimsLabel);
             if (type.equals("THÔNG TIN")) {
+                // Add description and aliases for "THÔNG TIN"
                 addDescriptionSection(entity.getDescription());
                 addAliasesSection(entity.getAliases());
             }
         }
 
+        // Display a label indicating that there is no information available
         if (jsonNode == null) {
             Label nullLabel = new Label("Chưa có thông tin");
             nullLabel.getStyleClass().add("null-label");
@@ -86,10 +102,13 @@ public class DetailSceneController extends MainController {
             return;
         }
 
+        // Iterate through the properties of the JSON nodes
         Iterator<Map.Entry<String, JsonNode>> properties = jsonNode.fields();
         while (properties.hasNext()) {
             Map.Entry<String, JsonNode> property = properties.next();
             String propertyName = StringUtils.capitalize(property.getKey());
+
+            // Create and display a label for the key
             Label keyLabel = new Label(propertyName + ":");
             keyLabel.setPrefWidth(300);
             keyLabel.setWrapText(true);
@@ -109,7 +128,8 @@ public class DetailSceneController extends MainController {
                 Text valueText = new Text(value.trim());
 
                 if (propertyDetail.has("id")) {
-                    configureLinkedValueText(valueText, propertyDetail.get("id").asText(), entity);
+                    // Configure linked value text for clickable entities
+                    configureLinkedValueText(valueText, propertyDetail.get("id").asText());
                 }
 
                 valueTextFlow.getChildren().add(valueText);
@@ -117,6 +137,7 @@ public class DetailSceneController extends MainController {
                 if (propertyDetail.has("qualifiers")) {
                     addQualifiersAndSource(propertyDetail, valueTextFlow);
                 } else if (!propertyDetail.has("qualifiers") && propertyDetail.has("source")) {
+                    // Add source information for properties without qualifiers
                     String source = propertyDetail.get("source").asText();
                     if (!source.equals("both")) {
                         Text sourceText = new Text(" (Nguồn: " + source.trim() + ")");
@@ -135,6 +156,10 @@ public class DetailSceneController extends MainController {
         }
     }
 
+    /**
+     * Add description section for the entity
+     * @param description description of that entity
+     */
     private void addDescriptionSection(String description) {
         if (StringUtils.isNotEmpty(description)) {
             Label descriptionLabel = new Label("Mô tả:");
@@ -151,6 +176,10 @@ public class DetailSceneController extends MainController {
         }
     }
 
+    /**
+     * Add aliases section for the entity
+     * @param aliases aliases of that entity
+     */
     private void addAliasesSection(List<String> aliases) {
         if (aliases != null && !aliases.isEmpty()) {
             Label aliasesLabel = new Label("Tên gọi khác:");
@@ -168,6 +197,7 @@ public class DetailSceneController extends MainController {
         }
     }
 
+    // Add qualifiers and source information to the value text flow
     private void addQualifiersAndSource(JsonNode propertyDetail, TextFlow valueTextFlow) {
         valueTextFlow.getChildren().add(new Text(" ("));
         JsonNode qualifiersObj = propertyDetail.get("qualifiers");
@@ -212,7 +242,8 @@ public class DetailSceneController extends MainController {
         valueTextFlow.getChildren().add(qualifierTextFlow); 
     }
 
-    private void configureLinkedValueText(Text valueText, String entityId, HistoricalEntity backEntity) {
+    // Configure linked value text for clickable entities
+    private void configureLinkedValueText(Text valueText, String entityId) {
         valueText.setFill(Color.web("#3498db"));
         valueText.setCursor(Cursor.HAND);
         valueText.getStyleClass().add("linked-text");
