@@ -128,6 +128,11 @@ public class App extends Application {
         scene.setRoot(root);
     }
 
+    /**
+     * returns the entity with the provided ID.
+     *
+     * @param entityId   the ID of that entity
+     */
     public static HistoricalEntity fetchEntity(String entityId) {
         for (Dynasty dynasty : dynasties) {
             if (dynasty.getId().equals(entityId)) {
