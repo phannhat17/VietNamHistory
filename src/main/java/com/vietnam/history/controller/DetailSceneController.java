@@ -40,21 +40,22 @@ public class DetailSceneController extends MainController {
 
     @FXML
     void initialize() {
+        // Initialize the claims container and set it as the content of the scroll pane
         claimsContainer = new VBox();
         scrollPane.setContent(claimsContainer);
-        if (App.entityStack.size()>1){
-            backBtnBar.setDisable(false);
+
+        if (App.getEntityStack().size()>1){
+            backBtnBar.setDisable(false); // Disable the back button if there's only one entity in the stack
         }
     }
 
     @FXML
     void goBackPress(ActionEvent actionEvent) throws IOException {
-        if (App.entityStack.size()>1) {
-            App.entityStack.pop();
-            if (!App.entityStack.isEmpty()) {
-                HistoricalEntity previousEntity = App.entityStack.peek();
-                App.entityStack.pop();
-                App.setRootWithEntity("DetailScene", previousEntity);
+        if (App.getEntityStack().size()>1) {
+            App.popEntityStack(); // Pop the current entity from the stack
+            if (!App.getEntityStack().isEmpty()) {
+                HistoricalEntity previousEntity = App.popEntityStack();
+                App.setRootWithEntity("DetailScene", previousEntity); // If there's a previous entity, retrieve it from the stack and display
             }
         }
     }

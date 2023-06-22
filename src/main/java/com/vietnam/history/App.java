@@ -24,7 +24,16 @@ public class App extends Application {
     private static Scene scene;
 
     private static final int MAX_STACK_SIZE = 25;
-    public static Stack<HistoricalEntity> entityStack = new Stack<>();
+    private static Stack<HistoricalEntity> entityStack = new Stack<>();
+
+    public static Stack<HistoricalEntity> getEntityStack() {
+        return entityStack;
+    }
+
+    public static HistoricalEntity popEntityStack() {
+        return entityStack.pop();
+    }
+
 
     // Load all data
     public static final ObservableList<Dynasty> dynasties = new DynastyLoader().loadData();
