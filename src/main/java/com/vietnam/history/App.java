@@ -141,7 +141,7 @@ public class App extends Application {
                 return festival;
             }
         }
-        for (Place place : App.places) {
+        for (Place place : places) {
             if (place.getId().equals(entityId)) {
                 return place;
             }
