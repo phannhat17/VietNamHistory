@@ -13,6 +13,8 @@ import javafx.scene.image.Image;
 import javafx.stage.Stage;
 
 import java.io.IOException;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Objects;
 import java.util.Stack;
 
@@ -42,6 +44,27 @@ public class App extends Application {
     public static final ObservableList<Festival> festivals = new FestivalLoader().loadData();
     public static final ObservableList<Place> places = new PlaceLoader().loadData();
 
+    private static Map<String, HistoricalEntity> entityMap = new HashMap<>();
+
+    public static void initializeData() {
+        for (Dynasty dynasty : dynasties) {
+            entityMap.put(dynasty.getId(), dynasty);
+        }
+        for (Figure figure : figures) {
+            entityMap.put(figure.getId(), figure);
+        }
+        for (HistoricalEvent event : historicalEvents) {
+            entityMap.put(event.getId(), event);
+        }
+        for (Festival festival : festivals) {
+            entityMap.put(festival.getId(), festival);
+        }
+        for (Place place : places) {
+            entityMap.put(place.getId(), place);
+        }
+    }
+
+
     /**
      * The main method that launches the application.
      */
@@ -54,6 +77,8 @@ public class App extends Application {
      */
     @Override
     public void start(Stage stage) throws IOException {
+        // Initialize the entity map
+        initializeData();
         scene = new Scene(loadFXML("StartScene"));
         stage.setScene(scene);
         Image icon = new Image(Objects.requireNonNull(getClass().getResourceAsStream("images/icon.png")));
@@ -143,31 +168,6 @@ public class App extends Application {
      * @param entityId   the ID of that entity
      */
     public static HistoricalEntity fetchEntity(String entityId) {
-        for (Dynasty dynasty : dynasties) {
-            if (dynasty.getId().equals(entityId)) {
-                return dynasty;
-            }
-        }
-        for (Figure figure : figures) {
-            if (figure.getId().equals(entityId)) {
-                return figure;
-            }
-        }
-        for (HistoricalEvent event : historicalEvents) {
-            if (event.getId().equals(entityId)) {
-                return event;
-            }
-        }
-        for (Festival festival : festivals) {
-            if (festival.getId().equals(entityId)) {
-                return festival;
-            }
-        }
-        for (Place place : places) {
-            if (place.getId().equals(entityId)) {
-                return place;
-            }
-        }
-        return null;
+        return entityMap.get(entityId);
     }
 }
