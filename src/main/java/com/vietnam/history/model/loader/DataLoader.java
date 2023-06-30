@@ -3,6 +3,7 @@ package com.vietnam.history.model.loader;
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectReader;
+import com.vietnam.history.model.HistoricalEntity;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 
@@ -16,7 +17,7 @@ import java.io.InputStream;
  *
  * @param <T> the type of object to load
  */
-public abstract class DataLoader<T> {
+public abstract class DataLoader<T extends HistoricalEntity> {
     private final String folderPath;
 
     /**
@@ -37,7 +38,7 @@ public abstract class DataLoader<T> {
         ObservableList<T> list = FXCollections.observableArrayList();
 
         ObjectReader reader = new ObjectMapper()
-                .configure(JsonParser.Feature.AUTO_CLOSE_SOURCE, false)
+                .configure(JsonParser.Feature.AUTO_CLOSE_SOURCE, true)
                 .configure(JsonParser.Feature.STRICT_DUPLICATE_DETECTION, true)
                 .readerFor(getType());
 

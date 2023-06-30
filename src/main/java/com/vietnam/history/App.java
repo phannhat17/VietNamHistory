@@ -14,6 +14,7 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 import java.util.Objects;
+import java.util.Stack;
 
 /**
  * Start GUI App
@@ -21,6 +22,18 @@ import java.util.Objects;
 public class App extends Application {
 
     private static Scene scene;
+
+    private static final int MAX_STACK_SIZE = 25;
+    private static Stack<HistoricalEntity> entityStack = new Stack<>();
+
+    public static Stack<HistoricalEntity> getEntityStack() {
+        return entityStack;
+    }
+
+    public static HistoricalEntity popEntityStack() {
+        return entityStack.pop();
+    }
+
 
     // Load all data
     public static final ObservableList<Dynasty> dynasties = new DynastyLoader().loadData();
@@ -78,8 +91,7 @@ public class App extends Application {
      * @throws IOException if the FXML file cannot be loaded
      */
     public static void openAbout(String fxml) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
-        Parent root = fxmlLoader.load();
+        Parent root = loadFXML(fxml);
         Stage stage = new Stage();
         Image icon = new Image(Objects.requireNonNull(App.class.getResourceAsStream("images/icon.png")));
         stage.getIcons().add(icon);
@@ -96,7 +108,11 @@ public class App extends Application {
      * @param entity the entity to pass to the controller
      * @throws IOException if the FXML file cannot be loaded
      */
-    public static void setRootWithEntity(String fxml, HistoricalEntity entity) throws IOException {
+    public static void setRootWithEntity(String fxml, HistoricalEntity entity)throws IOException {
+        if (entityStack.size() == MAX_STACK_SIZE) {
+            entityStack.clear();
+        }
+        entityStack.push(entity);
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
         DetailSceneController controller = fxmlLoader.getController();
@@ -114,6 +130,7 @@ public class App extends Application {
      * @throws IOException if the FXML file cannot be loaded
      */
     public static <T extends HistoricalEntity> void setRootWithEntity(String fxml, ObservableList<T> entityList, String entityType) throws IOException {
+        entityStack.clear();
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
         ListEntityScene<T> controller = fxmlLoader.getController();
@@ -121,6 +138,11 @@ public class App extends Application {
         scene.setRoot(root);
     }
 
+    /**
+     * returns the entity with the provided ID.
+     *
+     * @param entityId   the ID of that entity
+     */
     public static HistoricalEntity fetchEntity(String entityId) {
         for (Dynasty dynasty : dynasties) {
             if (dynasty.getId().equals(entityId)) {
@@ -142,7 +164,7 @@ public class App extends Application {
                 return festival;
             }
         }
-        for (Place place : App.places) {
+        for (Place place : places) {
             if (place.getId().equals(entityId)) {
                 return place;
             }

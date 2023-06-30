@@ -11,7 +11,7 @@ import java.io.IOException;
  */
 public class SidebarController {
 
-    private final String sceneName = "ListEntityScene";
+    private final String SCENE_NAME = "ListEntityScene";
 
     @FXML
     void returnStart(ActionEvent event) throws IOException {
@@ -22,31 +22,31 @@ public class SidebarController {
     @FXML
     void switchToDynasty(ActionEvent event) throws IOException {
         // Return to Dynasty scene
-        App.setRootWithEntity(sceneName, App.dynasties, "TRIỀU ĐẠI LỊCH SỬ");
+        App.setRootWithEntity(SCENE_NAME, App.dynasties, "TRIỀU ĐẠI LỊCH SỬ");
     }
 
     @FXML
     void switchToEvent(ActionEvent event) throws IOException {
         // Return to Event scene
-        App.setRootWithEntity(sceneName, App.historicalEvents, "SỰ KIỆN LỊCH SỬ");
+        App.setRootWithEntity(SCENE_NAME, App.historicalEvents, "SỰ KIỆN LỊCH SỬ");
     }
 
     @FXML
     void switchToFestival(ActionEvent event) throws IOException {
         // Return to Festival scene
-        App.setRootWithEntity(sceneName, App.festivals, "LỄ HỘI VĂN HOÁ");
+        App.setRootWithEntity(SCENE_NAME, App.festivals, "LỄ HỘI VĂN HOÁ");
     }
 
     @FXML
     void switchToPlace(ActionEvent event) throws IOException {
         // Return to Place scene
-        App.setRootWithEntity(sceneName, App.places, "ĐỊA ĐIỂM");
+        App.setRootWithEntity(SCENE_NAME, App.places, "ĐỊA ĐIỂM, DI TÍCH");
     }
 
     @FXML
     void switchToHistoricalFigures(ActionEvent event) throws IOException {
         // Return to Figure scene
-        App.setRootWithEntity(sceneName, App.figures, "NHÂN VẬT LỊCH SỬ");
+        App.setRootWithEntity(SCENE_NAME, App.figures, "NHÂN VẬT LỊCH SỬ");
     }
 
 }
