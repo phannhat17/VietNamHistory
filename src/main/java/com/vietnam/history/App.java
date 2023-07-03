@@ -141,6 +141,7 @@ public class App extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
         DetailSceneController controller = fxmlLoader.getController();
+        
         controller.setData(entity);
         scene.setRoot(root);
     }
