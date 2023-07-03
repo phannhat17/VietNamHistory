@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <?import javafx.geometry.Insets?>
-<?import javafx.scene.control.TextField?>
-
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.control.Menu?>
 <?import javafx.scene.control.MenuBar?>
 <?import javafx.scene.control.MenuItem?>
 <?import javafx.scene.control.TableColumn?>
 <?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
 <?import javafx.scene.layout.BorderPane?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.layout.VBox?>
@@ -41,15 +40,15 @@
            <HBox>   
                 <Label alignment="CENTER" contentDisplay="CENTER" prefHeight="25.0" prefWidth="90.0" text="Tìm kiếm">
                     <HBox.margin>
-                        <Insets bottom="20.0" left="20.0"/>
+                        <Insets bottom="20.0" left="20.0" />
                     </HBox.margin>
                     <font>
-                        <Font size="16.0"/>
+                        <Font size="16.0" />
                     </font>
                 </Label>
                 <TextField fx:id="tfFilter" prefHeight="25.0" prefWidth="233.0">
                     <HBox.margin>
-                        <Insets bottom="20.0" left="20.0" right="20.0"/>
+                        <Insets bottom="20.0" left="20.0" right="20.0" />
                     </HBox.margin>
                 </TextField>
                <Label layoutX="943.0" layoutY="10.0" text="Tổng số:">
@@ -71,8 +70,9 @@
            </HBox>
            <TableView fx:id="tblFigure" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="-Infinity" minWidth="-Infinity" prefHeight="433.0" prefWidth="611.0" VBox.vgrow="ALWAYS">
                <columns>
-                   <TableColumn fx:id="colFName" prefWidth="254.0" text="Tên" />
-                   <TableColumn fx:id="colFDescription" prefWidth="754.0" text="Tổng quan" />
+               <TableColumn fx:id="colFID" prefWidth="116.0" text="ID" />
+                   <TableColumn fx:id="colFName" prefWidth="305.0" text="Tên" />
+                   <TableColumn fx:id="colFDescription" prefWidth="587.0" text="Tổng quan" />
                </columns>
            </TableView>
        </VBox>

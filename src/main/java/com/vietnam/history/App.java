@@ -44,7 +44,7 @@ public class App extends Application {
     public static final ObservableList<Festival> festivals = new FestivalLoader().loadData();
     public static final ObservableList<Place> places = new PlaceLoader().loadData();
 
-    private static Map<String, HistoricalEntity> entityMap = new HashMap<>();
+    private static final Map<String, HistoricalEntity> entityMap = new HashMap<>();
 
     public static void initializeData() {
         for (Dynasty dynasty : dynasties) {
