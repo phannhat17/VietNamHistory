@@ -16,6 +16,9 @@ public class ListEntityScene<T extends HistoricalEntity> extends MainController 
     private Label entityType;
 
     @FXML
+    private TableColumn<T, String> colFID;
+
+    @FXML
     private TableColumn<T, String> colFDescription;
 
     @FXML
@@ -48,6 +51,7 @@ public class ListEntityScene<T extends HistoricalEntity> extends MainController 
         tblFigure.setItems(entityList);
 
         // Configure the columns to display the entity label aka name and overview
+        colFID.setCellValueFactory(new PropertyValueFactory<T, String>("id"));
         colFDescription.setCellValueFactory(new PropertyValueFactory<T, String>("overview"));
         colFName.setCellValueFactory(new PropertyValueFactory<T, String>("label"));
 
