@@ -18,7 +18,7 @@
       </MenuBar>
    </top>
    <left>
-        <fx:include fx:id="sideBar" source="Sidebar.fxml" />
+        <fx:include fx:id="sideBar" source="SideBar.fxml" />
     </left>
    <center>
       <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">

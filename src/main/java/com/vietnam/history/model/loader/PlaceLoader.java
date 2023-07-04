@@ -1,11 +1,11 @@
 package com.vietnam.history.model.loader;
 
-import com.vietnam.history.model.Place;
+import com.vietnam.history.model.Landmark;
 
 /**
  * A class for loading place data from JSON files.
  */
-public class PlaceLoader extends DataLoader<Place>{
+public class PlaceLoader extends DataLoader<Landmark>{
     private static final String FOLDER_PATH = "src/data/địa điểm du lịch, di tích lịch sử";
 
     /**
@@ -16,12 +16,12 @@ public class PlaceLoader extends DataLoader<Place>{
     }
 
     /**
-     * Returns the class of the {@code Place} objects to load.
+     * Returns the class of the {@code Landmark} objects to load.
      *
-     * @return the class of the {@code Place} objects to load
+     * @return the class of the {@code Landmark} objects to load
      */
     @Override
-    protected Class<Place> getType() {
-        return Place.class;
+    protected Class<Landmark> getType() {
+        return Landmark.class;
     }
 }

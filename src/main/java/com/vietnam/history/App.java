@@ -25,8 +25,7 @@ public class App extends Application {
 
     private static Scene scene;
 
-    private static final int MAX_STACK_SIZE = 25;
-    private static Stack<HistoricalEntity> entityStack = new Stack<>();
+    private static final Stack<HistoricalEntity> entityStack = new Stack<>();
 
     public static Stack<HistoricalEntity> getEntityStack() {
         return entityStack;
@@ -38,29 +37,29 @@ public class App extends Application {
 
 
     // Load all data
-    public static final ObservableList<Dynasty> dynasties = new DynastyLoader().loadData();
-    public static final ObservableList<Figure> figures = new FigureLoader().loadData();
-    public static final ObservableList<HistoricalEvent> historicalEvents = new EventLoader().loadData();
-    public static final ObservableList<Festival> festivals = new FestivalLoader().loadData();
-    public static final ObservableList<Place> places = new PlaceLoader().loadData();
+    public static final ObservableList<Dynasty> DYNASTIES = new DynastyLoader().loadData();
+    public static final ObservableList<Figure> FIGURES = new FigureLoader().loadData();
+    public static final ObservableList<HistoricalEvent> HISTORICAL_EVENTS = new EventLoader().loadData();
+    public static final ObservableList<Festival> FESTIVALS = new FestivalLoader().loadData();
+    public static final ObservableList<Landmark> LANDMARKS = new PlaceLoader().loadData();
 
-    private static final Map<String, HistoricalEntity> entityMap = new HashMap<>();
+    private static final Map<String, HistoricalEntity> ENTITY_MAP = new HashMap<>();
 
     public static void initializeData() {
-        for (Dynasty dynasty : dynasties) {
-            entityMap.put(dynasty.getId(), dynasty);
+        for (Dynasty dynasty : DYNASTIES) {
+            ENTITY_MAP.put(dynasty.getId(), dynasty);
         }
-        for (Figure figure : figures) {
-            entityMap.put(figure.getId(), figure);
+        for (Figure figure : FIGURES) {
+            ENTITY_MAP.put(figure.getId(), figure);
         }
-        for (HistoricalEvent event : historicalEvents) {
-            entityMap.put(event.getId(), event);
+        for (HistoricalEvent event : HISTORICAL_EVENTS) {
+            ENTITY_MAP.put(event.getId(), event);
         }
-        for (Festival festival : festivals) {
-            entityMap.put(festival.getId(), festival);
+        for (Festival festival : FESTIVALS) {
+            ENTITY_MAP.put(festival.getId(), festival);
         }
-        for (Place place : places) {
-            entityMap.put(place.getId(), place);
+        for (Landmark landmark : LANDMARKS) {
+            ENTITY_MAP.put(landmark.getId(), landmark);
         }
     }
 
@@ -110,9 +109,9 @@ public class App extends Application {
     }
 
     /**
-     * Opens the about dialog window.
+     * Opens the "About" dialog window.
      *
-     * @param fxml the name of the FXML file for the about dialog
+     * @param fxml the name of the FXML file for the "About" dialog
      * @throws IOException if the FXML file cannot be loaded
      */
     public static void openAbout(String fxml) throws IOException {
@@ -134,9 +133,6 @@ public class App extends Application {
      * @throws IOException if the FXML file cannot be loaded
      */
     public static void setRootWithEntity(String fxml, HistoricalEntity entity)throws IOException {
-        if (entityStack.size() == MAX_STACK_SIZE) {
-            entityStack.clear();
-        }
         entityStack.push(entity);
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource(fxml + ".fxml"));
         Parent root = fxmlLoader.load();
@@ -169,6 +165,6 @@ public class App extends Application {
      * @param entityId   the ID of that entity
      */
     public static HistoricalEntity fetchEntity(String entityId) {
-        return entityMap.get(entityId);
+        return ENTITY_MAP.get(entityId);
     }
 }
