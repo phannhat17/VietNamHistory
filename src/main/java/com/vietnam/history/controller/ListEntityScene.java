@@ -2,8 +2,10 @@ package com.vietnam.history.controller;
 
 import com.vietnam.history.App;
 import com.vietnam.history.model.HistoricalEntity;
+import javafx.beans.property.SimpleStringProperty;
 import javafx.collections.ObservableList;
 import javafx.collections.transformation.FilteredList;
+import javafx.collections.transformation.SortedList;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.control.cell.PropertyValueFactory;
@@ -41,6 +43,24 @@ public class ListEntityScene<T extends HistoricalEntity> extends MainController 
      */
     public void setData(ObservableList<T> entityList, String type) {
 
+        // Create a filtered list based on the entity list
+        FilteredList<T> filteredList = new FilteredList<>(entityList);
+
+        // Bind the filter predicate to the text property of tfFilter
+        tfFilter.textProperty().addListener((observable, oldValue, newValue) ->
+                filteredList.setPredicate(entity -> {
+                    if (newValue == null || newValue.isEmpty()) {
+                        return true; // Display all entities when filter is empty
+                    }
+                    String filterText = newValue.toLowerCase();
+                    String entityText = entity.getLabel().toLowerCase() + " " + String.join(" ", entity.getAliases()).toLowerCase();
+                    return entityText.contains(filterText); // Show entities that have the filter text in their label or aliases
+                }));
+
+        // Create a sorted list based on the filtered list
+        SortedList<T> sortedList = new SortedList<>(filteredList);
+        sortedList.comparatorProperty().bind(tblFigure.comparatorProperty());
+
         // Set the entity type label
         entityType.setText(type);
 
@@ -48,12 +68,19 @@ public class ListEntityScene<T extends HistoricalEntity> extends MainController 
         totalNum.setText(Integer.toString(entityList.size()));
 
         // Set the items to display in the table
-        tblFigure.setItems(entityList);
+        tblFigure.setItems(sortedList);
 
         // Configure the columns to display the entity label aka name and overview
-        colFID.setCellValueFactory(new PropertyValueFactory<T, String>("id"));
-        colFDescription.setCellValueFactory(new PropertyValueFactory<T, String>("overview"));
-        colFName.setCellValueFactory(new PropertyValueFactory<T, String>("label"));
+        colFID.setCellValueFactory(new PropertyValueFactory<>("id"));
+        colFDescription.setCellValueFactory(cellData -> {
+            T entity = cellData.getValue();
+            String description = entity.getOverview();
+            if (description == null || description.isEmpty()) {
+                description = entity.getDescription();
+            }
+            return new SimpleStringProperty(description);
+        });
+        colFName.setCellValueFactory(new PropertyValueFactory<>("label"));
 
         // Set the behavior for double-clicking a row to open the entity's detail view
         tblFigure.setRowFactory(tableView -> {
@@ -70,22 +97,5 @@ public class ListEntityScene<T extends HistoricalEntity> extends MainController 
             });
             return row;
         });
-
-
-        FilteredList<T> filteredList = new FilteredList<>(entityList, p -> true);
-
-        // Update the filtered list when the filter text changes
-        tfFilter.textProperty().addListener((observable, oldValue, newValue) -> {
-            filteredList.setPredicate(entity -> {
-                if (newValue == null || newValue.isEmpty()) {
-                    return true; // If the filter text is empty, show all entities
-                }
-
-                String filterText = newValue.toLowerCase();
-                return entity.getLabel().toLowerCase().contains(filterText); // Show entities that its label contains the filter text
-            });
-        });
-        tblFigure.setItems(filteredList); // Update the table to display the filtered entities
-
     }
 }
