@@ -1,6 +1,7 @@
 package com.vietnam.history.controller;
 
 import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.vietnam.history.App;
 import com.vietnam.history.model.HistoricalEntity;
 import javafx.event.ActionEvent;
@@ -17,9 +18,7 @@ import javafx.scene.text.TextFlow;
 import org.apache.commons.lang3.StringUtils;
 
 import java.io.IOException;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class DetailSceneController extends MainController {
 
@@ -138,8 +137,30 @@ public class DetailSceneController extends MainController {
                     addQualifiersAndSource(propertyDetail, valueTextFlow);
                 } else if (!propertyDetail.has("qualifiers") && propertyDetail.has("source")) {
                     // Add source information for properties without qualifiers
-                    String source = propertyDetail.get("source").asText();
-                    if (!source.equals("both")) {
+                    ArrayNode sourceArray = (ArrayNode) propertyDetail.get("source");
+                    int numSources = sourceArray.size();
+                    Set<String> uniqueSources = new HashSet<>();
+
+                    // Check if all elements in the array are the same
+                    for (JsonNode source : sourceArray) {
+                        uniqueSources.add(source.asText());
+                    }
+                    boolean allSame = uniqueSources.size() == 1;
+
+                    if (numSources > 1 && !allSame) {
+                        // Display all elements separated by a comma
+                        StringBuilder sourcesText = new StringBuilder();
+                        for (JsonNode source : sourceArray) {
+                            sourcesText.append(source.asText()).append(", ");
+                        }
+                        sourcesText.delete(sourcesText.length() - 2, sourcesText.length()); // Remove trailing comma and space
+
+                        Text sourceText = new Text(" (Nguồn: " + sourcesText.toString() + ")");
+                        sourceText.setFill(Color.web("#9b59b6"));
+                        valueTextFlow.getChildren().add(sourceText);
+                    } else if (numSources == 1) {
+                        // Display the single source
+                        String source = sourceArray.get(0).asText();
                         Text sourceText = new Text(" (Nguồn: " + source.trim() + ")");
                         sourceText.setFill(Color.web("#9b59b6"));
                         valueTextFlow.getChildren().add(sourceText);
@@ -230,12 +251,34 @@ public class DetailSceneController extends MainController {
         
 
         if (propertyDetail.has("source")) {
-            JsonNode source = propertyDetail.get("source");
-            String sourceValue = source.asText();
-            if (!sourceValue.equals("both")) {
-                Text sourceText = new Text(" (Nguồn: " + sourceValue + ")");
+            // Add source information for properties without qualifiers
+            ArrayNode sourceArray = (ArrayNode) propertyDetail.get("source");
+            int numSources = sourceArray.size();
+            Set<String> uniqueSources = new HashSet<>();
+
+            // Check if all elements in the array are the same
+            for (JsonNode source : sourceArray) {
+                uniqueSources.add(source.asText());
+            }
+            boolean allSame = uniqueSources.size() == 1;
+
+            if (numSources > 1 && !allSame) {
+                // Display all elements separated by a comma
+                StringBuilder sourcesText = new StringBuilder();
+                for (JsonNode source : sourceArray) {
+                    sourcesText.append(source.asText()).append(", ");
+                }
+                sourcesText.delete(sourcesText.length() - 2, sourcesText.length()); // Remove trailing comma and space
+
+                Text sourceText = new Text(" (Nguồn: " + sourcesText.toString() + ")");
                 sourceText.setFill(Color.web("#9b59b6"));
-                qualifierTextFlow.getChildren().add(sourceText);
+                valueTextFlow.getChildren().add(sourceText);
+            } else if (numSources == 1) {
+                // Display the single source
+                String source = sourceArray.get(0).asText();
+                Text sourceText = new Text(" (Nguồn: " + source.trim() + ")");
+                sourceText.setFill(Color.web("#9b59b6"));
+                valueTextFlow.getChildren().add(sourceText);
             }
         }
 
