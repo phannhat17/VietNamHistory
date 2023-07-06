@@ -368,7 +368,7 @@ public class DataHandling {
         filePath = getFullPath(filePath);
         String s = readFileAll(filePath);
         String fileName = filePath.substring(filePath.lastIndexOf("\\")+1);
-        String logsPath = filePath.substring(0,filePath.lastIndexOf("\\")+1) + "logs"+ "\\";
+        String logsPath = filePath.substring(0,filePath.lastIndexOf("\\")+1) + ".logs"+ "\\";
         createFolder(logsPath);
         createFolder(logsPath + STR_DATE);
         writeFile(logsPath + STR_DATE + "\\" + fileName, s);

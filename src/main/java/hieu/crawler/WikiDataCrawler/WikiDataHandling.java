@@ -1,6 +1,7 @@
 package crawler.WikiDataCrawler;
 
 import crawler.DataManage.DataHandling;
+import crawler.DataManage.Merge;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -113,16 +114,7 @@ public class WikiDataHandling extends DataHandling {
 
     public static JSONObject addProperties(JSONObject myJsonClaims, String propName, String value, String qID)
     {
-        JSONObject addObj = new JSONObject();
-        addObj.put("value", value);
-        if (!qID.isEmpty())
-        {
-            addObj.put("type", "wikibase-item");
-            addObj.put("id", qID);
-        }
-        else{
-            addObj.put("type", "string");
-        }
+        JSONObject addObj = createPropValue(value, qID.isEmpty() ? null : qID, null, null);
         if (!myJsonClaims.has(propName)){
             JSONArray jsonArr = new JSONArray();
             jsonArr.put(addObj);
@@ -134,7 +126,7 @@ public class WikiDataHandling extends DataHandling {
             for (int i = 0; i < jsonArr.length(); i++)
             {
                 JSONObject obj = jsonArr.getJSONObject(i);
-                if ((obj).getString("value").equals(value)){
+                if (Merge.cmpPropObj(obj, addObj)){
                     check = true;
                     break;
                 }
@@ -667,7 +659,7 @@ public class WikiDataHandling extends DataHandling {
         return qID;
     }
 
-        /**
+    /**
      * Check if the JSON of an entity has any properties that are related to Vietnam.
      * @param entityJSON the JSON of an entity.
      * @return Member variable isRelated is {@code true} if that entity has any properties that are related to Vietnam, else {@code false}.
