@@ -14,12 +14,15 @@ public class ModifyData extends DataHandling{
         md.removeEntity();
     }
 
-    public ModifyData(String path){
-        folderPath = path + "/";
+    private String txtModifyPath = "";
+
+    public ModifyData(String dataPath, String modifyPath){
+        folderPath = dataPath;
+        txtModifyPath = modifyPath;
     }
 
     public ModifyData(){
-        folderPath = "data/";
+        throw new IllegalArgumentException("Data path and text modify path must be provided.");
     }
 
     private String folderPath = "";
@@ -66,8 +69,8 @@ public class ModifyData extends DataHandling{
     }
 
     public void removeEntity() throws Exception{
-        List<String> list = readFileAllLine("delete.txt");
-        JSONObject changeName = getJSONFromFile("change_name.json");
+        List<String> list = readFileAllLine(txtModifyPath + "/delete.txt");
+        JSONObject changeName = getJSONFromFile(txtModifyPath + "/change_name.json");
         HashSet<String> rmHashSet = new HashSet<>();
         for (String pID: list)
         {

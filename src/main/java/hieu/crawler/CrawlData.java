@@ -21,10 +21,10 @@ public class CrawlData {
         DataHandling.print("Done dbpediaData");
 
         Merge mergeData = new Merge();
-        mergeData.merge("data", wikiPath, dbpediaPath, Merge.createSource("Wikipedia"), Merge.createSource("DBPedia"));
+        mergeData.merge("data/", wikiPath, dbpediaPath, Merge.createSource("Wikipedia"), Merge.createSource("DBPedia"));
         DataHandling.print("Done merge");
 
-        ModifyData md = new ModifyData();
+        ModifyData md = new ModifyData("data/","src/text-modify/");
         md.removeEntity();
         DataHandling.print("Finish");
     }

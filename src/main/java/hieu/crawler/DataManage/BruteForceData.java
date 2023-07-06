@@ -41,7 +41,7 @@ public class BruteForceData extends DataFolder {
     private HashSet<String> analysedURLsHashSet;
     private HashMap<String, Integer> craftedURLsHashMap = new HashMap<>();
     private int totalAnalysed;
-    private int limitAmountAnalysis = 150000;
+    private int limitAmountAnalysis = 100000;
 
 
     /**

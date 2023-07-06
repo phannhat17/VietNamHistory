@@ -24,7 +24,7 @@ public class Merge {
         for (String bigCategory: BIG_CATEGORIES)
         {
             String path = path1 + bigCategory + "/";
-            String exportDataSubFolder = exportPath + "/" + bigCategory;
+            String exportDataSubFolder = exportPath + bigCategory;
             DataHandling.createFolder(exportDataSubFolder);
             HashSet<String> fileList = DataHandling.listAllFiles(path);
             for (String fileName: fileList)
