@@ -155,13 +155,7 @@ public class DetailSceneController extends MainController {
                         }
                         sourcesText.delete(sourcesText.length() - 2, sourcesText.length()); // Remove trailing comma and space
 
-                        Text sourceText = new Text(" (Nguồn: " + sourcesText.toString() + ")");
-                        sourceText.setFill(Color.web("#9b59b6"));
-                        valueTextFlow.getChildren().add(sourceText);
-                    } else if (numSources == 1) {
-                        // Display the single source
-                        String source = sourceArray.get(0).asText();
-                        Text sourceText = new Text(" (Nguồn: " + source.trim() + ")");
+                        Text sourceText = new Text(" (Nguồn: " + sourcesText + ")");
                         sourceText.setFill(Color.web("#9b59b6"));
                         valueTextFlow.getChildren().add(sourceText);
                     }
@@ -270,13 +264,7 @@ public class DetailSceneController extends MainController {
                 }
                 sourcesText.delete(sourcesText.length() - 2, sourcesText.length()); // Remove trailing comma and space
 
-                Text sourceText = new Text(" (Nguồn: " + sourcesText.toString() + ")");
-                sourceText.setFill(Color.web("#9b59b6"));
-                valueTextFlow.getChildren().add(sourceText);
-            } else if (numSources == 1) {
-                // Display the single source
-                String source = sourceArray.get(0).asText();
-                Text sourceText = new Text(" (Nguồn: " + source.trim() + ")");
+                Text sourceText = new Text(" (Nguồn: " + sourcesText + ")");
                 sourceText.setFill(Color.web("#9b59b6"));
                 valueTextFlow.getChildren().add(sourceText);
             }
