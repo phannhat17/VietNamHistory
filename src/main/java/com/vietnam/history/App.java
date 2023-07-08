@@ -41,7 +41,7 @@ public class App extends Application {
     public static final ObservableList<Figure> FIGURES = new FigureLoader().loadData();
     public static final ObservableList<HistoricalEvent> HISTORICAL_EVENTS = new EventLoader().loadData();
     public static final ObservableList<Festival> FESTIVALS = new FestivalLoader().loadData();
-    public static final ObservableList<Landmark> LANDMARKS = new PlaceLoader().loadData();
+    public static final ObservableList<Landmark> LANDMARKS = new LandmarkLoader().loadData();
 
     private static final Map<String, HistoricalEntity> ENTITY_MAP = new HashMap<>();
 

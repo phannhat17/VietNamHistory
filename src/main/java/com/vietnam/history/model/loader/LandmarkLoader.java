@@ -5,13 +5,13 @@ import com.vietnam.history.model.Landmark;
 /**
  * A class for loading place data from JSON files.
  */
-public class PlaceLoader extends DataLoader<Landmark>{
+public class LandmarkLoader extends DataLoader<Landmark>{
     private static final String FOLDER_PATH = "src/data/địa điểm du lịch, di tích lịch sử";
 
     /**
-     * Constructs a new {@code PlaceLoader}.
+     * Constructs a new {@code LandmarkLoader}.
      */
-    public PlaceLoader() {
+    public LandmarkLoader() {
         super(FOLDER_PATH);
     }
 
