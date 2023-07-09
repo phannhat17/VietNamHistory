@@ -1,4 +1,4 @@
-package com.vietnam.history.model.loader;
+package com.vietnam.history.loader;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.ObjectMapper;

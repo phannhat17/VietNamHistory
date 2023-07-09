@@ -3,7 +3,7 @@ package com.vietnam.history;
 import com.vietnam.history.controller.DetailSceneController;
 import com.vietnam.history.controller.ListEntityScene;
 import com.vietnam.history.model.*;
-import com.vietnam.history.model.loader.*;
+import com.vietnam.history.loader.*;
 import javafx.application.Application;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXMLLoader;
