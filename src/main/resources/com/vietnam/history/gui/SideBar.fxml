@@ -7,7 +7,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 <VBox alignment="TOP_CENTER" prefHeight="575.0" prefWidth="190.0" spacing="16.0" style="-fx-background-color: #FAEFD7;"
-      xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.controller.SidebarController">
+      xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.vietnam.history.gui.controller.SidebarController">
    <ImageView fitHeight="150.0" fitWidth="150.0" pickOnBounds="true" preserveRatio="true">
       <VBox.margin>
          <Insets bottom="20.0" left="20.0" right="20.0" top="40.0"/>

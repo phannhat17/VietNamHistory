@@ -1,4 +1,4 @@
-package com.vietnam.history.model;
+package com.vietnam.history.gui.model;
 
 import com.fasterxml.jackson.databind.JsonNode;
 

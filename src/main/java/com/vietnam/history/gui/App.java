@@ -1,9 +1,9 @@
-package com.vietnam.history;
+package com.vietnam.history.gui;
 
-import com.vietnam.history.controller.DetailSceneController;
-import com.vietnam.history.controller.ListEntityScene;
-import com.vietnam.history.model.*;
-import com.vietnam.history.loader.*;
+import com.vietnam.history.gui.controller.DetailSceneController;
+import com.vietnam.history.gui.controller.ListEntityScene;
+import com.vietnam.history.gui.model.*;
+import com.vietnam.history.gui.loader.*;
 import javafx.application.Application;
 import javafx.collections.ObservableList;
 import javafx.fxml.FXMLLoader;

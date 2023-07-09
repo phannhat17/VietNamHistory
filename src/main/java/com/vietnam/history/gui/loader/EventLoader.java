@@ -1,7 +1,7 @@
-package com.vietnam.history.loader;
+package com.vietnam.history.gui.loader;
 
 
-import com.vietnam.history.model.HistoricalEvent;
+import com.vietnam.history.gui.model.HistoricalEvent;
 
 /**
  * A class for loading historical event data from JSON files.

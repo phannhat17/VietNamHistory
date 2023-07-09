@@ -62,7 +62,7 @@
                         <!-- Usage: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.vietnam.history.App</mainClass>
+                            <mainClass>com.vietnam.history.gui.App</mainClass>
                         </configuration>
                     </execution>
                 </executions>

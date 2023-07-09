@@ -1,6 +1,6 @@
-package com.vietnam.history.loader;
+package com.vietnam.history.gui.loader;
 
-import com.vietnam.history.model.Figure;
+import com.vietnam.history.gui.model.Figure;
 
 /**
  * A class for loading historical figure data from JSON files.

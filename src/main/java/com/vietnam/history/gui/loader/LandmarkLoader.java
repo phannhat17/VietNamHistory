@@ -1,6 +1,6 @@
-package com.vietnam.history.loader;
+package com.vietnam.history.gui.loader;
 
-import com.vietnam.history.model.Landmark;
+import com.vietnam.history.gui.model.Landmark;
 
 /**
  * A class for loading place data from JSON files.
