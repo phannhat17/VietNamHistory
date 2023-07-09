@@ -1,0 +1,48 @@
+Nguồn các thực thể: DBPedia, WikiPedia, Người kể sử 
+Số lễ hội văn hóa: 109
+Tống số thuộc tính của lễ hội văn hóa:35
+Các thuộc tính chính: [có nguồn gốc từ quốc gia, một trong những, một phần của, thẻ băm, miêu tả trong, ngày trong năm của chu kỳ xảy ra, quốc gia, vị trí, là một, ngày thành lập hoặc tạo ra]
+
+Số nhân vật lịch sử: 5725
+Tống số thuộc tính của nhân vật lịch sử:337
+Các thuộc tính chính: [nói, viết hoặc ký bằng các ngôn ngữ, giới tính, ngày mất, chức vụ, họ, quốc tịch, nơi sinh, ngày sinh, nghề nghiệp, là một]
+
+Số sự kiện lịch sử: 452
+Tống số thuộc tính của sự kiện lịch sử:120
+Các thuộc tính chính: [ngày bắt đầu, kết quả, thời điểm, ngày kết thúc, một phần của, ngày công bố, thực thể tham gia, vị trí, quốc gia, là một]
+
+Số triều đại lịch sử: 25
+Tống số thuộc tính của triều đại lịch sử:40
+Các thuộc tính chính: [kế thừa bởi, kế thừa, triều đại của, trung tâm hành chính, lãnh đạo, ngày giải thể, bãi bỏ hoặc phá bỏ, quốc gia, đơn vị tiền tệ, là một, ngày thành lập hoặc tạo ra]
+
+Số địa điểm du lịch, di tích lịch sử: 2653
+Tống số thuộc tính của địa điểm du lịch, di tích lịch sử:195
+Các thuộc tính chính: [diện tích, một phần của, cao độ so với mực nước biển, khu vực, quốc gia, vị trí, là một, loại di tích, thời gian công nhận di tích, ngày thành lập hoặc tạo ra]
+
+Tổng số thực thể: 8964
+Tổng số liên kết: 12281
+
+
+Thông kê nguồn Người kể sử: 
+	Số lễ hội văn hóa: 0
+	Tống số thuộc tính của lễ hội văn hóa:0
+	Các thuộc tính chính: []
+
+	Số nhân vật lịch sử: 1052
+	Tống số thuộc tính của nhân vật lịch sử:193
+	Các thuộc tính chính: [trị vì, niên hiệu, thụy hiệu, sinh, mất, kế nhiệm, thân phụ, thân mẫu, tiền nhiệm, triều đại]
+
+	Số sự kiện lịch sử: 71
+	Tống số thuộc tính của sự kiện lịch sử:16
+	Các thuộc tính chính: [thời gian, kết quả, tham chiến bên 1, tên khác, tham chiến bên 2, chỉ huy bên 2, địa điểm, lực lượng bên 2, chỉ huy bên 1, lực lượng bên 1]
+
+	Số triều đại lịch sử: 0
+	Tống số thuộc tính của triều đại lịch sử:0
+	Các thuộc tính chính: []
+
+	Số địa điểm du lịch, di tích lịch sử: 22
+	Tống số thuộc tính của địa điểm du lịch, di tích lịch sử:47
+	Các thuộc tính chính: [công nhận, chiều cao, hạng mục, thành lập, tọa độ, lễ hội, người sáng lập, địa chỉ, quốc gia, công trạng]
+
+	Tổng số thực thể: 1145
+	Tổng số liên kết: 1297
