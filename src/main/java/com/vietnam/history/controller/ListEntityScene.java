@@ -53,7 +53,10 @@ public class ListEntityScene<T extends HistoricalEntity> extends MainController 
                         return true; // Display all entities when filter is empty
                     }
                     String filterText = newValue.toLowerCase();
-                    String entityText = entity.getLabel().toLowerCase() + " " + String.join(" ", entity.getAliases()).toLowerCase();
+                    String entityText = entity.getLabel().toLowerCase();
+                    if (entity.getAliases() != null) {
+                        entityText += " " + String.join(" ", entity.getAliases()).toLowerCase();
+                    }
                     return entityText.contains(filterText); // Show entities that have the filter text in their label or aliases
                 }));
 
