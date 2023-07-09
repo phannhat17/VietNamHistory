@@ -1,0 +1,1877 @@
+{
+  "Hồng Bàng": [
+    {
+      "Chân dung": "https",
+      "Vua": "Kinh Dương Vương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Kinh Dương Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Lộc Tục",
+      "Thế thứ": "Khai sáng triều đại, con thứ Đế Minh, em Đế Nghi",
+      "Trị vì": "2879 TCN–2794 TCN",
+      "link": "https://vi.wikipedia.org/wiki/Kinh_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/L%E1%BA%A1c_Long_Qu%C3%A2n_%26_%C3%82u_C%C6%A1_-_T%E1%BA%BFt_2009.jpg/40px-L%E1%BA%A1c_Long_Qu%C3%A2n_%26_%C3%82u_C%C6%A1_-_T%E1%BA%BFt_2009.jpg",
+      "Vua": "Lạc Long Quân",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Lạc Long Quân",
+      "Niên hiệu": "không có",
+      "Tên húy": "Sùng Lãm",
+      "Thế thứ": "Con Kinh Dương Vương",
+      "Trị vì": "2525 TCN–2253 TCN",
+      "link": "https://vi.wikipedia.org/wiki/L%E1%BA%A1c_Long_Qu%C3%A2n"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ nhất",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Quốc Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "không rõ",
+      "Thế thứ": "Con trưởng Lạc Long Quân",
+      "Trị vì": "TK VII TCN–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_I"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ hai",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Hiền Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "không rõ",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_II"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ ba",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Lân Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "không rõ",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_III"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ tư",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Diệp Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "không rõ",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_IV"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ năm",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Hy Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "không rõ",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/w/index.php?title\u003dH%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_5\u0026action\u003dedit\u0026redlink\u003d1"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mausoleum_of_Hung_King.JPG/40px-Mausoleum_of_Hung_King.JPG",
+      "Vua": "Hùng Vương thứ sáu",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Huy Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "không rõ",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_VI"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ bảy",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Chiêu Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Lang Liêu",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/Lang_Li%C3%AAu"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ tám",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Vĩ Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Thừa Vân Lang",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_VIII"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ chín",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Định Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Quân Lang",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_IX"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ mười",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Uy Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Hùng Hải Lang",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_X"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ 11",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Trinh Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Hưng Đức Lang",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_XI"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ 12",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Vũ Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "không rõ",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_XII"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ 13",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Việt Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Tuấn Lang",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_XIII"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ 14",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Anh Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Chân Nhân Lang",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_XIV"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ 15",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Triêu Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Cảnh Chiêu Lang",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_XV"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ 16",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Tạo Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Đức Quân Lang",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_XVI"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ 17",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Nghị Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "không rõ",
+      "Thế thứ": "",
+      "Trị vì": "?–?",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_XVII"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ 18",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Duệ Vương Hùng Tuyền Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "không rõ",
+      "Thế thứ": "",
+      "Trị vì": "?–258 TCN hoặc 208 TCN",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_XVIII"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hùng Vương thứ 19",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hùng Kính Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Huệ Lang",
+      "Thế thứ": "",
+      "Trị vì": "?–6 năm",
+      "link": "https://vi.wikipedia.org/w/index.php?title\u003dH%C3%B9ng_V%C6%B0%C6%A1ng_th%E1%BB%A9_XIX\u0026action\u003dedit\u0026redlink\u003d1"
+    }
+  ],
+  "Nhà Thục (257–208 TCN, hoặc 207–179 TCN)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/4/47/AnDuongVuong.jpg/40px-AnDuongVuong.jpg",
+      "Vua": "An Dương Vương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "An Dương Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Thục Phán (蜀泮)",
+      "Thế thứ": "Hậu duệ Khai Minh thị nước Thục thời Xuân Thu Chiến Quốc.",
+      "Trị vì": "257 – 208TCN hoặc 207 – 179TCN",
+      "link": "https://vi.wikipedia.org/wiki/An_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng"
+    }
+  ],
+  "Nhà Triệu (204–111 TCN)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Statue_of_Tri%E1%BB%87u_V%C5%A9_%C4%90%E1%BA%BF_%28Emperor_Zhao_Tuo%29%2C_Nanyuewang_Miao_2015.11.12_09-10-58.jpg/40px-Statue_of_Tri%E1%BB%87u_V%C5%A9_%C4%90%E1%BA%BF_%28Emperor_Zhao_Tuo%29%2C_Nanyuewang_Miao_2015.11.12_09-10-58.jpg",
+      "Vua": "Triệu Vũ Vương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Vũ Vương Vũ Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Triệu Đà",
+      "Thế thứ": "Dòng dõi nước Triệu thời Chiến Quốc, khai sáng triều đại.",
+      "Trị vì": "204—137TCN",
+      "link": "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_V%C5%A9_V%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Remains_of_King_Zhao_Mo.jpg/40px-Remains_of_King_Zhao_Mo.jpg",
+      "Vua": "Triệu Văn Vương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Văn Vương Văn Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Triệu Hồ Triệu Muội",
+      "Thế thứ": "Cháu nội Triệu Đà, con Triệu Trọng Thủy.",
+      "Trị vì": "137—125TCN",
+      "link": "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_V%C4%83n_V%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Triệu Minh Vương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Minh Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Triệu Anh Tề",
+      "Thế thứ": "Con Triệu Hồ",
+      "Trị vì": "125—113TCN",
+      "link": "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_Minh_V%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tri%E1%BB%87u_Ai_V%C6%B0%C6%A1ng_%28King_Zhao_Xing%29.jpg/40px-Tri%E1%BB%87u_Ai_V%C6%B0%C6%A1ng_%28King_Zhao_Xing%29.jpg",
+      "Vua": "Triệu Ai Vương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Ai Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Triệu Hưng",
+      "Thế thứ": "Con thứ Triệu Anh Tề",
+      "Trị vì": "113—112TCN",
+      "link": "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_Ai_V%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Triệu Dương Vương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Dương Vương Thuật Dương Vương Vệ Dương vương Vệ Dương hầu",
+      "Niên hiệu": "không có",
+      "Tên húy": "Triệu Kiến Đức",
+      "Thế thứ": "Con trưởng Triệu Anh Tề, anh Triệu Hưng.",
+      "Trị vì": "112—111TCN",
+      "link": "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_D%C6%B0%C6%A1ng_V%C6%B0%C6%A1ng"
+    }
+  ],
+  "Trưng Nữ Vương (40–43)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hai_B%C3%A0_Tr%C6%B0ng_%28tranh_%C4%90%C3%B4ng_H%E1%BB%93%29.jpeg/40px-Hai_B%C3%A0_Tr%C6%B0ng_%28tranh_%C4%90%C3%B4ng_H%E1%BB%93%29.jpeg",
+      "Vua": "Trưng Vương",
+      "Thụy hiệu": "không có",
+      "Tôn hiệu": "Trinh Linh Chi Phu Nhân",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trưng Trắc (徵側) Lạc Trắc",
+      "Thế thứ": "Vợ Thi Sách, sáng lập triều đại",
+      "Trị vì": "40—43",
+      "link": "https://vi.wikipedia.org/wiki/Hai_B%C3%A0_Tr%C6%B0ng"
+    }
+  ],
+  "Nhà Tiền Lý và Triệu Việt Vương (544–603)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Emperor_Ly_Nam_De.jpg/35px-Emperor_Ly_Nam_De.jpg",
+      "Vua": "Lý Nam Đế",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Nam Đế, Nam Việt Đế",
+      "Niên hiệu": "Thiên Đức (544–548)",
+      "Tên húy": "Lý Bí Lý Bôn (李賁)",
+      "Thế thứ": "Nổi dậy tự lập, khai sáng triều đại",
+      "Trị vì": "544—548",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Nam_%C4%90%E1%BA%BF"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Cuathanphu2.jpg/40px-Cuathanphu2.jpg",
+      "Vua": "Triệu Việt Vương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Nam Việt Quốc Vương, Dạ Trạch Vương Thần Vũ Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Triệu Quang Phục (趙光復)",
+      "Thế thứ": "Con Thái phó Triệu Túc, được Lý Nam Đế giao toàn bộ quyền hành.",
+      "Trị vì": "548—571",
+      "link": "https://vi.wikipedia.org/wiki/Tri%E1%BB%87u_Vi%E1%BB%87t_V%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Đào Lang Vương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Lý Thiên Bảo",
+      "Thế thứ": "Anh trai Lý Nam Đế",
+      "Trị vì": "549—555",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Thi%C3%AAn_B%E1%BA%A3o"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Hậu Lý Nam Đế",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Nam Đế Anh Liệt Nhân Hiếu Khâm Minh Thánh Vũ Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Lý Phật Tử (李佛子)",
+      "Thế thứ": "Người trong họ Lý Nam Đế",
+      "Trị vì": "555—602",
+      "link": "https://vi.wikipedia.org/wiki/H%E1%BA%ADu_L%C3%BD_Nam_%C4%90%E1%BA%BF"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lý Sư Lợi",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Lý Sư Lợi",
+      "Thế thứ": "con Hậu Lý Nam Đế",
+      "Trị vì": "602—603",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_S%C6%B0_L%E1%BB%A3i"
+    }
+  ],
+  "Họ Mai (713–723)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mai_Hac_De_temple_gate_in_2014.jpg/52px-Mai_Hac_De_temple_gate_in_2014.jpg",
+      "Vua": "Mai Hắc Đế",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Đại Đế, Hắc Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Mai Thúc Loan, (梅叔鸞) Mai Huyền Thành, Mai Lập Thành, Mai Thúc Yên, Mai Phượng.",
+      "Thế thứ": "Con Mai Hoàn, sáng lập triều đại.",
+      "Trị vì": "713—722",
+      "link": "https://vi.wikipedia.org/wiki/Mai_H%E1%BA%AFc_%C4%90%E1%BA%BF"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Mai Thiếu Đế",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Mai Thúc Huy, Mai Bảo Sơn",
+      "Thế thứ": "Con út Mai Hắc Đế, em song sinh với Bạch Đầu Đế.",
+      "Trị vì": "722—723",
+      "link": "https://vi.wikipedia.org/wiki/Mai_Thi%E1%BA%BFu_%C4%90%E1%BA%BF"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Bạch Đầu Đế",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Mai Kỳ Sơn",
+      "Thế thứ": "Con thứ hai Mai Hắc Đế, anh song sinh với Mai Thiếu Đế.",
+      "Trị vì": "723—723",
+      "link": "https://vi.wikipedia.org/wiki/B%E1%BA%A1ch_%C4%90%E1%BA%A7u_%C4%90%E1%BA%BF"
+    }
+  ],
+  "Họ Phùng (766–791)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/9/93/TuongPhungHung.jpg/40px-TuongPhungHung.jpg",
+      "Thủ lĩnh": "Phùng Hưng",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Bố Cái Đại Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Phùng Hưng (馮興), Phùng Cự Lão",
+      "Thế thứ": "con Phùng Hạp Khanh, thế tập Biên Khố Di Tù Trưởng",
+      "Trị vì": "766—791",
+      "link": "https://vi.wikipedia.org/wiki/Ph%C3%B9ng_H%C6%B0ng"
+    },
+    {
+      "Chân dung": "https",
+      "Thủ lĩnh": "Phùng An",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Phùng An",
+      "Thế thứ": "con Phùng Hưng",
+      "Trị vì": "791—791",
+      "link": "https://vi.wikipedia.org/wiki/Ph%C3%B9ng_An"
+    }
+  ],
+  "Họ Khúc (905–923) hoặc (905–930)": [
+    {
+      "Chân dung": "https",
+      "Tiết độ sứ": "Khúc Tiên Chủ",
+      "Tôn hiệu": "Tiên Chủ",
+      "Thụy hiệu": "Tiên Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Khúc Thừa Dụ (曲承裕)",
+      "Thế thứ": "Mở màn nền tự chủ",
+      "Trị vì": "905—907",
+      "link": "https://vi.wikipedia.org/wiki/Kh%C3%BAc_Th%E1%BB%ABa_D%E1%BB%A5"
+    },
+    {
+      "Chân dung": "https",
+      "Tiết độ sứ": "Khúc Trung Chủ",
+      "Tôn hiệu": "Trung Chủ",
+      "Thụy hiệu": "Trung Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Khúc Hạo, (曲顥) Khúc Thừa Hạo",
+      "Thế thứ": "Con Khúc Thừa Dụ",
+      "Trị vì": "907—917",
+      "link": "https://vi.wikipedia.org/wiki/Kh%C3%BAc_H%E1%BA%A1o"
+    },
+    {
+      "Chân dung": "https",
+      "Tiết độ sứ": "Khúc Hậu Chủ",
+      "Tôn hiệu": "Hậu Chủ",
+      "Thụy hiệu": "Hậu Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Khúc Thừa Mỹ (曲承美) Khúc Toàn Mỹ",
+      "Thế thứ": "Con Khúc Hạo",
+      "Trị vì": "917—923 930",
+      "link": "https://vi.wikipedia.org/wiki/Kh%C3%BAc_Th%E1%BB%ABa_M%E1%BB%B9"
+    }
+  ],
+  "Họ Dương (931–937)": [
+    {
+      "Chân dung": "https",
+      "Tiết độ sứ": "Dương Chính Công",
+      "Tôn hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Dương Đình Nghệ, (楊廷藝) Dương Diên Nghệ (楊筵藝)",
+      "Thế thứ": "Khôi phục nền tự chủ; nha tướng của Khúc Hạo",
+      "Trị vì": "931—937",
+      "link": "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_%C4%90%C3%ACnh_Ngh%E1%BB%87"
+    }
+  ],
+  "Họ Kiều (937–938)": [
+    {
+      "Chân dung": "https",
+      "Tiết độ sứ": "Kiều Công Tiễn",
+      "Tôn hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Kiều Công Tiễn, (矯公羨) Kiểu Công Tiễn, Kiểu Công Hạo,",
+      "Thế thứ": "Con nuôi và nha tướng của Dương Đình Nghệ",
+      "Trị vì": "937—938",
+      "link": "https://vi.wikipedia.org/wiki/Ki%E1%BB%81u_C%C3%B4ng_Ti%E1%BB%85n"
+    }
+  ],
+  "Nhà Ngô và Dương Tam Kha (939–966)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/a/af/T%C6%B0%E1%BB%A3ng_Ng%C3%B4_Quy%E1%BB%81n.jpg/40px-T%C6%B0%E1%BB%A3ng_Ng%C3%B4_Quy%E1%BB%81n.jpg",
+      "Vua": "Tiền Ngô Vương",
+      "Tôn hiệu": "Tiên Chủ",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Ngô Quyền",
+      "Thế thứ": "Sáng lập triều đại; con rể Dương Đình Nghệ",
+      "Trị vì": "939—944",
+      "link": "https://vi.wikipedia.org/wiki/Ti%E1%BB%81n_Ng%C3%B4_V%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Dương Bình Vương",
+      "Tôn hiệu": "không có",
+      "Thụy hiệu": "Trương Dương Công",
+      "Niên hiệu": "không có",
+      "Tên húy": "Dương Tam Kha, Dương Chủ Tướng, Dương Thiệu Hồng",
+      "Thế thứ": "Con trai Dương Đình Nghệ",
+      "Trị vì": "944—950",
+      "link": "https://vi.wikipedia.org/wiki/D%C6%B0%C6%A1ng_B%C3%ACnh_V%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Thiên Sách Vương",
+      "Tôn hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Ngô Xương Ngập",
+      "Thế thứ": "Con trưởng Ngô Quyền",
+      "Trị vì": "951—954",
+      "link": "https://vi.wikipedia.org/wiki/Thi%C3%AAn_S%C3%A1ch_V%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Nam Tấn Vương",
+      "Tôn hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Ngô Xương Tấn, Ngô Xương Văn",
+      "Thế thứ": "Con thứ Ngô Quyền",
+      "Trị vì": "950—965",
+      "link": "https://vi.wikipedia.org/wiki/Nam_T%E1%BA%A5n_V%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Ngô Sứ Quân",
+      "Tôn hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Ngô Xương Xí",
+      "Thế thứ": "Con Ngô Xương Ngập",
+      "Trị vì": "965—966",
+      "link": "https://vi.wikipedia.org/wiki/Ng%C3%B4_X%C6%B0%C6%A1ng_X%C3%AD"
+    }
+  ],
+  "Nhà Đinh (968–980)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/VuaDinhTienHoang.jpg/40px-VuaDinhTienHoang.jpg",
+      "Vua": "Đinh Tiên Hoàng",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Tiên Hoàng Đế Đại Thắng Minh Hoàng Đế",
+      "Niên hiệu": "Thái Bình (970-979)",
+      "Tên húy": "Đinh Bộ Lĩnh, Đinh Hoàn",
+      "Thế thứ": "Sáng lập triều đại; con nuôi Sứ quân Trần Minh Công",
+      "Trị vì": "968—979",
+      "link": "https://vi.wikipedia.org/wiki/%C4%90inh_Ti%C3%AAn_Ho%C3%A0ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Dinhtoan.jpg/40px-Dinhtoan.jpg",
+      "Vua": "Đinh Phế Đế",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Phế Đế Thiếu Đế",
+      "Niên hiệu": "Thái Bình (979-980)",
+      "Tên húy": "Đinh Toàn, Đinh Tuệ",
+      "Thế thứ": "Con trai thứ 2 Đinh Tiên Hoàng",
+      "Trị vì": "979—980",
+      "link": "https://vi.wikipedia.org/wiki/%C4%90inh_Ph%E1%BA%BF_%C4%90%E1%BA%BF"
+    }
+  ],
+  "Nhà Tiền Lê (980–1009)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Le_Dai_Hanh.jpg/40px-Le_Dai_Hanh.jpg",
+      "Vua": "Lê Đại Hành",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Đại Hành Hoàng Đế Minh Càn Ứng Vận Thần Vũ Thăng Bình Chí Nhân Quảng Hiếu Hoàng đế",
+      "Niên hiệu": "Thiên Phúc (980–988) Hưng Thống (989–993) Ứng Thiên (994–1005)",
+      "Tên húy": "Lê Hoàn",
+      "Thế thứ": "Sáng lập triều đại, Phó vương nhiếp chính thời Đinh Phế Đế",
+      "Trị vì": "980—1005",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_%C4%90%E1%BA%A1i_H%C3%A0nh"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Trung Tông",
+      "Miếu hiệu": "Trung Tông",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "Ứng Thiên (1005–1005)",
+      "Tên húy": "Lê Long Việt",
+      "Thế thứ": "Con thứ Lê Đại Hành",
+      "Trị vì": "1005—1005",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Trung_T%C3%B4ng_(Ti%E1%BB%81n_L%C3%AA)"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/1/15/Lelongdinh.jpg/40px-Lelongdinh.jpg",
+      "Vua": "Lê Ngọa Triều",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Khai Thiên Ứng Vận Thánh Văn Thần Vũ Tắc Thiên Sùng Đạo Đại Thắng Minh Quang Hiếu Hoàng Đế Ngọa Triều Hoàng Đế",
+      "Niên hiệu": "Ứng Thiên (1005–1007) Cảnh Thụy (1008–1009)",
+      "Tên húy": "Lê Long Đĩnh,",
+      "Thế thứ": "Con thứ năm Lê Đại Hành",
+      "Trị vì": "1005—1009",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Long_%C4%90%C4%A9nh"
+    }
+  ],
+  "Nhà Lý (1009–1225)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95.jpg/40px-T%C6%B0%E1%BB%A3ng_L%C3%BD_Th%C3%A1i_T%E1%BB%95.jpg",
+      "Vua": "Lý Thái Tổ",
+      "Miếu hiệu": "Thái Tổ",
+      "Thụy hiệu": "Thần Vũ Hoàng Đế",
+      "Niên hiệu": "Thuận Thiên (1010–1028)",
+      "Tên húy": "Lý Công Uẩn",
+      "Thế thứ": "Sáng lập triều đại. Nguyên là Điện tiền Chỉ huy sứ và là Phò mã trưởng Lê Đại Hành",
+      "Trị vì": "1009—1028",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%E1%BB%95"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/a/ac/L%C3%BDTh%C3%A1iT%C3%B4ng.jpg/40px-L%C3%BDTh%C3%A1iT%C3%B4ng.jpg",
+      "Vua": "Lý Thái Tông",
+      "Miếu hiệu": "Thái Tông",
+      "Thụy hiệu": "Từ Hiếu Hoàng đế",
+      "Niên hiệu": "Thiên Thành (1028–1033), Thông Thụy (1034–1038), Càn Phù Hữu Đạo (1039–1041), Minh Đạo (1042–1043), Thiên Cảm Thánh Vũ (1044–1048), Sùng Hưng Đại Bảo (1049–1054).",
+      "Tên húy": "Lý Phật Mã, Lý Đức Chính",
+      "Thế thứ": "Con trưởng Lý Thái Tổ",
+      "Trị vì": "1028—1054",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1i_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/L%C3%BD_Th%C3%A1nh_T%C3%B4ng.JPG/40px-L%C3%BD_Th%C3%A1nh_T%C3%B4ng.JPG",
+      "Vua": "Lý Thánh Tông",
+      "Miếu hiệu": "Thánh Tông",
+      "Thụy hiệu": "Thánh Thần Hoàng đế",
+      "Niên hiệu": "Long Thụy Thái Bình (1054–1058), Chương Thánh Gia Khánh (1059–1065), Long Chương Thiên Tự (1066–1068), Thiên Huống Bảo Tượng (1068–1069), Thần Vũ (1069–1072).",
+      "Tên húy": "Lý Nhật Tôn",
+      "Thế thứ": "Con trưởng Lý Thái Tông",
+      "Trị vì": "1054—1072",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Th%C3%A1nh_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/7/74/L%C3%BD_Nh%C3%A2n_T%C3%B4ng.JPG/40px-L%C3%BD_Nh%C3%A2n_T%C3%B4ng.JPG",
+      "Vua": "Lý Nhân Tông",
+      "Miếu hiệu": "Nhân Tông",
+      "Thụy hiệu": "Hiếu Từ Thánh Thần Văn Vũ Hoàng Đế",
+      "Niên hiệu": "Thái Ninh (1072–1076), Anh Vũ Chiêu Thắng (1076–1084), Quảng Hựu (1085–1092), Hội Phong (1092–1100), Long Phù (1101–1109), Hội Tường Đại Khánh (1110–1119), Thiên Phù Duệ Vũ (1120–1126), Thiên Phù Khánh Thọ (1127).",
+      "Tên húy": "Lý Càn Đức",
+      "Thế thứ": "Con trưởng Lý Thánh Tông",
+      "Trị vì": "1072—1127",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Nh%C3%A2n_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lý Thần Tông",
+      "Miếu hiệu": "Thần Tông",
+      "Thụy hiệu": "Quảng Văn Sùng Hiếu Khâm Minh Văn Vũ Hoàng Đế",
+      "Niên hiệu": "Thiên Thuận (1128–1132), Thiên Chương Bảo Tự (1133–1138)",
+      "Tên húy": "Lý Dương Hoán",
+      "Thế thứ": "con Sùng Hiền Hầu, cháu nội Lý Thánh Tông",
+      "Trị vì": "1127—1138",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Th%E1%BA%A7n_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lý Anh Tông",
+      "Miếu hiệu": "Anh Tông",
+      "Thụy hiệu": "Chí Hiếu Hoàng Đế",
+      "Niên hiệu": "Thiệu Minh (1138–1139), Đại Định (1140–1162), Chính Long Bảo Ứng (1163–1173), Thiên Cảm Chí Bảo (1174–1175)",
+      "Tên húy": "Lý Thiên Tộ",
+      "Thế thứ": "Con thứ Lý Thần Tông",
+      "Trị vì": "1138—1175",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Anh_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lý Cao Tông",
+      "Miếu hiệu": "Cao Tông",
+      "Thụy hiệu": "Quang Hiếu Hoàng Đế",
+      "Niên hiệu": "Trinh Phù (1176–1185), Thiên Tư Gia Thụy (1186–1201), Thiên Gia Bảo Hựu (1202–1204), Trị Bình Long Ứng (1205–1210)",
+      "Tên húy": "Lý Long Cán Lý Long Trát",
+      "Thế thứ": "Con thứ 6 Lý Anh Tông",
+      "Trị vì": "1176—1204",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Cao_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lý Thẩm",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Lý Thẩm",
+      "Thế thứ": "Con thứ Lý Cao Tông",
+      "Trị vì": "1209—1209",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Th%E1%BA%A9m"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lý Huệ Tông",
+      "Miếu hiệu": "Huệ Tông",
+      "Thụy hiệu": "Hoành Hiếu Hoàng đế",
+      "Niên hiệu": "Kiến Gia (1211–1224)",
+      "Tên húy": "Lý Sảm, Lý Hạo Sảm",
+      "Thế thứ": "Con trưởng Lý Cao Tông",
+      "Trị vì": "1211—1224",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Hu%E1%BB%87_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lý Nguyên Vương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Nguyên Vương Văn Vương",
+      "Niên hiệu": "Càn Ninh (1214–1216)",
+      "Tên húy": "không rõ",
+      "Thế thứ": "Con thứ Lý Anh Tông",
+      "Trị vì": "1214—1216",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Nguy%C3%AAn_V%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lý Chiêu Hoàng",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Chiêu Hoàng",
+      "Niên hiệu": "Thiên Chương Hữu Đạo (1224–1225)",
+      "Tên húy": "Lý Phật Kim, Lý Thiên Hinh",
+      "Thế thứ": "Con gái Lý Huệ Tông, vợ Trần Thái Tông",
+      "Trị vì": "1224—1225",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%BD_Chi%C3%AAu_Ho%C3%A0ng"
+    }
+  ],
+  "Nhà Trần (1225–1400)": [
+    {
+      "Chân dung": "https",
+      "Vua": "Trần Thái Tông",
+      "Miếu hiệu": "Thái Tông Thiện Hoàng Văn Hoàng",
+      "Thụy hiệu": "Thống Thiên Ngự Cực Long Công Hậu Đức Hiền Công Hựu Thuận Thánh Văn Thần Vũ Hiếu Nguyên Hoàng Đế",
+      "Niên hiệu": "Kiến Trung (1225–1232) Thiên Ứng Chính Bình (1232–1351) Nguyên Phong (1251–1258)",
+      "Tên húy": "Trần Cảnh Trần Bồ Trần Quang Bỉnh Trần Nhật Cảnh",
+      "Thế thứ": "Sáng lập triều đại, chồng và anh họ Lý Chiêu Hoàng",
+      "Trị vì": "1225—1258",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1i_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Trần Thánh Tông",
+      "Miếu hiệu": "Thánh Tông Nhân Hoàng",
+      "Thụy hiệu": "Huyền Công Thịnh Đức Nhân Minh Văn Vũ Tuyên Hiếu Hoàng Đế",
+      "Niên hiệu": "Thiệu Long (1258–1272) Bảo Phù (1273–1278)",
+      "Tên húy": "Trần Hoảng Trần Uy Hoảng Trần Quang Bính Trần Nhật Huyên",
+      "Thế thứ": "Con thứ hai Trần Thái Tông",
+      "Trị vì": "1258—1279",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Th%C3%A1nh_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.jpg/40px-Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng.jpg",
+      "Vua": "Trần Nhân Tông",
+      "Miếu hiệu": "Nhân Tông Hiếu Hoàng",
+      "Thụy hiệu": "Pháp Thiên Sùng Đạo Ứng Thế Hóa Dân Long Từ Hiển Hiệu Thánh Văn Thần Vũ Nguyên Minh Duệ Hiếu Hoàng Đế",
+      "Niên hiệu": "Thiệu Bảo (1278–1285) Trùng Hưng (1285–1293)",
+      "Tên húy": "Trần Khâm Trần Nhật Tuấn",
+      "Thế thứ": "Con trưởng Trần Thánh Tông",
+      "Trị vì": "1278—1293",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Nh%C3%A2n_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/vi/thumb/9/9e/Tr%E1%BA%A7n_Anh_T%C3%B4ng_TL%C4%90SXS%C4%90.jpg/40px-Tr%E1%BA%A7n_Anh_T%C3%B4ng_TL%C4%90SXS%C4%90.jpg",
+      "Vua": "Trần Anh Tông",
+      "Miếu hiệu": "Anh Tông Anh Hoàng",
+      "Thụy hiệu": "Hiển Văn Duệ Vũ Khâm Minh Nhân Hiếu Hoàng Đế",
+      "Niên hiệu": "Hưng Long (1293–1314)",
+      "Tên húy": "Trần Thuyên Trần Nhật 㷃 Trần Nhật 𤊞",
+      "Thế thứ": "Con trưởng Trần Nhân Tông",
+      "Trị vì": "1293—1314",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Anh_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/CDVTranMinhTongjpg1333297930.jpg/40px-CDVTranMinhTongjpg1333297930.jpg",
+      "Vua": "Trần Minh Tông",
+      "Miếu hiệu": "Minh Tông Ninh Hoàng",
+      "Thụy hiệu": "Chương Nghiêu Văn Triết Hoàng Đế",
+      "Niên hiệu": "Đại Khánh (1314–1323) Khai Thái (1324–1329)",
+      "Tên húy": "Trần Mạnh Trần Thánh Sinh Trần Nhật Khoáng",
+      "Thế thứ": "Con thứ tư Trần Anh Tông",
+      "Trị vì": "1314—1329",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Minh_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/9/99/T%C6%B0%E1%BB%A3ng_Tr%E1%BA%A7n_Hi%E1%BA%BFn_T%C3%B4ng.png/50px-T%C6%B0%E1%BB%A3ng_Tr%E1%BA%A7n_Hi%E1%BA%BFn_T%C3%B4ng.png",
+      "Vua": "Trần Hiến Tông",
+      "Miếu hiệu": "Hiến Tông Triết Hoàng",
+      "Thụy hiệu": " Thể Nguyên Ngự Cực Duệ Thánh Chí Hiếu Hoàng Đế",
+      "Niên hiệu": "Khai Hựu (1329–1341)",
+      "Tên húy": "Trần Vượng Trần Thiên Kiến  Trần Nhật 㷆",
+      "Thế thứ": "Con trưởng Trần Minh Tông",
+      "Trị vì": "1329—1341",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Hi%E1%BA%BFn_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Statue_of_emperor_Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng.jpg/40px-Statue_of_emperor_Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng.jpg",
+      "Vua": "Trần Dụ Tông",
+      "Miếu hiệu": "Dụ Tông Dụ Hoàng",
+      "Thụy hiệu": "Thống Thiên Thể Đạo Nhân Minh Quang Hiếu Hoàng đế",
+      "Niên hiệu": "Thiệu Phong (1341–1357) Đại Trị (1358–1369)",
+      "Tên húy": "Trần Hạo Trần Nhật Khuê",
+      "Thế thứ": "Con thứ mười Trần Minh Tông, dòng hoàng đích tử",
+      "Trị vì": "1341—1369",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_D%E1%BB%A5_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Đại Định Đế",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hôn Đức Công",
+      "Niên hiệu": "Đại Định (1369–1370)",
+      "Tên húy": "Trần Nhật Lễ Dương Nhật Lễ Trần Nhật Kiên",
+      "Thế thứ": "Con riêng của chị dâu Trần Dụ Tông",
+      "Trị vì": "1369—1370",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Nh%E1%BA%ADt_L%E1%BB%85"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tr%E1%BA%A7n_Ngh%E1%BB%87_T%C3%B4ng.png/52px-Tr%E1%BA%A7n_Ngh%E1%BB%87_T%C3%B4ng.png",
+      "Vua": "Trần Nghệ Tông",
+      "Miếu hiệu": "Nghệ Tông Nghệ Hoàng Nghĩa Hoàng",
+      "Thụy hiệu": "Quang Nhiên Anh Triết Hoàng Đế Thể Thiên Kiến Cực Thuần Hiếu Hoàng Đế",
+      "Niên hiệu": "Thiệu Khánh (1370–1372)",
+      "Tên húy": "Trần Phủ Trần Thúc Minh",
+      "Thế thứ": "Con thứ ba Trần Minh Tông",
+      "Trị vì": "1370—1372",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ngh%E1%BB%87_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Tr%E1%BA%A7n_Du%E1%BB%87_T%C3%B4ng.jpg/33px-Tr%E1%BA%A7n_Du%E1%BB%87_T%C3%B4ng.jpg",
+      "Vua": "Trần Duệ Tông",
+      "Miếu hiệu": "Duệ Tông Khâm Hoàng",
+      "Thụy hiệu": "Kế Thiên Ứng Vận Nhân Minh Khâm Hiếu Hoàng Đế",
+      "Niên hiệu": "Long Khánh (1373–1377)",
+      "Tên húy": "Trần Kính Trần Nhật Đoan",
+      "Thế thứ": "Con thứ 11 Trần Minh Tông",
+      "Trị vì": "1372—1377",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Du%E1%BB%87_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Trần Phế Đế",
+      "Miếu hiệu": "Giản Hoàng",
+      "Thụy hiệu": "Phế Đế",
+      "Niên hiệu": "Xương Phù (1377–1388)",
+      "Tên húy": "Trần Hiện Trần Nhật Vĩ",
+      "Thế thứ": "Con thứ Trần Duệ Tông",
+      "Trị vì": "1377—1388",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Ph%E1%BA%BF_%C4%90%E1%BA%BF_(%C4%90%E1%BA%A1i_Vi%E1%BB%87t)"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Trần Thuận Tông",
+      "Miếu hiệu": "Thuận Tông Nguyên Hoàng",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "Quang Thái (1388–1398)",
+      "Tên húy": "Trần Ngung Trần Nhật Hỗn",
+      "Thế thứ": "Con thứ của Trần Nghệ Tông",
+      "Trị vì": "1388—1398",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Thu%E1%BA%ADn_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Trần Thiếu Đế",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Thiếu Đế",
+      "Niên hiệu": "Kiến Tân (1398–1400)",
+      "Tên húy": "Trần An",
+      "Thế thứ": "Con trưởng Trần Thuận Tông, cháu ngoại Hồ Quý Ly",
+      "Trị vì": "1398—1400",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Thi%E1%BA%BFu_%C4%90%E1%BA%BF"
+    }
+  ],
+  "Nhà Hồ (1400–1407)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/An49_dynastie_Ho%2C_Ho_Quy_Ly_%2815022224569%29.jpg/56px-An49_dynastie_Ho%2C_Ho_Quy_Ly_%2815022224569%29.jpg",
+      "Vua": "Hồ Quý Ly",
+      "Miếu hiệu": "Quốc Tổ",
+      "Thụy hiệu": "Chương Hoàng",
+      "Niên hiệu": "Thánh Nguyên (1400)",
+      "Tên húy": "Hồ Quý Ly Hồ Nhất Nguyên Lê Quý Ly Lê Nhất Nguyên",
+      "Thế thứ": "Sáng lập triều đại, phò mã Trần Minh Tông, ông ngoại Trần Thiếu Đế",
+      "Trị vì": "1400—1400",
+      "link": "https://vi.wikipedia.org/wiki/H%E1%BB%93_Qu%C3%BD_Ly"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/An47_rebelle_Ho_Han_Thuong_%2815216463182%29.jpg/56px-An47_rebelle_Ho_Han_Thuong_%2815216463182%29.jpg",
+      "Vua": "Hồ Hán Thương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "Thiệu Thành (1401–1402) Khai Đại (1403–1407)",
+      "Tên húy": "Hồ Hán Thương Lê Hán Thương Hồ Hỏa",
+      "Thế thứ": "Con thứ Hồ Quý Ly",
+      "Trị vì": "1400—1407",
+      "link": "https://vi.wikipedia.org/wiki/H%E1%BB%93_H%C3%A1n_Th%C6%B0%C6%A1ng"
+    }
+  ],
+  "Nhà Hậu Trần (1407–1414)": [
+    {
+      "Chân dung": "https",
+      "Vua": "Trần Nguyệt Hồ",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trần Nguyệt Hồ",
+      "Thế thứ": "không rõ",
+      "Trị vì": "1407—1407",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Nguy%E1%BB%87t_H%E1%BB%93"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Giản Định Đế",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "Hưng Khánh (1407–1409)",
+      "Tên húy": "Trần Ngỗi, Trần Quỹ",
+      "Thế thứ": "Con trai thứ Trần Nghệ Tông",
+      "Trị vì": "1407—1409",
+      "link": "https://vi.wikipedia.org/wiki/Gi%E1%BA%A3n_%C4%90%E1%BB%8Bnh_%C4%90%E1%BA%BF"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Trùng Quang Đế",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "Trùng Quang (1409–1414)",
+      "Tên húy": "Trần Quý Khoáng, Trần Quý Khoách",
+      "Thế thứ": "Cháu nội Trần Nghệ Tông",
+      "Trị vì": "1409—1414",
+      "link": "https://vi.wikipedia.org/wiki/Tr%C3%B9ng_Quang_%C4%90%E1%BA%BF"
+    }
+  ],
+  "Khởi nghĩa Lam Sơn (1418–1427)": [
+    {
+      "Chân dung": "https",
+      "Vua": "Trần Cảo",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "Thiên Khánh (1426-1428)",
+      "Tên húy": "Trần Cảo, Trần Địch, Trần Cao, Trần Hồ Ông",
+      "Trị vì": "1426—1428",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_C%E1%BA%A3o_(vua)"
+    }
+  ],
+  "Nhà Hậu Lê – giai đoạn Lê sơ (1428–1527)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Le_Loi_statue.JPG/40px-Le_Loi_statue.JPG",
+      "Vua": "Lê Thái Tổ",
+      "Miếu hiệu": "Thái Tổ Lam Sơn động chủ",
+      "Tôn hiệu hoặc Thụy hiệu": "Thống Thiên Khải Vận Thánh Đức Thần Công Duệ Văn Anh Vũ Khoan Minh Dũng Trí Hoàng Nghĩa Chí Minh Đại Hiếu Cao Hoàng Đế",
+      "Niên hiệu": "Thuận Thiên (1428–1433)",
+      "Tên húy": "Lê Lợi",
+      "Thế thứ": "Sáng lập triểu đại",
+      "Trị vì": "1428–1433",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%E1%BB%95"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/An9_Le_Thai_Tong_Thieu_Binh_1ar_%2812027836095%29.jpg/58px-An9_Le_Thai_Tong_Thieu_Binh_1ar_%2812027836095%29.jpg",
+      "Vua": "Lê Thái Tông",
+      "Miếu hiệu": "Thái Tông Quế Lâm động chủ",
+      "Tôn hiệu hoặc Thụy hiệu": "Kế Thiên Thể Đạo Hiển Đức Thánh Công Khâm Minh Văn Tư Anh Duệ Triết Chiêu Hiến Kiến Trung Văn Hoàng Đế",
+      "Niên hiệu": "Thiệu Bình (1434–1439) Đại Bảo (1440-1442)",
+      "Tên húy": "Lê Nguyên Long Lê Lân",
+      "Thế thứ": "Con thứ hai Lê Thái Tổ",
+      "Trị vì": "1433–1442",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1i_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/0/03/An9_Le_Nhan_Tong_Dien_Ninh_1ar_%2812030823993%29.jpg/57px-An9_Le_Nhan_Tong_Dien_Ninh_1ar_%2812030823993%29.jpg",
+      "Vua": "Lê Nhân Tông",
+      "Miếu hiệu": "Nhân Tông",
+      "Tôn hiệu hoặc Thụy hiệu": "Khâm Văn Nhân Hiếu Tuyên Minh Thông Duệ Tuyên Hoàng Đế",
+      "Niên hiệu": "Thái Hòa (1443–1453) Diên Ninh (1454–1459)",
+      "Tên húy": "Lê Bang Cơ Lê Cơ Long Lê Tuấn",
+      "Thế thứ": "Con thứ ba Lê Thái Tông",
+      "Trị vì": "1442–1459",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Nh%C3%A2n_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lạng Sơn Vương",
+      "Miếu hiệu": "không có",
+      "Tôn hiệu hoặc Thụy hiệu": "Lệ Đức Hầu",
+      "Niên hiệu": "Thiên Hưng (1459–1460)",
+      "Tên húy": "Lê Nghi Dân Lê Tông",
+      "Thế thứ": "Con trưởng Lê Thái Tông",
+      "Trị vì": "1459–1460",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Nghi_D%C3%A2n"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/7/77/L%C3%AA_Th%C3%A1nh_T%C3%B4ng.jpg/40px-L%C3%AA_Th%C3%A1nh_T%C3%B4ng.jpg",
+      "Vua": "Lê Thánh Tông",
+      "Miếu hiệu": "Thánh Tông Thiên Nam động chủ",
+      "Tôn hiệu hoặc Thụy hiệu": "Sùng Thiên Quảng Vận Cao Minh Quang Chính Chí Đức Đại Công Thánh Văn Thần Vũ Đạt Hiếu Thuần Hoàng Đế",
+      "Niên hiệu": "Quang Thuận (1460–1469) Hồng Đức (1470–1497)",
+      "Tên húy": "Lê Tư Thành Lê Hạo",
+      "Thế thứ": "Con thứ tư Lê Thái Tông",
+      "Trị vì": "1460–1497",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%C3%A1nh_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/1/19/An13_Le_Hien_Tong_Canh_Thong_1ar_%2812120561545%29.jpg/57px-An13_Le_Hien_Tong_Canh_Thong_1ar_%2812120561545%29.jpg",
+      "Vua": "Lê Hiến Tông",
+      "Miếu hiệu": "Hiến Tông Thượng Dương động chủ",
+      "Tôn hiệu hoặc Thụy hiệu": "Thể Thiên Ngưng Đạo Mậu Đức Chí Chiêu Văn Thiệu Vũ Tuyên Triết Khâm Thành Chương Hiếu Duệ Hoàng Đế",
+      "Niên hiệu": "Cảnh Thống (1497–1504)",
+      "Tên húy": "Lê Tranh Lê Sanh Lê Huy Lê Tăng",
+      "Thế thứ": "Con trưởng Lê Thánh Tông",
+      "Trị vì": "1497–1504",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Hi%E1%BA%BFn_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Túc Tông",
+      "Miếu hiệu": "Túc Tông Tự Hoàng",
+      "Tôn hiệu hoặc Thụy hiệu": "Chiêu Nghĩa Hiển Nhân Ôn Cung Uyên Mặc Hiếu Doãn Cung Khâm Hoàng Đế",
+      "Niên hiệu": "Thái Trinh (1504)",
+      "Tên húy": "Lê Thuần",
+      "Thế thứ": "Con thứ ba Lê Hiến Tông",
+      "Trị vì": "1504–1504",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_T%C3%BAc_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Uy Mục",
+      "Miếu hiệu": "Quỳnh Đô động chủ",
+      "Tôn hiệu hoặc Thụy hiệu": "Uy Mục Đế",
+      "Niên hiệu": "Đoan Khánh (1505–1509)",
+      "Tên húy": "Lê Tuấn Lê Huyên",
+      "Thế thứ": "Con thứ hai Lê Hiến Tông",
+      "Trị vì": "1504–1509",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Uy_M%E1%BB%A5c"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/An15_Le_Tuong_Duc_De_1ar_%2812136352264%29.jpg/57px-An15_Le_Tuong_Duc_De_1ar_%2812136352264%29.jpg",
+      "Vua": "Lê Tương Dực",
+      "Miếu hiệu": "Nhân Hải động chủ",
+      "Tôn hiệu hoặc Thụy hiệu": "Tương Dực Đế",
+      "Niên hiệu": "Hồng Thuận (1510–1516)",
+      "Tên húy": "Lê Oánh Lê Oanh Lê Dinh Lê Trừu",
+      "Thế thứ": "Con Lê Đức Tông, cháu nội Lê Thánh Tông",
+      "Trị vì": "1509–1516",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_T%C6%B0%C6%A1ng_D%E1%BB%B1c"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Quang Trị",
+      "Miếu hiệu": "không có",
+      "Tôn hiệu hoặc Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Lê Quang Trị",
+      "Thế thứ": "Con Lê Doanh, cháu nội Lê Đức Tông, cháu gọi Lê Tương Dực bằng bác",
+      "Trị vì": "1516–1516",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Quang_Tr%E1%BB%8B"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/b/bf/An53_Chieu_Tong_Quang_Thieu_%2815979672256%29.jpg/57px-An53_Chieu_Tong_Quang_Thieu_%2815979672256%29.jpg",
+      "Vua": "Lê Chiêu Tông",
+      "Miếu hiệu": "Chiêu Tông",
+      "Tôn hiệu hoặc Thụy hiệu": "Thần Hoàng Đế",
+      "Niên hiệu": "Quang Thiệu (1516-1525)",
+      "Tên húy": "Lê Y Lê Huệ",
+      "Thế thứ": "Anh họ Lê Quang Trị, chắt Lê Thánh Tông",
+      "Trị vì": "1516–1525",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Chi%C3%AAu_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Bảng",
+      "Miếu hiệu": "không có",
+      "Tôn hiệu hoặc Thụy hiệu": "không có",
+      "Niên hiệu": "Đại Đức (1518–1519)",
+      "Tên húy": "Lê Bảng",
+      "Thế thứ": "Con Lê Lộc, Lộc là cháu nội Lê Khắc Xương, Khắc Xương là anh của Lê Thánh Tông",
+      "Trị vì": "1518–1519",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_B%E1%BA%A3ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Do",
+      "Miếu hiệu": "không có",
+      "Tôn hiệu hoặc Thụy hiệu": "không có",
+      "Niên hiệu": "Thiên Hiến (1519)",
+      "Tên húy": "Lê Do Lê Dữu",
+      "Thế thứ": "Em cùng mẹ với Lê Bảng",
+      "Trị vì": "1519–1519",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Do"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Toda_No._63_%E7%B5%B1%E5%85%83%E9%80%9A%E5%AF%B6.gif/58px-Toda_No._63_%E7%B5%B1%E5%85%83%E9%80%9A%E5%AF%B6.gif",
+      "Vua": "Lê Cung Hoàng",
+      "Miếu hiệu": "không có",
+      "Tôn hiệu hoặc Thụy hiệu": "Cung Hoàng Đế",
+      "Niên hiệu": "Thống Nguyên (1522–1527)",
+      "Tên húy": "Lê Xuân Lê Lự Lê Khánh",
+      "Thế thứ": "Em Lê Chiêu Tông",
+      "Trị vì": "1522–1527",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Cung_Ho%C3%A0ng"
+    }
+  ],
+  "Bắc triều – Nhà Mạc (1527–1592) và thời kỳ Cao Bằng (1592-1683)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/An_Nan_Lai_Wei_Tu_Ce.JPG/40px-An_Nan_Lai_Wei_Tu_Ce.JPG",
+      "Vua": "Mạc Thái Tổ",
+      "Miếu hiệu": "Thái Tổ",
+      "Thụy hiệu": "Nhân Minh Cao Hoàng Đế",
+      "Niên hiệu": "Minh Đức (1527–1530)",
+      "Tên húy": "Mạc Đăng Dung",
+      "Thế thứ": "Cháu 7 đời Mạc Đĩnh Chi, sáng lập triều đại",
+      "Trị vì": "1527–1530",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_%C4%90%C4%83ng_Dung"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Statue_of_Emperor_M%E1%BA%A1c_Th%C3%A1i_T%C3%B4ng.jpg/40px-Statue_of_Emperor_M%E1%BA%A1c_Th%C3%A1i_T%C3%B4ng.jpg",
+      "Vua": "Mạc Thái Tông",
+      "Miếu hiệu": "Thái Tông",
+      "Thụy hiệu": "Khâm Triết Văn Hoàng Đế",
+      "Niên hiệu": "Đại Chính (1530–1540)",
+      "Tên húy": "Mạc Đăng Doanh Mạc Phương Doanh",
+      "Thế thứ": "Con trưởng Mạc Thái Tổ",
+      "Trị vì": "1530–1540",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_Th%C3%A1i_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Mạc Hiến Tông",
+      "Miếu hiệu": "Hiến Tông",
+      "Thụy hiệu": "Hiển Hoàng Đế",
+      "Niên hiệu": "Quảng Hòa (1540–1546)",
+      "Tên húy": "Mạc Phúc Hải Mạc Đức Nguyên",
+      "Thế thứ": "Con trưởng Mạc Thái Tông",
+      "Trị vì": "1540–1546",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_Hi%E1%BA%BFn_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Mạc Chính Trung",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "không có",
+      "Tên húy": "Mạc Chính Trung",
+      "Thế thứ": "Em Mạc Thái Tông",
+      "Trị vì": "1546–1547",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_Ch%C3%ADnh_Trung"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Statue_of_Emperor_M%E1%BA%A1c_Tuy%C3%AAn_T%C3%B4ng.jpg/40px-Statue_of_Emperor_M%E1%BA%A1c_Tuy%C3%AAn_T%C3%B4ng.jpg",
+      "Vua": "Mạc Tuyên Tông",
+      "Miếu hiệu": "Tuyên Tông",
+      "Thụy hiệu": "Anh Nghị Hoàng Đế Duệ Hoàng Đế",
+      "Niên hiệu": "Vĩnh Định (1547) Cảnh Lịch (1548–1553) Quang Bảo (1554–1561)",
+      "Tên húy": "Mạc Phúc Nguyên",
+      "Thế thứ": "Con Mạc Hiến Tông",
+      "Trị vì": "1546–1561",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_Tuy%C3%AAn_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Statue_of_Emperor_M%E1%BA%A1c_M%E1%BA%ADu_H%E1%BB%A3p.jpg/40px-Statue_of_Emperor_M%E1%BA%A1c_M%E1%BA%ADu_H%E1%BB%A3p.jpg",
+      "Vua": "Mạc Mục Tông Mạc Anh Tổ",
+      "Miếu hiệu": "Mục Tông Anh Tổ",
+      "Thụy hiệu": "An Thiên Huy Địa Trang Văn Cẩn Vũ Bình Định Huệ Cương Hiếu Tĩnh Hoàng Đế",
+      "Niên hiệu": "Thuần Phúc (1562–1565) Sùng Khang (1566–1577) Diên Thành (1578–1585) Đoan Thái (1586–1587) Hưng Trị (1588–1590) Hồng Ninh (1591–1592)",
+      "Tên húy": "Mạc Mậu Hợp",
+      "Thế thứ": "Con trai Mạc Tuyên Tông",
+      "Trị vì": "1561–1592",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_M%E1%BA%ADu_H%E1%BB%A3p"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Mạc Cảnh Tông",
+      "Miếu hiệu": "Cảnh Tông",
+      "Thụy hiệu": "Khai Thiên Xung Địa An Văn Đoạt Vũ Thành Hoàng Đế",
+      "Niên hiệu": "Vũ An (1592–1592)",
+      "Tên húy": "Mạc Toàn",
+      "Thế thứ": "Con thứ Mạc Mậu Hợp",
+      "Trị vì": "1592–1592",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_To%C3%A0n"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Mạc Mẫn Tông",
+      "Miếu hiệu": "Mẫn Tông",
+      "Thụy hiệu": "Hoài Nghị Minh Huấn Trinh Hoàng Đế",
+      "Niên hiệu": "Bảo Định (1592–1593) Khang Hựu (1593–1593)",
+      "Tên húy": "Mạc Kính Chỉ Mạc Kính Bang",
+      "Thế thứ": "Con trưởng Mạc Kính Điển, cháu nội Mạc Thái Tông",
+      "Trị vì": "1592–1593",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_K%C3%ADnh_Ch%E1%BB%89"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Mạc Đại Tông",
+      "Miếu hiệu": "Đại Tông",
+      "Thụy hiệu": "Khởi Thiên Đĩnh Địa Khắc Văn Định Vũ Linh Hoàng Đế",
+      "Niên hiệu": "Càn Thống (1593–1625)",
+      "Tên húy": "Mạc Kính Cung",
+      "Thế thứ": "Con thứ 7 Mạc Kính Điển",
+      "Trị vì": "1592–1625",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_%C4%90%E1%BA%A1i_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Mạc Quang Tổ",
+      "Miếu hiệu": "Quang Tổ",
+      "Thụy hiệu": "Hoà Thiên Phù Địa Độ Văn Khánh Vũ Huệ Nguyên Hoàng Đế",
+      "Niên hiệu": "Long Thái (1623–1638)",
+      "Tên húy": "Mạc Kính Khoan",
+      "Thế thứ": "Cháu nội Mạc Kính Điển",
+      "Trị vì": "1623–1638",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_K%C3%ADnh_Khoan"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Mạc Minh Tông",
+      "Miếu hiệu": "Minh Tông",
+      "Thụy hiệu": "Trang Thiên Huệ Địa Cảnh Văn Di Vũ Khai Hoàng Đế",
+      "Niên hiệu": "Thuận Đức (1638–1677)",
+      "Tên húy": "Mạc Kính Vũ Mạc Kính Hoàn Mạc Kính Diệu",
+      "Thế thứ": "Con Mạc Kính Khoan",
+      "Trị vì": "1638–1677",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_K%C3%ADnh_V%C5%A9"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Mạc Quý Tông",
+      "Miếu hiệu": "Quý Tông",
+      "Thụy hiệu": "Hoàn Thiên Thanh Địa Đoạt Văn Dương Vũ Huệ Đại Vương",
+      "Niên hiệu": "Vĩnh Xương (1677–1681)",
+      "Tên húy": "Mạc Kính Hẻ Mạc Kính Thụy Mạc Nguyên Thanh",
+      "Thế thứ": "Con Mạc Kính Vũ",
+      "Trị vì": "1677–1681",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_K%C3%ADnh_H%E1%BA%BB"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Mạc Đức Tông",
+      "Miếu hiệu": "Đức Tông",
+      "Thụy hiệu": "Thiên Địa Đại Bảo Văn Vũ Độ Đại Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Mạc Kính Quang Mạc Kính Tiêu Mạc Kính Hoảng",
+      "Thế thứ": "Con Mạc Kính Vũ, em Mạc Nguyên Thanh",
+      "Trị vì": "1681–1683",
+      "link": "https://vi.wikipedia.org/wiki/M%E1%BA%A1c_K%C3%ADnh_Quang"
+    }
+  ],
+  "Nam triều – Nhà Hậu Lê – giai đoạn Lê Trung hưng (1533–1789)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Toda_No._65_%E5%85%83%E5%92%8C%E9%80%9A%E5%AF%B6.gif/58px-Toda_No._65_%E5%85%83%E5%92%8C%E9%80%9A%E5%AF%B6.gif",
+      "Vua": "Lê Trang Tông",
+      "Miếu hiệu": "Trang Tông",
+      "Thụy hiệu": "Dụ Hoàng Đế",
+      "Niên hiệu": "Nguyên Hòa (1533–1548)",
+      "Tên húy": "Lê Ninh Lê Huyến Lê Duy Ninh",
+      "Thế thứ": "Được cho là con Lê Chiêu Tông",
+      "Trị vì": "1533–1548",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Trang_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Trung Tông",
+      "Miếu hiệu": "Trung Tông",
+      "Thụy hiệu": "Vũ Hoàng Đế",
+      "Niên hiệu": "Thuận Bình (1548–1556)",
+      "Tên húy": "Lê Huyên Lê Duy Huyên",
+      "Thế thứ": "Con Lê Trang Tông",
+      "Trị vì": "1548–1556",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Trung_T%C3%B4ng_(H%E1%BA%ADu_L%C3%AA)"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Anh Tông",
+      "Miếu hiệu": "Anh Tông",
+      "Thụy hiệu": "Tuấn Hoàng Đế",
+      "Niên hiệu": "Thiên Hựu (1556-1557) Chính trị (1558–1571) Hồng Phúc (1572–1573)",
+      "Tên húy": "Lê Duy Bang",
+      "Thế thứ": "Cháu 6 đời của Lê Trừ, anh Lê Thái Tổ",
+      "Trị vì": "1556–1573",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Anh_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Thế Tông",
+      "Miếu hiệu": "Thế Tông",
+      "Thụy hiệu": "Nghị Hoàng Đế",
+      "Niên hiệu": "Gia Thái (1573–1577) Quang Hưng (1578–1599)",
+      "Tên húy": "Lê Đàm Lê Duy Đàm",
+      "Thế thứ": "Con thứ năm Lê Anh Tông",
+      "Trị vì": "1573–1599",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%E1%BA%BF_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Kính Tông",
+      "Miếu hiệu": "Kính Tông",
+      "Thụy hiệu": "Huệ Hoàng Đế Giản Huy Đế",
+      "Niên hiệu": "Thận Đức (1600-1600) Hoằng Định (1601-1619)",
+      "Tên húy": "Lê Duy Tân",
+      "Thế thứ": "Con thứ Lê Thế Tông",
+      "Trị vì": "1599–1619",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_K%C3%ADnh_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Thần Tông",
+      "Miếu hiệu": "Thần Tông",
+      "Thụy hiệu": "Uyên Hoàng Đế",
+      "Niên hiệu": "Vĩnh Tộ (1620––1628) Đức Long (1629–1634) Dương Hoà (1635–1643)",
+      "Tên húy": "Lê Duy Kỳ",
+      "Thế thứ": "Con trưởng Lê Kính Tông",
+      "Trị vì": "1619–1643",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%E1%BA%A7n_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Chân Tông",
+      "Miếu hiệu": "Chân Tông",
+      "Thụy hiệu": "Thuận Hoàng Đế",
+      "Niên hiệu": "Phúc Thái (1643–1649)",
+      "Tên húy": "Lê Duy Hựu Lê Duy Đề",
+      "Thế thứ": "Con trưởng Lê Thần Tông",
+      "Trị vì": "1643–1649",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Ch%C3%A2n_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/6/68/An20_Le_Than_Tong_Vinh_Tho_1ar_%2812174677043%29.jpg/57px-An20_Le_Than_Tong_Vinh_Tho_1ar_%2812174677043%29.jpg",
+      "Vua": "Lê Thần Tông",
+      "Miếu hiệu": "Thần Tông",
+      "Thụy hiệu": "Uyên Hoàng Đế",
+      "Niên hiệu": "Khánh Đức (1649–1652) Thịnh Đức (1653–1657) Vĩnh Thọ (1658–1661) Vạn Khánh (1662)",
+      "Tên húy": "Lê Duy Kỳ",
+      "Thế thứ": "Làm vua lần 2",
+      "Trị vì": "1649–1662",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Th%E1%BA%A7n_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Huyền Tông",
+      "Miếu hiệu": "Huyền Tông",
+      "Thụy hiệu": "Mục Hoàng Đế",
+      "Niên hiệu": "Cảnh Trị (1663–1671)",
+      "Tên húy": "Lê Duy Vũ Lê Duy Hy",
+      "Thế thứ": "Con thứ Lê Thần Tông",
+      "Trị vì": "1663–1671",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Huy%E1%BB%81n_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Gia Tông",
+      "Miếu hiệu": "Gia Tông",
+      "Thụy hiệu": "Mỹ Hoàng Đế",
+      "Niên hiệu": "Dương Đức (1672––1673) Đức Nguyên (1674-1675)",
+      "Tên húy": "Lê Duy Cối Lê Duy Khoái",
+      "Thế thứ": "Con thứ Lê Thần Tông",
+      "Trị vì": "1671–1675",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Gia_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Hy Tông",
+      "Miếu hiệu": "Hy Tông",
+      "Thụy hiệu": "Chương Hoàng Đế",
+      "Niên hiệu": "Vĩnh Trị (1676-1680) Chính Hòa (1680-1705)",
+      "Tên húy": "Lê Duy Hợp Lê Duy Hiệp Lê Duy Cáp",
+      "Thế thứ": "con thứ tư Lê Thần Tông",
+      "Trị vì": "1675—1705",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Hy_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/An21_Le_Du_Tong_Vinh_Thinh_1ar_%2812174865245%29.jpg/49px-An21_Le_Du_Tong_Vinh_Thinh_1ar_%2812174865245%29.jpg",
+      "Vua": "Lê Dụ Tông",
+      "Miếu hiệu": "Dụ Tông",
+      "Thụy hiệu": "Hòa Hoàng Đế",
+      "Niên hiệu": "Vĩnh Thịnh (1706-1719) Bảo Thái (1720-1729)",
+      "Tên húy": "Lê Duy Đường Lê Duy Tạo",
+      "Thế thứ": "con trưởng Lê Hy Tông",
+      "Trị vì": "1705—1729",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_D%E1%BB%A5_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Duy Phường",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Hôn Đức Công",
+      "Niên hiệu": "Vĩnh Khánh (1729-1732)",
+      "Tên húy": "Lê Duy Phường",
+      "Thế thứ": "con thứ Lê Dụ Tông",
+      "Trị vì": "1729—1732",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Duy_Ph%C6%B0%E1%BB%9Dng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Thuần Tông",
+      "Miếu hiệu": "Thuần Tông",
+      "Thụy hiệu": "Giản Hoàng Đế",
+      "Niên hiệu": "Long Đức (1732-1735)",
+      "Tên húy": "Lê Duy Tường Lê Duy Hỗ",
+      "Thế thứ": "con trưởng Lê Dụ Tông",
+      "Trị vì": "1732—1735",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Thu%E1%BA%A7n_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Lê Ý Tông",
+      "Miếu hiệu": "Ý Tông",
+      "Thụy hiệu": "Huy Hoàng Đế",
+      "Niên hiệu": "Vĩnh Hựu (1735-1740)",
+      "Tên húy": "Lê Duy Thận Lê Duy Chấn Lê Duy Hỗ",
+      "Thế thứ": "con thứ 11 Lê Dụ Tông",
+      "Trị vì": "1735—1740",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_%C3%9D_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/An25_Le_Hien_Tong_Canh_Hung_1ar_%2812266059635%29.jpg/57px-An25_Le_Hien_Tong_Canh_Hung_1ar_%2812266059635%29.jpg",
+      "Vua": "Lê Hiển Tông",
+      "Miếu hiệu": "Hiển Tông",
+      "Thụy hiệu": "Vĩnh Hoàng Đế",
+      "Niên hiệu": "Cảnh Hưng (1740-1786)",
+      "Tên húy": "Lê Duy Diêu Lê Duy Đào",
+      "Thế thứ": "con trưởng Lê Thuần Tông",
+      "Trị vì": "1740—1786",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Hi%E1%BB%83n_T%C3%B4ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Painting_of_L%C3%AA_Chi%C3%AAu_Th%E1%BB%91ng%2C_1789.jpg/29px-Painting_of_L%C3%AA_Chi%C3%AAu_Th%E1%BB%91ng%2C_1789.jpg",
+      "Vua": "Lê Chiêu Thống",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Mẫn Hoàng Đế",
+      "Niên hiệu": "Chiêu Thống (1786-1789)",
+      "Tên húy": "Lê Duy Kỳ Lê Duy Khiêm Lê Tư Khiêm",
+      "Thế thứ": "con Lê Duy Vỹ, cháu đích tôn Lê Hiển Tông",
+      "Trị vì": "1786—1789",
+      "link": "https://vi.wikipedia.org/wiki/L%C3%AA_Chi%C3%AAu_Th%E1%BB%91ng"
+    }
+  ],
+  "Đàng Ngoài - Chúa Trịnh (1545-1787)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tr%E1%BB%8Bnh_Ki%E1%BB%83m_%282%29.jpg/25px-Tr%E1%BB%8Bnh_Ki%E1%BB%83m_%282%29.jpg",
+      "Tước hiệu": "Trịnh Kiểm",
+      "Miếu hiệu": "Thế Tổ",
+      "Tôn hiệu": "Minh Khang Thái Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Kiểm",
+      "Thế thứ": "con rể Nguyễn Kim",
+      "Trị vì": "1545—1570",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Ki%E1%BB%83m"
+    },
+    {
+      "Chân dung": "https",
+      "Tước hiệu": "Trịnh Cối",
+      "Miếu hiệu": "không có",
+      "Tôn hiệu": "Tuấn Đức Hầu, Trung Quốc Công",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Cối",
+      "Thế thứ": "con cả Trịnh Kiểm",
+      "Trị vì": "1570—1570",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_C%E1%BB%91i"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Tr%E1%BB%8Bnh_T%C3%B9ng.png/25px-Tr%E1%BB%8Bnh_T%C3%B9ng.png",
+      "Tước hiệu": "Bình An Vương",
+      "Miếu hiệu": "Thành Tổ",
+      "Tôn hiệu": "Triết Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Tùng",
+      "Thế thứ": "con thứ Trịnh Kiểm, chúa Trịnh đầu tiên",
+      "Trị vì": "1570—1623",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_T%C3%B9ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tr%E1%BB%8Bnh_Tr%C3%A1ng.png/25px-Tr%E1%BB%8Bnh_Tr%C3%A1ng.png",
+      "Tước hiệu": "Thanh Đô Vương",
+      "Miếu hiệu": "Văn Tổ",
+      "Tôn hiệu": "Nghị Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Tráng",
+      "Thế thứ": "con thứ hai Trịnh Tùng",
+      "Trị vì": "1623—1657",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Tr%C3%A1ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Tr%E1%BB%8Bnh_T%E1%BA%A1c.png/25px-Tr%E1%BB%8Bnh_T%E1%BA%A1c.png",
+      "Tước hiệu": "Tây Định Vương",
+      "Miếu hiệu": "Hoằng Tổ",
+      "Tôn hiệu": "Dương Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Tạc",
+      "Thế thứ": "con thứ hai Trịnh Tráng",
+      "Trị vì": "1657—1682",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_T%E1%BA%A1c"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tr%E1%BB%8Bnh_C%C4%83n.png/25px-Tr%E1%BB%8Bnh_C%C4%83n.png",
+      "Tước hiệu": "Định Nam Vương",
+      "Miếu hiệu": "Chiêu Tổ",
+      "Tôn hiệu": "Khang Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Căn",
+      "Thế thứ": "con trưởng Trịnh Tạc",
+      "Trị vì": "1682—1709",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_C%C4%83n"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tr%E1%BB%8Bnh_C%C6%B0%C6%A1ng.png/25px-Tr%E1%BB%8Bnh_C%C6%B0%C6%A1ng.png",
+      "Tước hiệu": "An Đô Vương",
+      "Miếu hiệu": "Hy Tổ",
+      "Tôn hiệu": "Nhân Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Cương",
+      "Thế thứ": "chắt của Trịnh Căn, cháu Trịnh Vịnh, con Trịnh Bính",
+      "Trị vì": "1709—1729",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_C%C6%B0%C6%A1ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Tr%E1%BB%8Bnh_Giang.png/25px-Tr%E1%BB%8Bnh_Giang.png",
+      "Tước hiệu": "Uy Nam Vương",
+      "Miếu hiệu": "Dụ Tổ",
+      "Tôn hiệu": "Thuận Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Giang Trịnh Khương Trịnh 𣞪",
+      "Thế thứ": "con trưởng Trịnh Cương",
+      "Trị vì": "1729—1740",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Giang"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Tr%E1%BB%8Bnh_Doanh.png/25px-Tr%E1%BB%8Bnh_Doanh.png",
+      "Tước hiệu": "Minh Đô Vương",
+      "Miếu hiệu": "Nghị Tổ",
+      "Tôn hiệu": "Ân Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Doanh",
+      "Thế thứ": "con thứ Trịnh Cương, em Trịnh Giang",
+      "Trị vì": "1740—1767",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Doanh"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tr%E1%BB%8Bnh_S%C3%A2m.png/25px-Tr%E1%BB%8Bnh_S%C3%A2m.png",
+      "Tước hiệu": "Tĩnh Đô Vương",
+      "Miếu hiệu": "Thánh Tổ",
+      "Tôn hiệu": "Thịnh Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Sâm",
+      "Thế thứ": "con trưởng Trịnh Doanh",
+      "Trị vì": "1767—1782",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_S%C3%A2m"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/%C4%90%E1%BA%B7ng_Th%E1%BB%8B_Hu%E1%BB%87_v%C3%A0_Tr%E1%BB%8Bnh_C%C3%A1n.png/25px-%C4%90%E1%BA%B7ng_Th%E1%BB%8B_Hu%E1%BB%87_v%C3%A0_Tr%E1%BB%8Bnh_C%C3%A1n.png",
+      "Tước hiệu": "Điện Đô Vương",
+      "Miếu hiệu": "không có",
+      "Tôn hiệu": "Xung Mẫn Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Cán",
+      "Thế thứ": "con thứ Trịnh Sâm",
+      "Trị vì": "1782—1782",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_C%C3%A1n"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Tr%E1%BB%8Bnh_Kh%E1%BA%A3i.png/25px-Tr%E1%BB%8Bnh_Kh%E1%BA%A3i.png",
+      "Tước hiệu": "Đoan Nam Vương",
+      "Miếu hiệu": "không có",
+      "Tôn hiệu": "Anh Liệt Linh Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Khải Trịnh Tông",
+      "Thế thứ": "con trưởng Trịnh Sâm",
+      "Trị vì": "1782—1786",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_Kh%E1%BA%A3i"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tr%E1%BB%8Bnh_B%E1%BB%93ng.png/25px-Tr%E1%BB%8Bnh_B%E1%BB%93ng.png",
+      "Tước hiệu": "Án Đô Vương",
+      "Miếu hiệu": "không có",
+      "Tôn hiệu": "Huệ Định Công",
+      "Niên hiệu": "không có",
+      "Tên húy": "Trịnh Bồng",
+      "Thế thứ": "con Trịnh Giang, anh họ Trịnh Sâm",
+      "Trị vì": "1786—1787",
+      "link": "https://vi.wikipedia.org/wiki/Tr%E1%BB%8Bnh_B%E1%BB%93ng"
+    }
+  ],
+  "Đàng Trong - Chúa Nguyễn (1558-1777)": [
+    {
+      "Chân dung": "https",
+      "Chúa": "Tiên Vương",
+      "Miếu hiệu": "Liệt Tổ, Thái Tổ",
+      "Thụy hiệu": "Triệu Cơ Tùy Thống Khâm Minh Cung Ý Cần Nghĩa Đạt Lý Hiển Ứng Chiêu Hựu Diệu Linh Gia Dụ Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Nguyễn Hoàng",
+      "Thế thứ": "con út Nguyễn Kim",
+      "Trị vì": "1558—1613",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ho%C3%A0ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Th%E1%BA%BF_t%E1%BB%AD_Nguy%E1%BB%85n_Ph%C3%BAc_Nguy%C3%AAn_%E1%BB%9F_%C4%90%C3%A0ng_Trong%2C_th%E1%BA%BF_k%E1%BB%B7_17.jpg/40px-Th%E1%BA%BF_t%E1%BB%AD_Nguy%E1%BB%85n_Ph%C3%BAc_Nguy%C3%AAn_%E1%BB%9F_%C4%90%C3%A0ng_Trong%2C_th%E1%BA%BF_k%E1%BB%B7_17.jpg",
+      "Chúa": "Sãi Vương Phật Vương",
+      "Miếu hiệu": "Tuyên Tổ, Hy Tông",
+      "Thụy hiệu": "Hiển Mô Quang Liệt Ôn Cung Minh Duệ Dực Thiện Tuy Du Hiếu Văn Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Nguyễn Phúc Nguyên",
+      "Thế thứ": "con trai thứ sáu Chúa Tiên",
+      "Trị vì": "1613—1635",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Nguy%C3%AAn"
+    },
+    {
+      "Chân dung": "https",
+      "Chúa": "Thượng Vương",
+      "Miếu hiệu": "Thần Tổ, Thần Tông",
+      "Thụy hiệu": "Thừa Cơ Toàn Thống Quân Minh Hùng Nghị Uy Đoán Anh Vũ Hiếu Chiêu Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Nguyễn Phúc Lan",
+      "Thế thứ": "con trai thứ hai Chúa Sãi",
+      "Trị vì": "1635—1648",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Lan"
+    },
+    {
+      "Chân dung": "https",
+      "Chúa": "Hiền Vương",
+      "Miếu hiệu": "Nghị Tổ, Thái Tông",
+      "Thụy hiệu": "Tuyên Uy Kiến Vũ Anh Minh Trang Chính Thánh Đức Thần Công Hiếu Triết Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Nguyễn Phúc Tần Nguyễn Phúc Cần",
+      "Thế thứ": "con trai thứ hai Chúa Thượng",
+      "Trị vì": "1648—1687",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_T%E1%BA%A7n"
+    },
+    {
+      "Chân dung": "https",
+      "Chúa": "Nghĩa Vương",
+      "Miếu hiệu": "Anh Tông",
+      "Thụy hiệu": "Thiệu Hư Toản Nghiệp Khoan Hồng Bác Hậu Ôn Huệ Từ Tường Hiếu Nghĩa Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Nguyễn Phúc Thái Nguyễn Phúc Trăn Nguyễn Phúc Ngàn",
+      "Thế thứ": "con trai thứ hai Chúa Hiền",
+      "Trị vì": "1687—1691",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Th%C3%A1i"
+    },
+    {
+      "Chân dung": "https",
+      "Chúa": "Minh Vương Quốc Chúa",
+      "Miếu hiệu": "Hiển Tông",
+      "Thụy hiệu": "Anh Mô Hùng Lược Thánh Minh Tuyên Đạt Khoan Từ Nhân Thứ Hiếu Minh Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Nguyễn Phúc Chu Nguyễn Phúc Tùng",
+      "Thế thứ": "con trưởng Chúa Nghĩa",
+      "Trị vì": "1691—1725",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Chu"
+    },
+    {
+      "Chân dung": "https",
+      "Chúa": "Ninh Vương",
+      "Miếu hiệu": "Túc Tông",
+      "Thụy hiệu": "Tuyên Quang Thiệu Liệt Tuấn Triết Tĩnh Uyên Kinh Văn Vĩ Vũ Hiếu Ninh Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Nguyễn Phúc Chú Nguyễn Phúc Trú Nguyễn Phúc Thụ Nguyễn Phúc Vượng",
+      "Thế thứ": "con trưởng Chúa Minh",
+      "Trị vì": "1725—1738",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Ch%C3%BA"
+    },
+    {
+      "Chân dung": "https",
+      "Chúa": "Vũ Vương",
+      "Miếu hiệu": "Thế Tông",
+      "Thụy hiệu": "Kiền Cương Uy Đoán Thần Nghị Thánh Du Nhân Từ Duệ Trí Hiếu Vũ Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Nguyễn Phúc Khoát Nguyễn Phúc Hiểu",
+      "Thế thứ": "con trưởng Chúa Ninh",
+      "Trị vì": "1738—1765",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Kho%C3%A1t"
+    },
+    {
+      "Chân dung": "https",
+      "Chúa": "Định Vương",
+      "Miếu hiệu": "Duệ Tông",
+      "Thụy hiệu": "Thông Minh Khoan Hậu Anh Mẫn Huệ Hòa Hiếu Định Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Nguyễn Phúc Thuần Nguyễn Phúc Hân",
+      "Thế thứ": "con trai thứ 16 Chúa Vũ",
+      "Trị vì": "1765—1776",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_Thu%E1%BA%A7n"
+    },
+    {
+      "Chân dung": "https",
+      "Chúa": "Tân Chính Vương",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Cung Mẫn Anh Đoán Huyền Mặc Vĩ Văn Mục Vương",
+      "Niên hiệu": "không có",
+      "Tên húy": "Nguyễn Phúc Dương",
+      "Thế thứ": "con Nguyễn Phúc Hiệu, cháu nội Chúa Vũ, em con chú với vua Gia Long",
+      "Trị vì": "1776—1777",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ph%C3%BAc_D%C6%B0%C6%A1ng"
+    }
+  ],
+  "Nhà Tây Sơn (1778-1802)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/NguyenNhac.jpg/40px-NguyenNhac.jpg",
+      "Vua": "Thái Đức",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Minh Đức Hoàng Đế",
+      "Niên hiệu": "Thái Đức (1778-1788)",
+      "Tên húy": "Hồ Nhạc Nguyễn Nhạc Nguyễn Văn Nhạc",
+      "Thế thứ": "con trưởng Hồ Phi Phúc, sáng lập triều đại",
+      "Trị vì": "1778—1788",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Nh%E1%BA%A1c"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Quang_Trung_statue_02.jpg/40px-Quang_Trung_statue_02.jpg",
+      "Vua": "Quang Trung",
+      "Miếu hiệu": "Thái Tổ",
+      "Thụy hiệu": "Vũ Hoàng Đế Trung Thuần Vương",
+      "Niên hiệu": "Quang Trung (1788-1792)",
+      "Tên húy": "Nguyễn Huệ Nguyễn Quang Bình Nguyễn Văn Huệ Hồ Thơm",
+      "Thế thứ": "con thứ Hồ Phi Phúc, em Nguyễn Nhạc, con rể Lê Hiển Tông",
+      "Trị vì": "1788—1792",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Hu%E1%BB%87"
+    },
+    {
+      "Chân dung": "https",
+      "Vua": "Nguyễn Quang Toản",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "Cảnh Thịnh (1792-1801) Bảo Hưng (1801-1802)",
+      "Tên húy": "Nguyễn Quang Toản Nguyễn Trát",
+      "Thế thứ": "con thứ Quang Trung, con rể Lê Hiển Tông",
+      "Trị vì": "1792—1802",
+      "link": "https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Quang_To%E1%BA%A3n"
+    }
+  ],
+  "Nhà Nguyễn (1802-1945)": [
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Emperor_Gia_Long.jpg/40px-Emperor_Gia_Long.jpg",
+      "Hoàng đế": "Gia Long",
+      "Miếu hiệu": "Thế Tổ",
+      "Thụy hiệu": "Khai Thiên Hoằng Đạo Lập Kỷ Thùy Thống Thần Văn Thánh Vũ Tuấn Đức Long Công Chí Nhân Đại Hiếu Cao Hoàng Đế",
+      "Niên hiệu": "Gia Long (1802–1820)",
+      "Tên húy": "Nguyễn Phúc Ánh Nguyễn Phúc Chủng Nguyễn Phúc Noãn",
+      "Thế thứ": "Sáng lập triều đại. Con thứ ba của Nguyễn Phúc Luân, cháu nội Nguyễn Phúc Khoát, con rể Lê Hiển Tông",
+      "Trị vì": "1802–1820",
+      "link": "https://vi.wikipedia.org/wiki/Gia_Long"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Minh_Mang.gif/40px-Minh_Mang.gif",
+      "Hoàng đế": "Minh Mạng",
+      "Miếu hiệu": "Thánh Tổ",
+      "Thụy hiệu": "Thể Thiên Xương Vận Chí Hiếu Thuần Đức Văn Vũ Minh Đoán Sáng Thuật Đại Thành Hậu Trạch Phong Công Nhân Hoàng Đế",
+      "Niên hiệu": "Minh Mạng (1820–1841)",
+      "Tên húy": "Nguyễn Phúc Đảm Nguyễn Phúc Kiểu",
+      "Thế thứ": "Con thứ tư Gia Long",
+      "Trị vì": "1820–1841",
+      "link": "https://vi.wikipedia.org/wiki/Minh_M%E1%BA%A1ng"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Gold_lang_Thieu_Tri_CdM.jpg/40px-Gold_lang_Thieu_Tri_CdM.jpg",
+      "Hoàng đế": "Thiệu Trị",
+      "Miếu hiệu": "Hiến Tổ",
+      "Thụy hiệu": "Thiệu Thiên Long Vận Chí Thiện Thuần Hiếu Khoan Minh Duệ Đoán Văn Trị Vũ Công Thánh Triết Chương Hoàng Đế",
+      "Niên hiệu": "Thiệu Trị (1841–1847)",
+      "Tên húy": "Nguyễn Phúc Miên Tông Nguyễn Phúc Tuyền Nguyễn Phúc Dung",
+      "Thế thứ": "Con trưởng Minh Mạng",
+      "Trị vì": "1841–1847",
+      "link": "https://vi.wikipedia.org/wiki/Thi%E1%BB%87u_Tr%E1%BB%8B"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vua_Tu_Duc.jpg/40px-Vua_Tu_Duc.jpg",
+      "Hoàng đế": "Tự Đức",
+      "Miếu hiệu": "Dực Tông",
+      "Thụy hiệu": "Thể Thiên Hanh Vận Chí Thành Đạt Hiếu Thể Kiện Đôn Nhân Khiêm Cung Minh Lược Duệ Văn Anh Hoàng Đế",
+      "Niên hiệu": "Tự Đức (1847–1883)",
+      "Tên húy": "Nguyễn Phúc Hồng Nhậm Nguyễn Phúc Thì",
+      "Thế thứ": "Con thứ Thiệu Trị",
+      "Trị vì": "1847–1883",
+      "link": "https://vi.wikipedia.org/wiki/T%E1%BB%B1_%C4%90%E1%BB%A9c"
+    },
+    {
+      "Chân dung": "https",
+      "Hoàng đế": "Dục Đức",
+      "Miếu hiệu": "Cung Tông",
+      "Thụy hiệu": "Huệ Hoàng Đế",
+      "Niên hiệu": "không có",
+      "Tên húy": "Nguyễn Phúc Ưng Chân Nguyễn Phúc Ưng Ái",
+      "Thế thứ": "Con thứ Nguyễn Phúc Hồng Y, cháu nội Thiệu Trị, con nuôi Tự Đức",
+      "Trị vì": "1883–1883",
+      "link": "https://vi.wikipedia.org/wiki/D%E1%BB%A5c_%C4%90%E1%BB%A9c"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/vi/thumb/7/78/Hiep_Hoa.jpg/40px-Hiep_Hoa.jpg",
+      "Hoàng đế": "Hiệp Hòa",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Phế Đế",
+      "Niên hiệu": "Hiệp Hòa (1883)",
+      "Tên húy": "Nguyễn Phúc Hồng Dật Nguyễn Phúc Thăng",
+      "Thế thứ": "Con thứ 29 Thiệu Trị",
+      "Trị vì": "1883–1883",
+      "link": "https://vi.wikipedia.org/wiki/Hi%E1%BB%87p_H%C3%B2a"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kien_Phuc.jpg/40px-Kien_Phuc.jpg",
+      "Hoàng đế": "Kiến Phúc",
+      "Miếu hiệu": "Giản Tông",
+      "Thụy hiệu": "Thiệu Đức Chí Hiếu Uyên Duệ Nghị Hoàng Đế",
+      "Niên hiệu": "Kiến Phúc (1883-1884)",
+      "Tên húy": "Nguyễn Phúc Ưng Đăng",
+      "Thế thứ": "Con thứ Nguyễn Phúc Hồng Cai, cháu nội Thiệu Trị",
+      "Trị vì": "1883–1884",
+      "link": "https://vi.wikipedia.org/wiki/Ki%E1%BA%BFn_Ph%C3%BAc"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Emperor_Ham_Nghi.jpg/40px-Emperor_Ham_Nghi.jpg",
+      "Hoàng đế": "Hàm Nghi",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Xuất Đế",
+      "Niên hiệu": "Hàm Nghi (1884–1885)",
+      "Tên húy": "Nguyễn Phúc Ưng Lịch Nguyễn Phúc Minh",
+      "Thế thứ": "Em trai Kiến Phúc",
+      "Trị vì": "1884–1885",
+      "link": "https://vi.wikipedia.org/wiki/H%C3%A0m_Nghi"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Dong_Khanh.jpg/40px-Dong_Khanh.jpg",
+      "Hoàng đế": "Đồng Khánh",
+      "Miếu hiệu": "Cảnh Tông",
+      "Thụy hiệu": "Hoằng Liệt Thống Thiết Mẫn Huệ Thuần Hoàng Đế",
+      "Niên hiệu": "Đồng Khánh (1885–1889)",
+      "Tên húy": "Nguyễn Phúc Ưng Kỷ Nguyễn Phúc Ưng Đường Nguyễn Phúc Ưng Thị Nguyễn Phúc Biện Chánh Mông",
+      "Thế thứ": "Con trưởng Nguyễn Phúc Hồng Cai, anh Kiến Phúc và Hàm Nghi",
+      "Trị vì": "1885–1889",
+      "link": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%93ng_Kh%C3%A1nh"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Emperor_Thanh_Thai.jpg/40px-Emperor_Thanh_Thai.jpg",
+      "Hoàng đế": "Thành Thái",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Phế Đế",
+      "Niên hiệu": "Thành Thái (1889–1907)",
+      "Tên húy": "Nguyễn Phúc Bửu Lân Nguyễn Phúc Chiêu",
+      "Thế thứ": "Con Dục Đức",
+      "Trị vì": "1889–1907",
+      "link": "https://vi.wikipedia.org/wiki/Th%C3%A0nh_Th%C3%A1i"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/7/71/Vua_Duy_Tan_nho.jpg/40px-Vua_Duy_Tan_nho.jpg",
+      "Hoàng đế": "Duy Tân",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "Phế Đế",
+      "Niên hiệu": "Duy Tân (1907–1916)",
+      "Tên húy": "Nguyễn Phúc Vĩnh San Nguyễn Phúc Hoảng",
+      "Thế thứ": "Con thứ Thành Thái",
+      "Trị vì": "1907–1916",
+      "link": "https://vi.wikipedia.org/wiki/Duy_T%C3%A2n"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/e/ef/%E8%B6%8A%E5%8D%97%E9%98%AE%E6%9C%9D%E5%BC%98%E5%AE%97%E5%AE%A3%E7%9A%87%E5%B8%9D%E9%98%AE%E7%A6%8F%E6%99%99%EF%BC%88%E5%90%AF%E5%AE%9A1916%E5%B9%B4%E2%80%941925%E5%B9%B4%EF%BC%8931%E5%B2%81%E7%99%BB%E5%9F%BA%E6%97%B6%E7%9A%84%E5%86%95%E6%9C%8D%E7%85%A7%E7%89%87%EF%BC%881916%E5%B9%B4%EF%BC%89.jpg/40px-%E8%B6%8A%E5%8D%97%E9%98%AE%E6%9C%9D%E5%BC%98%E5%AE%97%E5%AE%A3%E7%9A%87%E5%B8%9D%E9%98%AE%E7%A6%8F%E6%99%99%EF%BC%88%E5%90%AF%E5%AE%9A1916%E5%B9%B4%E2%80%941925%E5%B9%B4%EF%BC%8931%E5%B2%81%E7%99%BB%E5%9F%BA%E6%97%B6%E7%9A%84%E5%86%95%E6%9C%8D%E7%85%A7%E7%89%87%EF%BC%881916%E5%B9%B4%EF%BC%89.jpg",
+      "Hoàng đế": "Khải Định",
+      "Miếu hiệu": "Hoằng Tông",
+      "Thụy hiệu": "Tự Thiên Gia Vận Thánh Minh Thần Trí Nhân Hiếu Thành Kính Di Mô Thừa Liệt Tuyên Hoàng Đế",
+      "Niên hiệu": "Khải Định (1916-1925)",
+      "Tên húy": "Nguyễn Phúc Bửu Đảo",
+      "Thế thứ": "Con trưởng Đồng Khánh",
+      "Trị vì": "1916–1925",
+      "link": "https://vi.wikipedia.org/wiki/Kh%E1%BA%A3i_%C4%90%E1%BB%8Bnh"
+    },
+    {
+      "Chân dung": "https//upload.wikimedia.org/wikipedia/commons/thumb/7/74/B%E1%BA%A3o_%C4%90%E1%BA%A1i_au_pouvoir.jpg/40px-B%E1%BA%A3o_%C4%90%E1%BA%A1i_au_pouvoir.jpg",
+      "Hoàng đế": "Bảo Đại",
+      "Miếu hiệu": "không có",
+      "Thụy hiệu": "không có",
+      "Niên hiệu": "Bảo Đại (1925–1945)",
+      "Tên húy": "Nguyễn Phúc Vĩnh Thụy Nguyễn Phúc Thiển",
+      "Thế thứ": "Con Khải Định",
+      "Trị vì": "1925–1945",
+      "link": "https://vi.wikipedia.org/wiki/B%E1%BA%A3o_%C4%90%E1%BA%A1i"
+    }
+  ]
+}

@@ -1,0 +1,1231 @@
+[
+  {
+    "overview": "",
+    "claims": {},
+    "label": "Trận Bạch Đằng lần thứ nhất năm 938"
+  },
+  {
+    "overview": "Chiến tranh Tống-Việt năm 981 là một cuộc chiến tranh giữa Đại Tống thời Tống Thái Tông và Đại Cồ Việt thời Lê Đại Hành diễn ra từ tháng 1 đến tháng 4 năm 981 trên lãnh thổ Đại Cồ Việt",
+    "claims": {
+      "tên khác": "Chiến tranh Đại Tống - Đại Cồ Việt lần 1",
+      "Thời gian": "Từ tháng 1 đến tháng 4 năm 981.",
+      "Địa điểm": "Miền bắc Việt Nam",
+      "Kết quả": "Đại Cồ Việt chiến thắng",
+      "Tham chiến bên 1": "Đại Cồ Việt",
+      "Tham chiến bên 2": "Đại Tống",
+      "Chỉ huy bên 1": "Lê Hoàn\n Phạm Cự Lạng (Lượng)",
+      "Chỉ huy bên 2": "Hầu Nhân Bảo  †\n Tôn Toàn Hưng\n Trương Tuyền\n Thôi Lượng",
+      "Lực lượng bên 1": "10 vạn",
+      "Lực lượng bên 2": "4 vạn cấm quân\n Hàng vạn dân phu vận chuyển"
+    },
+    "label": "Trận Bạch Đằng lần thứ hai năm 981"
+  },
+  {
+    "overview": "Trận Bạch Đằng năm 1288 xảy ra trên sông Bạch Đằng thuộc đất Đại Việt, là một trận đánh quan trọng trong các cuộc kháng chiến chống Nguyên Mông trong lịch sử Việt Nam",
+    "claims": {
+      "tên khác": "Trận Bạch Đằng (1288)",
+      "Thời gian": "1288",
+      "Địa điểm": "Sông Bạch Đằng, Đại Việt",
+      "Kết quả": "Quân đội Đại Việt đại thắng, nền độc lập của Đại Việt được bảo toàn.",
+      "Tham chiến bên 1": "[ Nhà Trần (Đại Việt)",
+      "Tham chiến bên 2": " Nhà Nguyên",
+      "Chỉ huy bên 1": "Trần Thánh Tông\nTrần Nhân Tông\n Trần Hưng Đạo",
+      "Chỉ huy bên 2": " Ô Mã Nhi  \n Phàn Tiếp  \n Trương Văn Hổ",
+      "Lực lượng bên 1": "hơn 50.000",
+      "Lực lượng bên 2": "hơn 80.000",
+      "Tổn thất bên 1": "4.000-4.500 người chết",
+      "Tổn thất bên 2": "80.000 người chết và bị thương\n Hàng trăm tàu chiến bị chìm, hơn 400 tàu chiến bị bắt giữ\n Các tướng Ô Mã Nhi và Phàn Tiếp bị bắt sống ,"
+    },
+    "label": "Trận Bạch Đằng lần thứ ba năm 1288"
+  },
+  {
+    "overview": "Chiến tranh Nguyên Mông-Đại Việt lần thứ nhất hay Kháng chiến chống Nguyên Mông lần thứ nhất là cách người Việt Nam gọi cuốc chiến đấu của quân dân Đại Việt chống lại quân đội của đế quốc Mông Cổ do Uriyangqatai (Ngột Lương Hợp Thai) chỉ huy vào trong khoảng thời gian nửa tháng cuối tháng 1 năm 1258 (hay năm Nguyên Phong thứ 7)",
+    "claims": {
+      "tên khác": "Kháng chiến chống Nguyên Mông lần thứ nhất",
+      "Thời gian": "Năm 1258",
+      "Địa điểm": "Bắc Bộ Việt Nam",
+      "Nguyên nhân bùng nổ": "Mông Cổ muốn biến Đại Việt thành bàn đạp đánh vào châu Ung, Quế của Nam Tống",
+      "Kết quả": "Đại Việt chiến thắng; Quân Mông Cổ rút về Vân Nam",
+      "Tham chiến bên 1": "Nhà Trần Đại Việt",
+      "Tham chiến bên 2": "Đế quốc Mông Cổ",
+      "Chỉ huy bên 1": "Trần Thái Tông\n Trần Thánh Tông\n Trần Thủ Độ\n Linh Từ quốc mẫu\n Lê Phụ Trần\n Hà Bổng",
+      "Chỉ huy bên 2": "Uriyangqatai (Ngột Lương Hợp Thai)\n Aju (A Truật)\n Cacakdu (Triệt Triệt Đô)\n Quaidu (Hoài Đô)\n Abiska",
+      "Lực lượng bên 1": " ",
+      "Lực lượng bên 2": "40.000-55.000 quân",
+      "Tổn thất bên 1": " ",
+      "Tổn thất bên 2": "2/3 tử trận hoặc bị bắt (tính từ lúc Uriyangqatai rời Đại Lý lần đầu cho tới khi hội quân với Hốt Tất Liệt ở Ngạc Châu)"
+    },
+    "label": "Chiến tranh Nguyên Mông - Đại Việt lần 1"
+  },
+  {
+    "overview": "Chiến tranh Nguyên Mông-Đại Việt lần 2 là cuộc chiến tranh giữa Đại Nguyên và Đại Việt diễn ra trên lãnh thổ Đại Việt từ cuối tháng 1 đến cuối tháng 5 năm 1285 (dương lịch)",
+    "claims": {
+      "tên khác": "Chiến tranh Nguyên Mông-Đại Việt lần 2",
+      "Thời gian": "Năm 1285",
+      "Địa điểm": "Bắc Bộ và Bắc Trung Bộ Việt Nam",
+      "Nguyên nhân bùng nổ": "Đại Việt chống lại sự xâm lược của nhà Nguyên",
+      "Kết quả": "Quân Đại Việt chiến thắng, Nguyên Mông phải rút lui khỏi Đại Việt",
+      "Tham chiến bên 1": "Nhà Trần Đại Việt\n Chiêm Thành\n Quân tình nguyện người Tống",
+      "Tham chiến bên 2": "Nhà Nguyên Mông Cổ",
+      "Chỉ huy bên 1": "Trần Thánh Tông\n Trần Nhân Tông\n Trần Quốc Tuấn\n Trần Quang Khải\n Trần Nhật Duật\n Trần Khánh Dư\n Trần Bình Trọng\n Trần Quốc Toản\n Phạm Ngũ Lão\n Trần Quốc Hiến\n Nguyễn Khoái\n Nguyễn Thế Lộc\n Hà Chương\n Hà Đặc\n Triệu Trung",
+      "Chỉ huy bên 2": "Thoát Hoan\n Ariq Qaya (A Lý Hải Nha)\n Ô Mã Nhi\n Lý Hằng\n Koncak (Khoan Triệt)\n Bolqadar (Bột La Hợp Đáp Nhĩ)\n Satartai (Sát Tháp Nhi Đài)\n Mangqudai (Mãng Cổ Thái)\n Naqai (Nạp Hải)\n Lý Bang Hiến\n Tôn Hựu\n Tôn Đức Lâm\n Lưu Thế Anh\n Lưu Khuê\n Nghê Nhuận"
+    },
+    "label": "Chiến tranh Nguyên Mông - Đại Việt lần 2"
+  },
+  {
+    "overview": "Chiến tranh Nguyên Mông-Đại Việt lần 3 (theo cách gọi khác ở Việt Nam là Kháng chiến chống quân Nguyên Mông lần thứ 3) là cuộc chiến tranh giữa Đại Nguyên và Đại Việt diễn ra trên lãnh thổ Đại Việt từ tháng 12 năm 1287 đến cuối tháng 4 năm 1288",
+    "claims": {
+      "tên khác": "Chiến tranh Nguyên Mông-Đại Việt lần 3",
+      "Thời gian": "năm 1287-1288",
+      "Địa điểm": "Bắc Bộ Việt Nam",
+      "Nguyên nhân bùng nổ": "Đại Việt chống lại sự xâm lược của nhà Nguyên",
+      "Kết quả": "Quân Đại Việt toàn thắng, Nguyên Mông phải rút lui khỏi Đại Việt",
+      "Tham chiến bên 1": "Nhà Trần Đại Việt",
+      "Tham chiến bên 2": "Nhà Nguyên Trung Quốc",
+      "Chỉ huy bên 1": "Trần Thái Tông\n Trần Nhân Tông\n Trần Quốc Tuấn\n Trần Quang Khải\n Trần Nhật Duật\n Trần Khánh Dư\n Phạm Ngũ Lão\n Trần Gia\n Nguyễn Khoái\n Nguyễn Thế Lộc\n Trần Ngạc\n Đỗ Hành\n Trương Văn Hổ",
+      "Chỉ huy bên 2": "Thoát Hoan\n Ariq Qaya (A Lý Hải Nha)\n Ô Mã Nhi\n Ayuruychi (Áo Lỗ Xích)\n Phàn Tiếp\n Tích Lệ Cơ\n Yiymis (Diệc Hắc Mê Thất)\n Ariq Qusun (A Lý Quy Thuận)\n Abaci (A Bát Xích)\n Ali (A Lý)\n Trình Bằng Phi\n Aruq (Ái Lỗ)\n Trương Ngọc\n Lưu Khuê\n Siktur (Tích Đô Nhi)\n Trương Văn Hổ\n Phí Củng Thìn\n Đào Đại Minh\n Trần Trọng Đạt\n Tạ Hữu Khuê\n Bồ Tý Thành\n Trần Ích Tắc\n Lê Tắc",
+      "Lực lượng bên 1": "trên 300.000.",
+      "Lực lượng bên 2": "500.000."
+    },
+    "label": "Chiến tranh Nguyên Mông - Đại Việt lần 3"
+  },
+  {
+    "overview": "Chiến tranh Tống - Việt, 1075-1077 là tên gọi cuộc chiến tranh giữa nhà Lý nước Đại Việt và nhà Tống của Trung Quốc vào cuối thế kỷ 11",
+    "claims": {},
+    "label": "Chiến tranh Tống-Việt, 1075-1077"
+  },
+  {
+    "overview": "Trận Như Nguyệt là một trận đánh lớn diễn ra ở một khúc sông Như Nguyệt (hay sông Cầu) vào năm 1077, là trận đánh có tính quyết định của cuộc Chiến tranh Tống - Việt, 1075-1077, và là trận đánh cuối cùng của nhà Tống trên đất Đại Việt",
+    "claims": {
+      "tên khác": "Trận Như Nguyệt",
+      "Thời gian": "18 tháng 1, 1077-28 tháng 2, 1077",
+      "Địa điểm": "Sông Như Nguyệt, Đại Việt",
+      "Kết quả": "Chiến thắng quyết định cho Đại Việt",
+      "Tham chiến bên 1": "Đại Tống",
+      "Tham chiến bên 2": "Đại Việt",
+      "Chỉ huy bên 1": "Quách Quỳ\n Triệu Tiết\n Miêu Lý\n Hoà Mâu",
+      "Chỉ huy bên 2": "Lý Thường Kiệt\n Hoằng Chân †\n Chiêu Văn †\n Thân Cảnh Phúc †\n Lý Kế Nguyên",
+      "Lực lượng bên 1": "45.000 lính chính quy\n 55.000 binh trưng tập ở biên giới\n 10.000 ngựa\n 200.000 dân phu",
+      "Lực lượng bên 2": "60.000 quân-100.000 quân",
+      "Tổn thất bên 1": "76.600 quân và 80.000 phu phục dịch\n Hơn 6.000 ngựa",
+      "Tổn thất bên 2": "không rõ"
+    },
+    "label": "Trận Như Nguyệt năm 1077"
+  },
+  {
+    "overview": "Khởi nghĩa Lam Sơn (1418-1427) (chữ Nôm: 起義藍山) là cuộc khởi nghĩa đánh đuổi quân Minh xâm lược về nước do Lê Lợi lãnh đạo và kết thúc bằng việc giành lại độc lập cho nước Đại Việt và sự thành lập nhà Hậu Lê",
+    "claims": {
+      "tên khác": "Khởi nghĩa Lam Sơn",
+      "Thời gian": "1418 - 1427",
+      "Địa điểm": "Việt Nam (kéo dài đến Thuận Hóa)",
+      "Nguyên nhân bùng nổ": "Bắc thuộc lần 4",
+      "Kết quả": "Thắng lợi hoàn toàn của nghĩa quân Lam Sơn. Hội thề Đông Quan, quân Minh rút về nước",
+      "Thay đổi lãnh thổ": [
+        "Nhà Hậu Lê thành lập",
+        "Nhà Minh mất toàn bộ Giao Chỉ quận"
+      ],
+      "Tham chiến bên 1": "Nghĩa quân Lam Sơn\n Nhà Hậu Trần (từ 1426)",
+      "Tham chiến bên 2": "Nhà Minh",
+      "Chỉ huy bên 1": "Lê Lợi\n Nguyễn Trãi\n Lưu Nhân Chú\n Nguyễn Chích\n Nguyễn Xí\n Phạm Vấn\n Phạm Văn Xảo\n Lê Sát\n Lê Ngân\n Lê Lai †\n Trần Nguyên Hãn\n Trần Cảo\n Đinh Liệt\n Đinh Lễ",
+      "Chỉ huy bên 2": "Lý An\n Phương Chính\n Trần Trí\n Lý Bân †\n Thái Phúc \n Vương Thông\n Vương An Lão\n Liễu Thăng †\n Mộc Thạnh\n Lương Minh †\n Lý Khánh †\n Hoàng Phúc ",
+      "Lực lượng bên 1": "~35 vạn người (năm 1427)",
+      "Lực lượng bên 2": "~20 vạn người"
+    },
+    "label": "Khởi nghĩa Lam Sơn (1418 - 1427)"
+  },
+  {
+    "overview": "Trận Tốt Động – Chúc Động là trận đánh diễn ra trong các ngày 5-7 tháng 10 năm Bính Ngọ (1426), giữa nghĩa quân Lam Sơn với quân nhà Minh đóng ở Đông Quan (tức là Thăng Long, Hà Nội)",
+    "claims": {
+      "tên khác": "Trận Tốt Động, Chúc Động",
+      "Thời gian": "5-7 tháng 10 năm Bính Ngọ (1426)",
+      "Địa điểm": "Chúc Sơn, xã Ngọc Sơn, huyện Chương Mĩ, Hà Nội",
+      "Kết quả": "Chiến thắng quyết định của nghĩa quân Lam Sơn",
+      "Tham chiến bên 1": "Nghĩa quân Lam Sơn",
+      "Tham chiến bên 2": "Đế quốc Minh",
+      "Chỉ huy bên 1": "Lý Triện\n Đinh Lễ\n Đỗ Bí\n Nguyễn Xí\n Trương Chiến",
+      "Chỉ huy bên 2": "Vương Thông\n Phương Chính\n Mã Kỳ\n Sơn Thọ\n Lý An\n Trần Hiệp\n Mã Anh",
+      "Lực lượng bên 1": "Theo Đại Việt sử ký toàn thư, cánh quân của Lý Triện, Đỗ Bí có 3.000 quân, 1 thớt voi; cánh quân Đinh Lễ, Nguyễn Xí có 3.000 quân tinh nhuệ, 2 thớt voi; tổng cộng có 6.000 quân, 3 thớt voi.",
+      "Lực lượng bên 2": "Theo Đại Việt sử ký toàn thư, Đại Việt thông sử, Lam Sơn thực lục, lực lượng quân Minh có 10 vạn quân, 5 nghìn ngựa.",
+      "Tổn thất bên 1": "Không rõ",
+      "Tổn thất bên 2": "5 vạn bị giết, 1 vạn bị bắt sống"
+    },
+    "label": "Trận Tốt Động – Chúc Động năm 1426"
+  },
+  {
+    "overview": "Chiến dịch Chi Lăng – Xương Giang là một loạt trận đánh diễn ra từ ngày 18 tháng 9 năm 1427 đến cuối tháng 10, năm 1427 giữa lực lượng khởi nghĩa Lam Sơn của Việt Nam và 2 đạo quân viện binh nhà Minh do Liễu Thăng và Mộc Thạnh chỉ huy",
+    "claims": {
+      "tên khác": "Chiến dịch Chi Lăng Xương Giang",
+      "Thời gian": "8 tháng 10 năm 1427 đến ngày 3 tháng 1 năm 1428",
+      "Địa điểm": "Chi Lăng, Xương Giang",
+      "Kết quả": "Thắng lợi quyết định của nghĩa quân Lam Sơn",
+      "Tham chiến bên 1": "Liễu Thăng\n Lương Minh\n Mộc Thạnh\n Thôi Tụ\n Hoàng Phúc\n Lý Khánh",
+      "Tham chiến bên 2": "Lê Sát\n Lưu Nhân Chú\n Trần Lựu\n Phạm Vấn\n Lê Văn An\n Lê Khôi\n Nguyễn Lý\n Lê Lãnh\n Đinh Liệt\n Lê Thụ\n Trần Nguyên Hãn\n Lê Lỗng\n Phạm Văn Liêu",
+      "Chỉ huy bên 1": "Minh Tuyên Tông\n Liễu Thăng\n Lương Minh",
+      "Chỉ huy bên 2": "Lê Lợi",
+      "Lực lượng bên 1": "Theo sách Đại Việt sử ký toàn thư là 10 vạn quân do Liễu Thăng chỉ huy, 5 vạn quân do Mộc Thạnh chỉ huy; theo Lam Sơn thực lục có tất cả 20 vạn quân;\n Theo Minh sử cánh quân Liễu Thăng có 7 vạn quân, cánh quân Mộc Thạnh có 5 vạn quân",
+      "Lực lượng bên 2": "35 vạn quân và dân binh, trong đó có 5 vạn tinh binh.",
+      "Tổn thất bên 1": "Bắt sống 3 vạn, giết 7 vạn người.",
+      "Tổn thất bên 2": "Không rõ"
+    },
+    "label": "Trận Chi Lăng – Xương Giang năm 1427"
+  },
+  {
+    "overview": "Trận Ngọc Hồi - Đống Đa (hay Chiến thắng Kỷ Dậu) là tên gọi do các nhà sử học Việt Nam dành cho loạt trận đánh chống ngoại xâm thắng lợi của nước Đại Việt thời Tây Sơn do vua Quang Trung lãnh đạo vào đầu năm Kỷ Dậu 1789, đánh tan hàng vạn quân Mãn Thanh do Tôn Sĩ Nghị chỉ huy - kéo sang do sự cầu viện của vua Chiêu Thống nhà Lê Trung Hưng",
+    "claims": {
+      "tên khác": "Trận Ngọc Hồi - Đống Đa",
+      "Thời gian": "1789",
+      "Địa điểm": "Miền Bắc Đại Việt",
+      "Kết quả": "Tây Sơn chiến thắng, quân Thanh rút khỏi Đại Việt. Nhà Tây Sơn thay thế nhà Lê. Nhà Tây Sơn chấp nhận triều cống cho nhà Thanh.",
+      "Tham chiến bên 1": " Tây Sơn",
+      "Tham chiến bên 2": " Đại Thanh\n nhà Lê.gif\" src\u003d\"/images/wiki/tran-ngoc-hoi-dong-da/05869fc73a25b2f4c8999abd4386ab9b.gif\" /\u003e Nhà Lê",
+      "Chỉ huy bên 1": " Nguyễn Huệ\n  Phan Văn Lân\n  Ngô Văn Sở\n  Nguyễn Tăng Long\n  Đặng Xuân Bảo\n  Nguyễn Văn Lộc\n  Nguyễn Văn Tuyết\n  Đặng Tiến Đông\n  Phan Khải Đức\n  Nguyễn Văn Diễm\n  Nguyễn Văn Hoà",
+      "Chỉ huy bên 2": " Tôn Sĩ Nghị\n  Hứa Thế Hanh †\n  Thượng Duy Thăng †\n  Trương Triều Long †\n  Ô Đại Kinh\n  Sầm Nghi Đống †\n  Thang Hùng Nghiệp\n  Lý Hóa Long †\n  Khánh Thành\n  Hình Đôn Hành †\n nhà Lê.gif\" src\u003d\"/images/wiki/tran-ngoc-hoi-dong-da/05869fc73a25b2f4c8999abd4386ab9b.gif\" /\u003e Hoàng Phùng Nghĩa",
+      "Lực lượng bên 1": "60.000 quân và dân binh đóng ở miền bắc, cộng với mấy vạn quân Nguyễn Huệ đưa từ nam ra, tổng số khoảng 100.000",
+      "Lực lượng bên 2": "Quân người Việt ủng hộ Lê Chiêu Thống:\n 20.000 quân\n Quân Thanh:\n Sử Trung Quốc\n Gần 30.000 quân chính quy và 6.000 quân địa phương, cùng với khoảng 10 - 12 vạn dân binh\n Sử Việt Nam: tổng cộng ~200.000 đến 290.000\n Giáo sĩ đương thời: 40.000 quân chưa kể dân binh",
+      "Tổn thất bên 1": "Hơn 8.000 chết\n Bị thương không rõ",
+      "Tổn thất bên 2": "Tổn thất một nửa quân số, tối thiểu là 20.000 lính chính quy (chưa kể tổn thất của dân binh)\n 3.400 tù binh"
+    },
+    "label": "Trận Ngọc Hồi - Đống Đa năm 1789"
+  },
+  {
+    "overview": "Trận Cẩm Sa là một phần của cuộc chiến tranh Tây Sơn-Chúa Trịnh vào cuối thế kỷ 18 trong lịch sử Việt Nam giữa chúa Trịnh và chính quyền Tây Sơn của Nguyễn Nhạc",
+    "claims": {
+      "tên khác": "Trận Cẩm Sa",
+      "Thời gian": "Tháng 4 năm 1775",
+      "Địa điểm": "Quảng Nam, Việt Nam",
+      "Nguyên nhân bùng nổ": "Chúa Trịnh đánh Đàng Trong mở rộng lãnh thổ",
+      "Kết quả": "Quân Trịnh chiến thắng, Tây Sơn phải quy thuận",
+      "Tham chiến bên 1": "Chúa Trịnh",
+      "Tham chiến bên 2": "Tây Sơn",
+      "Chỉ huy bên 1": "Trịnh Sâm\n Hoàng Ngũ Phúc\n Nguyễn Nghiễm\n Hoàng Đình Bảo\n Hoàng Phùng Cơ\n Hoàng Đình Thể\n Nguyễn Đình Đống",
+      "Chỉ huy bên 2": "Nguyễn Nhạc\n \n Nguyễn Lữ\n Lý Tài\n Tập Đình",
+      "Lực lượng bên 1": "30.000, có voi chiến.",
+      "Lực lượng bên 2": "trên 6000, 30 voi chiến",
+      "Tổn thất bên 1": "không rõ",
+      "Tổn thất bên 2": "gần 400."
+    },
+    "label": "Trận Cẩm Sa năm 1775"
+  },
+  {
+    "overview": "",
+    "claims": {
+      "tên khác": "Trận Rạch Gầm - Xoài Mút",
+      "Thời gian": "19 tháng 1 năm 1785 - 20 tháng 1 năm 1785",
+      "Địa điểm": "Rạch Gầm - Xoài Mút, tỉnh Mỹ Tho (nay là tỉnh Tiền Giang, Việt Nam)",
+      "Kết quả": "Quân Tây Sơn đại thắng.",
+      "Tham chiến bên 1": "Tây Sơn",
+      "Tham chiến bên 2": " Xiêm La\n \n Chúa Nguyễn",
+      "Chỉ huy bên 1": "Nguyễn Huệ\n Nguyễn Lữ\n Trương Văn Đa\n Đặng Văn Chấn\n Chưởng tiền Bảo  †",
+      "Chỉ huy bên 2": "Xiêm La:\n Chiêu Tăng\n  Chiêu Sương\n  Lục Côn  †\n  Sa Uyển\n  Chiêu Thùy Biện\n Chúa Nguyễn:\n Nguyễn Ánh\n \n Lê Văn Duyệt\n Lê Văn Quân\n Nguyễn Văn Thành\n Mạc Tử Sanh\n Nguyễn Văn Oai  †…",
+      "Lực lượng bên 1": "20.000-40.000 (ước lượng)",
+      "Lực lượng bên 2": "20.000 lính thủy, 30.000 lính bộ Xiêm cùng 3.000-4.000 quân Nguyễn\n Chiến thuyền Xiêm: 300, chiến thuyền quân Nguyễn: không rõ.",
+      "Tổn thất bên 1": "Không rõ, nhưng chắc chắn là ít hơn nhiều so với đối phương",
+      "Tổn thất bên 2": "Không rõ, bị tiêu diệt gần như toàn bộ.\nQuân Nguyễn: khoảng 3.200"
+    },
+    "label": "Trận Rạch Gầm – Xoài Mút năm 1785"
+  },
+  {
+    "overview": "Chiến dịch Phú Xuân 1786 là loạt trận đánh giữa quân Tây Sơn và chúa Trịnh trong cuộc nội chiến nước Đại Việt cuối thế kỷ 18",
+    "claims": {
+      "tên khác": "Chiến dịch Phú Xuân 1786",
+      "Thời gian": "Ngày 25 tháng 5 – ngày 22 tháng 6 năm 1786",
+      "Địa điểm": "Quảng Bình, Quảng Trị, Thừa Thiên-Huế, Việt Nam",
+      "Nguyên nhân bùng nổ": "Quân Tây Sơn tiến ra bắc, tiêu diệt chúa Trịnh",
+      "Kết quả": "Quân Trịnh thất bại, mất vùng lãnh thổ từ nam sông Gianh tới Thuận Hóa",
+      "Tham chiến bên 1": "Tây Sơn",
+      "Tham chiến bên 2": "Chúa Trịnh",
+      "Chỉ huy bên 1": "Nguyễn Huệ\n Nguyễn Lữ\n Nguyễn Hữu Chỉnh\n Vũ Văn Nhậm",
+      "Chỉ huy bên 2": "Trịnh Khải\n Phạm Ngô Cầu\n Hoàng Đình Thể\n Vũ Trọng Đang\n Hoàng Nghĩa Hồ\n Vũ Tá Kiên",
+      "Lực lượng bên 1": "10.000.",
+      "Lực lượng bên 2": "trên 30.000."
+    },
+    "label": "Chiến dịch Phú Xuân năm 1786"
+  },
+  {
+    "overview": "Cảnh Thịnh Nguyễn Quang Thùy Bùi Thị Xuân Nguyễn Văn Kiên Tổng Quân Siêu Tư Lệ Tiết",
+    "claims": {
+      "tên khác": "Trận Trấn Ninh (1802)",
+      "Thời gian": "ngày 3 tháng 2 năm 1802 – khoảng tháng 3 cùng năm.",
+      "Địa điểm": "Quảng Bình, Việt Nam",
+      "Kết quả": "quân chúa Nguyễn toàn thắng",
+      "Tham chiến bên 1": "Quân Tây Sơn",
+      "Tham chiến bên 2": "Quân chúa Nguyễn",
+      "Chỉ huy bên 1": "Chỉ huy chính: Cảnh Thịnh\n Nguyễn Quang Thùy\n Bùi Thị Xuân\n Nguyễn Văn Kiên\n Tổng Quân Siêu\n Tư Lệ Tiết...",
+      "Chỉ huy bên 2": "Chỉ huy chính: Nguyễn Ánh\n Nguyễn Văn Trương\n Tống Phúc Lương\n Đặng Trần Thường\n Phạm Văn Nhân...",
+      "Lực lượng bên 1": "Khoảng 35.000 quân\n Hơn 100 chiến thuyền",
+      "Lực lượng bên 2": "không rõ",
+      "Tổn thất bên 1": "Nhiều, nhưng không có con số cụ thể.",
+      "Tổn thất bên 2": "không rõ"
+    },
+    "label": "Trận Trấn Ninh năm 1802"
+  },
+  {
+    "overview": "Chiến dịch Nam Kỳ là chiến dịch Pháp giành quyền bảo hộ toàn bộ miền Nam Kỳ, nhà Nguyễn bắt đầu từ năm 1858 Pháp phát động cuộc chiến tranh đầu tiên tại bán đảo Sơn Trà, Đà Nẵng đến ngày 5 tháng 6 năm 1862, nhà Nguyễn cắt đất cầu hòa ký hiệp ước với Pháp về việc công nhận nền bảo hộ của Pháp tại Nam Kỳ và không tiếp tục xâm phạm lãnh thổ nhà Nguyễn tại Trung Kỳ và Bắc Kỳ tại Hòa ước Nhâm Tuất (1862)",
+    "claims": {
+      "tên khác": "Loạt trận mở đầu của Pháp xâm lược Đại Nam",
+      "Thời gian": "1 tháng 8 năm 1858 - 5 tháng 6 năm 1862",
+      "Địa điểm": "Nam Kỳ phần phía nam lãnh thổ Đại Nam",
+      "Kết quả": [
+        "Hòa ước Nhâm Tuất (1862)",
+        "Là tiền đề đầu tiên trong việc Pháp giành quyền bảo hộ toàn lãnh thổ Đại Nam"
+      ],
+      "Tham chiến bên 1": "Nhà Nguyễn",
+      "Tham chiến bên 2": " Pháp\n Tây Ban Nha",
+      "Chỉ huy bên 1": "Tổng thống quân thứ Nguyễn Tri Phương\n Tham tán Phạm Thế Hiển\n Thống chế Chu Phúc Minh\n Đô thống Lê Đình Lý\n Tổng đốc Trần Hoằng\n Chưởng vệ Đào Trí\n Tham tri Phạm Khắc Thân\n Tham tri Nguyễn Duy...",
+      "Chỉ huy bên 2": "Phó Đô đốc De Genouilly\n Đại tá Reynaud\n Đại tá Faucon\n Thiếu tá Jauré-Guiberry\n Giám mục Pellerin, cố vấn chính trị\n Đại tá Lanzarotte (Tây Ban Nha)\n Đại tá Oscaritz (Tây Ban Nha)..."
+    },
+    "label": "Chiến dịch Nam Kỳ năm 1858"
+  },
+  {
+    "overview": "Trận Đà Nẵng (1858-1859) hay Liên quân Pháp – Tây Ban Nha tấn công Đà Nẵng lần thứ nhất là trận đánh mở đầu cho cuộc chiến tranh Pháp-Việt 1858-1884 trong lịch sử Việt Nam",
+    "claims": {
+      "tên khác": "Liên quân tấn công Đà Nẵng lần thứ nhất",
+      "Thời gian": "31 tháng 8 năm 1858 - 2 tháng 2 năm 1859",
+      "Địa điểm": "Đà Nẵng",
+      "Kết quả": "Liên quân Pháp - Tây Ban Nha bị cầm chân.",
+      "Tham chiến bên 1": "Thủy quân triều Nguyễn",
+      "Tham chiến bên 2": " Pháp\n  Tây Ban Nha",
+      "Chỉ huy bên 1": "Tổng thống quân thứ Nguyễn Tri Phương\n Tham tán Phạm Thế Hiển\n Thống chế Chu Phúc Minh\n Đô thống Lê Đình Lý\n Tổng đốc Trần Hoằng\n Chưởng vệ Đào Trí\n Tham tri Phạm Khắc Thân\n Tham tri Nguyễn Duy...",
+      "Chỉ huy bên 2": "Phó Đô đốc De Genouilly\n Đại tá Reynaud\n Đại tá Faucon\n Thiếu tá Jauré-Guiberry\n Giám mục Pellerin, cố vấn chính trị\n Đại tá Lanzarotte (Tây Ban Nha)\n Đại tá Oscaritz (Tây Ban Nha)...",
+      "Lực lượng bên 1": "Khoảng 4.000 quân chính quy\n Số vũ khí: không rõ.",
+      "Lực lượng bên 2": "Khoảng 3.000 quân chính quy\n 14 tàu chiến\n Số đại bác và vũ khí khác: không rõ.",
+      "Tổn thất bên 1": "Đô thống Lê Đình Lý và hai Hiệp quản là Nguyễn Triều và Nguyễn An đều tử trận. Quân và dân chết nhiều nhưng không biết chính xác con số. Thiệt hại khác: không thống kê được.",
+      "Tổn thất bên 2": "Nhiều, nhưng không biết đích xác con số."
+    },
+    "label": "Trận Đà Nẵng năm 1858 - 1859"
+  },
+  {
+    "overview": "Tháng 2 năm 1859, với ý đồ muốn chiếm cứ thành Gia Định (Đại Nam), liên minh Pháp và Tây Ban Nha đã đưa quân vào để đánh chiếm và phá hủy nhiều công trình quân sự của Vương triều nhà Nguyễn, trong đó có thành Gia Định",
+    "claims": {
+      "tên khác": "Trận thành Gia Định",
+      "Thời gian": "17/2/1859",
+      "Địa điểm": "Gia Định, Nam Kỳ",
+      "Kết quả": "Quân Pháp thắng trận.",
+      "Tham chiến bên 1": "Đại Nam",
+      "Tham chiến bên 2": " Đế chế thứ hai Pháp",
+      "Chỉ huy bên 1": "Võ Duy Ninh\n [ Vũ Thực\n Lê Từ\n [ Trần Trí\n Tôn Thất Năng",
+      "Chỉ huy bên 2": " Charles Rigault de Genouilly",
+      "Lực lượng bên 1": "2.000 quân chính quy\n 200 đại bác\n Một hải phòng hạm\n Bảy chiến thuyền.",
+      "Lực lượng bên 2": "2.000 quân\n 8 tàu chiến\n Số đại bác: không rõ.",
+      "Tổn thất bên 1": "Võ Duy Ninh và Lê Từ đều tự vẫn. Số thương vong không rõ. Ngoài ra, còn chịu nhiều tổn thất khác.",
+      "Tổn thất bên 2": "không rõ."
+    },
+    "label": "Trận thành Gia Định năm 1859"
+  },
+  {
+    "overview": "Trận Đại đồn Chí Hòa hay còn được là Trận Đại đồn Kỳ Hòa, là một trận đánh xảy ra tại Sài Gòn, Nam Kỳ vào 4 giờ sáng ngày 24 tháng 2 năm 1861, và đến khoảng 8 giờ tối ngày hôm sau thì kết thúc",
+    "claims": {
+      "tên khác": "Trận Đại đồn Chí Hòa",
+      "Thời gian": "24-25 tháng 2 năm 1861",
+      "Địa điểm": "Gia Định, Nam Kỳ",
+      "Kết quả": "Quân Pháp thắng trận",
+      "Tham chiến bên 1": "Nhà Nguyễn",
+      "Tham chiến bên 2": " Đế nhị đế chế Pháp",
+      "Chỉ huy bên 1": "Nguyễn Tri Phương",
+      "Chỉ huy bên 2": " Leonard Charner",
+      "Lực lượng bên 1": "21.000 quân chính quy\n 10.000 quân Đồn điền",
+      "Lực lượng bên 2": "Khoảng 4.000 quân\n Khoảng 50 chiến thuyền",
+      "Tổn thất bên 1": "Khoảng 1.000 người chết và bị thương",
+      "Tổn thất bên 2": "300 người chết, 213 người bị thương"
+    },
+    "label": "Trận Đại đồn Chí Hòa năm 1861"
+  },
+  {
+    "overview": "",
+    "claims": {
+      "tên khác": "Pháp đánh chiếm Định Tường",
+      "Thời gian": "26 tháng 3 năm 1861 - 14 tháng 4 năm 1861",
+      "Địa điểm": "Định Tường, Nam Kỳ",
+      "Kết quả": "Quân Pháp thắng trận",
+      "Tham chiến bên 1": "Nhà Nguyễn",
+      "Tham chiến bên 2": " Đế chế Pháp thứ hai",
+      "Chỉ huy bên 1": "Chỉ huy chính: Tổng đốc Nguyễn Công Nhàn\n Tuần phủ Nguyễn Hữu Thành\n Án sát Huỳnh Mẫn Đạt\n Phó đề đốc Đặng Đức",
+      "Chỉ huy bên 2": "Chỉ huy chính: Chuẩn đề đốc Page\n Trung tá Hải quân Bourdairs\n Trung tá Hải quân Desvaux\n Thiếu úy Maolini (Tây Ban Nha)",
+      "Lực lượng bên 1": "Không rõ.",
+      "Lực lượng bên 2": "Đoàn quân của Bourdairs khoảng 900 người Đoàn quân của Page không rõ..",
+      "Tổn thất bên 1": "Nhiều, nhưng không có số chính thức.",
+      "Tổn thất bên 2": "Nhiều, nhưng không có số chính thức."
+    },
+    "label": "Trận Định Tường năm 1861"
+  },
+  {
+    "overview": "Trận Biên Hòa hay Pháp đánh chiếm Biên Hòa1 là một phần của cuộc chiến tranh Pháp-Việt 1858-1884 xảy ra từ ngày 14 tháng 12 năm 1861 và kết thúc vào ngày 7 tháng Giêng năm 1862, tức sau khi đánh chiếm được Bà Rịa",
+    "claims": {},
+    "label": "Trận Biên Hòa năm 1861 - 1862"
+  },
+  {
+    "overview": "Trong quá trình xâm lược Việt Nam nửa cuối thế kỷ 19, quân Pháp đánh chiếm thành Vĩnh Long cả thảy hai lần",
+    "claims": {},
+    "label": "Trận Vĩnh Long năm 1862"
+  },
+  {
+    "overview": "Trận Đà Nẵng (1859-1860) hay Liên quân Pháp – Tây Ban Nha tấn công Đà Nẵng lần thứ hai là trận đánh mở đầu cho cuộc chiến tranh Pháp-Việt 1858-1884 trong lịch sử Việt Nam",
+    "claims": {
+      "tên khác": "Liên quân tấn công Đà Nẵng lần thứ hai",
+      "Thời gian": "20 tháng 4 năm 1859 - 22 tháng 3 năm 1860",
+      "Địa điểm": "Đà Nẵng",
+      "Kết quả": "Liên quân Pháp - Tây Ban Nha rút khỏi Đà Nẵng.",
+      "Tham chiến bên 1": "Nhà Nguyễn",
+      "Tham chiến bên 2": "Pháp-Tây Ban Nha",
+      "Chỉ huy bên 1": "Tổng thống quân thứ Nguyễn Tri Phương\n Các cộng sự: Phạm Thế Hiển, Nguyễn Hiên, Nguyễn Trọng Thao...",
+      "Chỉ huy bên 2": "Phó đô đốc De Genouilly\n Thiếu tướng Page\n Các cộng sự: Faucon, Lanzarotte, Reybaud, Delaveau, Dupré-Deroulède, Breschin...",
+      "Lực lượng bên 1": "Khoảng 4.000 quân chính quy\n Số đại bác: không rõ.",
+      "Lực lượng bên 2": "Khoảng 4.000 quân chính quy\n 32 chiến thuyền các loại1 ",
+      "Tổn thất bên 1": "Các Hiệp quản: Trần Trinh Lương, Lê Văn Da, Phan Hữu Điển đều tử trận. Quân lính và dân chết nhiều nhưng không biết chính xác con số.",
+      "Tổn thất bên 2": "Đại tá Dupré Déroulède tử trận. Liên quân chết nhiều vì thương vong và bệnh tật, nhưng không biết chính xác con số."
+    },
+    "label": "Trận Đà Nẵng năm 1859-1860"
+  },
+  {
+    "overview": "Sau khi thành Hà Nội thất thủ, triều đình Huế phản kháng mạnh mẽ việc đại úy Garnier bất ngờ đánh thành Hà Nội",
+    "claims": {
+      "tên khác": "Biến cố Bắc Kỳ 1873",
+      "Thời gian": "1873",
+      "Địa điểm": "Bắc Kỳ, Việt Nam",
+      "Kết quả": "Hòa ước Giáp Tuất với những điều khoản có lợi cho Pháp.",
+      "Thay đổi lãnh thổ": "Quân Pháp rút khỏi bốn tỉnh Bắc Kỳ",
+      "Chỉ huy bên 1": " Francis Garnier",
+      "Chỉ huy bên 2": "Tự Đức",
+      "Lực lượng bên 1": "vài trăm người",
+      "Lực lượng bên 2": "không rõ",
+      "Tổn thất bên 1": "không rõ",
+      "Tổn thất bên 2": "không rõ"
+    },
+    "label": "Biến cố Bắc Kỳ năm 1873"
+  },
+  {
+    "overview": "Trận thành Hà Nội 1873 hay còn gọi là trận thành Hà Nội lần thứ nhất là một phần của cuộc chiến tranh Pháp Việt (1858-1884) diễn ra ngày diễn ra ngày 20 tháng 11 năm 1873",
+    "claims": {
+      "tên khác": "Trận thành Hà Nội lần thứ nhất",
+      "Thời gian": "20 tháng 11 năm 1873",
+      "Địa điểm": "Hà Nội",
+      "Kết quả": "Pháp chiến thắng",
+      "Tham chiến bên 1": " Pháp",
+      "Tham chiến bên 2": "Nhà Nguyễn",
+      "Chỉ huy bên 1": "Francis Garnier, Jean Dupuis",
+      "Chỉ huy bên 2": "Nguyễn Tri Phương",
+      "Lực lượng bên 1": "khoảng hơn 300 người, gồm 120 lính Pháp, 4 khẩu đại bác, 2 tàu chiến, chừng 200 người của Dupuis 1 ",
+      "Lực lượng bên 2": "7.000 người2 ",
+      "Tổn thất bên 1": "một lính đánh thuê Vân Nam bị giết",
+      "Tổn thất bên 2": "80 chết, khoảng 300 bị thương, khoảng 2 ngàn binh sĩ bị bắt 3 \n Số còn lại bỏ thành chạy trốn"
+    },
+    "label": "Trận thành Hà Nội năm 1873"
+  },
+  {
+    "overview": "Trận Cầu Giấy diễn ra ngày 21 tháng 12 năm 1873 là một trận đánh giữa Quân cờ đen và quân đội viễn chinh Đệ tam Cộng hòa Pháp do Đại úy Francis Garnier chỉ huy",
+    "claims": {
+      "tên khác": "Trận Cầu Giấy",
+      "Thời gian": "21 tháng 12 năm 1873",
+      "Địa điểm": "Cầu Giấy, Hà Nội",
+      "Tọa độ": "21°1′49″B 105°48′4″Đ / 21,03028°B 105,80111°Đ / 21.03028; 105.80111",
+      "Kết quả": "Quân Cờ đen chiến thắng",
+      "Tham chiến bên 1": "Quân cờ đen",
+      "Tham chiến bên 2": " Đệ tam Cộng hòa Pháp",
+      "Chỉ huy bên 1": "Lưu Vĩnh Phúc",
+      "Chỉ huy bên 2": " Francis Garnier  †",
+      "Lực lượng bên 1": "khoảng 1000",
+      "Lực lượng bên 2": "200",
+      "Tổn thất bên 1": "không rõ",
+      "Tổn thất bên 2": "vài chục"
+    },
+    "label": "Trận Cầu Giấy năm 1873"
+  },
+  {
+    "overview": "Chiến dịch Bắc Kỳ (tiếng Pháp: Campagne du Tonkin) là một chiến dịch diễn ra từ tháng 6 năm 1883 đến tháng 4 năm 1886 do Pháp tổ chức, nhằm chống lại các đội quân của người Việt, quân cờ đen của Lưu Vĩnh Phúc và đội quân Quảng Tây và Vân Nam của nhà Thanh, với mục tiêu chiếm đóng Bắc Kỳ và giữ vững sự bảo hộ của Pháp tại đó",
+    "claims": {
+      "tên khác": "Chiến dịch Bắc Kỳ Campagne du Tonkin",
+      "Thời gian": "1883–1886",
+      "Địa điểm": "Phía bắc Việt Nam",
+      "Kết quả": "Pháp chiến thắng",
+      "Thay đổi lãnh thổ": "Vùng Bắc Bộ và An Nam do Pháp bảo hộ trong Liên bang Đông Dương.",
+      "Tham chiến bên 1": " Pháp",
+      "Tham chiến bên 2": " Nhà Thanh\n Nhà Nguyễn\n Quân cờ đen",
+      "Lực lượng bên 1": "35.000 quân vào mùa hè năm 1885",
+      "Lực lượng bên 2": "50.000 quân Trung Hoa, 10.000 quân An Nam, 3.000 quân Cờ đen",
+      "Tổn thất bên 1": "2.100 người bị giết hoặc bị thương",
+      "Tổn thất bên 2": "10.000 người bị giết hoặc bị thương"
+    },
+    "label": "Chiến dịch Bắc Kỳ năm 1883 - 1886"
+  },
+  {
+    "overview": "Trận thành Hà Nội 1882 hay còn gọi là trận Hà Nội lần thứ hai là một phần của cuộc chiến tranh Pháp Việt (1858-1884) diễn ra ngày 25 tháng 4 năm 1882",
+    "claims": {
+      "tên khác": "Trận thành Hà Nội lần thứ hai",
+      "Thời gian": "25 tháng 4 năm 1882",
+      "Địa điểm": "Hà Nội",
+      "Kết quả": "Pháp chiến thắng",
+      "Tham chiến bên 1": " Pháp",
+      "Tham chiến bên 2": "Nhà Nguyễn",
+      "Chỉ huy bên 1": " Henri Rivière",
+      "Chỉ huy bên 2": "Hoàng Diệu",
+      "Lực lượng bên 1": "khoảng 500 quân",
+      "Lực lượng bên 2": "khoảng 9.000 quân",
+      "Tổn thất bên 1": "Thiếu tá Berthe des Villers và 3 binh sĩ Pháp bị thương",
+      "Tổn thất bên 2": "40 lính chết và 20 bị thương\n Số còn lại bỏ thành chạy trốn"
+    },
+    "label": "Trận thành Hà Nội năm 1882"
+  },
+  {
+    "overview": "Trận Nam Định (27 tháng 3 năm 1883), là một cuộc chạm trán giữa quân Pháp và quân Việt Nam, trong giai đoạn đầu của Chiến dịch Bắc Kỳ thuộc chiến tranh Pháp-Việt (1858-1884)",
+    "claims": {
+      "tên khác": "Trận Nam Định",
+      "Thời gian": "27 tháng 3 năm 1883",
+      "Địa điểm": "Bắc kỳ",
+      "Kết quả": "Quân Pháp chiến thắng",
+      "Thay đổi lãnh thổ": "Thành Nam Định rơi vào tay quân Pháp",
+      "Tham chiến bên 1": " Pháp",
+      "Tham chiến bên 2": "Nhà Nguyễn\n Quân Cờ Đen",
+      "Chỉ huy bên 1": " Henri Rivière",
+      "Chỉ huy bên 2": "Vũ Trọng Bình\n Đề đốc Lê Văn Điếm\n Án sát Hồ Bá Ôn\n Vinh Thong Chat",
+      "Lực lượng bên 1": "6 pháo thuyền\n 520 thủy binh đánh bộ\n 20 lính mộ\n 60 thủy thủ",
+      "Lực lượng bên 2": "6.200 quân Việt\n 600 quân cờ đen",
+      "Tổn thất bên 1": "4 người bị thương",
+      "Tổn thất bên 2": "200 chết và bị thương"
+    },
+    "label": "Trận Nam Định năm 1883"
+  },
+  {
+    "overview": "Trận Gia Quất-Gia Lâm là một trận đánh trong chiến dịch Bắc Kỳ 1883, giữa quân đội Viễn chinh Pháp và quân đội nhà Nguyễn diễn ra vào các ngày 27-28 tháng 3 năm 1883 tại bờ bắc (tả ngạn) sông Hồng trên các làng Gia Quất, Thượng Cát, thuộc tổng Gia Thụy huyện Gia Lâm tỉnh Bắc Ninh (quân Việt vây đánh quân Pháp phản công phá vây)",
+    "claims": {
+      "tên khác": "Trận Gia Quất-Gia Lâm",
+      "Thời gian": "27-28/03/1883",
+      "Địa điểm": "Miền Bắc Việt Nam (Bắc Kỳ)",
+      "Kết quả": "Pháp chiến thắng",
+      "Tham chiến bên 1": " Pháp",
+      "Tham chiến bên 2": "Nhà Nguyễn\n Quân cờ đen",
+      "Chỉ huy bên 1": " Berthe de Villers",
+      "Chỉ huy bên 2": "Phò mã Hoàng Kế Viêm\n Lưu Vĩnh Phúc",
+      "Lực lượng bên 1": "1 pháo hạm\n 300 thủy binh đánh bộ\n 60 thủy thủ",
+      "Lực lượng bên 2": "Khoảng 6000 lính Việt",
+      "Tổn thất bên 1": "4 người bị thương",
+      "Tổn thất bên 2": "Khoảng 1000 người bị giết và bị thương"
+    },
+    "label": "Trận Gia Quất - Gia Lâm năm 1883"
+  },
+  {
+    "overview": "Trận Cầu Giấy diễn ra ngày 19 tháng 5 năm 1883, là một cuộc chạm trán giữa quân Pháp và lực lượng Cờ đen, trong giai đoạn đầu của Chiến dịch Bắc Kỳ tại Cầu Giấy thuộc ngoại vi thành Hà Nội, quân Cờ đen đã phục kích lực lượng Pháp của Rivière trong cuộc chuyển quân từ Hà Nội về Phủ Hoài",
+    "claims": {
+      "tên khác": "Trận Cầu Giấy",
+      "Thời gian": "19 tháng 5 năm 1883",
+      "Địa điểm": "Cầu Giấy, ngoại vi Hà Nội",
+      "Kết quả": "Quân Cờ đen chiến thắng",
+      "Tham chiến bên 1": " Đệ tam cộng hòa Pháp",
+      "Tham chiến bên 2": "Quân cờ đen",
+      "Chỉ huy bên 1": " Henri Rivière  †\n  Berthe de Villers  †",
+      "Chỉ huy bên 2": "Lưu Vĩnh Phúc",
+      "Lực lượng bên 1": "550 quân (hải quân đánh bộ, thủy binh và pháo binh)",
+      "Lực lượng bên 2": "khoảng 3.000 quân Cờ đen",
+      "Tổn thất bên 1": "30 người chết (bao gồm cả hai chỉ huy của Pháp)\n 55 bị thương1 ",
+      "Tổn thất bên 2": "50 chết, 56 bị thương"
+    },
+    "label": "Trận Cầu Giấy năm 1883"
+  },
+  {
+    "overview": "Trận Phủ Hoài năm 1883 còn gọi là Trận Vọng hay Trận Dịch Vọng, diễn ra trong các ngày 15-16 tháng 8 năm 1883, là trận tấn công của quân Pháp ở Hà Nội vào phòng tuyến vây quanh Hà Nội về phía Tây Bắc của quân nhà Nguyễn và quân Cờ Đen",
+    "claims": {
+      "tên khác": "Trận Phủ Hoài",
+      "Thời gian": "15 tháng 8 1883",
+      "Địa điểm": "Gần Hà Nội, miền bắc Việt Nam",
+      "Kết quả": "Pháp tuyên bố chiến thắng",
+      "Tham chiến bên 1": " Pháp",
+      "Tham chiến bên 2": "Quân Cờ Đen",
+      "Chỉ huy bên 1": " Alexandre-Eugène Bouët",
+      "Chỉ huy bên 2": "Lưu Vĩnh Phúc",
+      "Lực lượng bên 1": "2,500 thủy binh đánh bộ Pháp và lính tập Nam kỳ\n 450 quân Cờ Vàng\n 3 khẩu đội pháo\n 6 pháo thuyền",
+      "Lực lượng bên 2": "Khoảng 3.000 binh sĩ Cờ đen",
+      "Tổn thất bên 1": "17 chết, 62 bị thương",
+      "Tổn thất bên 2": "Khoảng 300 người chết, 800 người bị thương (theo ước tính của Pháp)"
+    },
+    "label": "Trận Phủ Hoài năm 1883"
+  },
+  {
+    "overview": "Trận Cửa Thuận An (20 tháng 8 năm 1883) là trận giao tranh giữa quân Pháp và nước Đại Nam một năm trước khi Chiến tranh Pháp-Thanh (tháng 8 năm 1884 tới tháng 4 năm 1885) bùng nổ",
+    "claims": {
+      "tên khác": "Trận cửa Thuận An",
+      "Thời gian": "Tháng 8 năm 1883",
+      "Địa điểm": "gần Huế, miền trung Việt Nam",
+      "Kết quả": "Pháp chiến thắng",
+      "Tham chiến bên 1": " Pháp",
+      "Tham chiến bên 2": "Thủy quân triều Nguyễn",
+      "Chỉ huy bên 1": "Đô đốc Amédée Courbet",
+      "Chỉ huy bên 2": "Không rõ",
+      "Tổn thất bên 1": "12 lính bị thương",
+      "Tổn thất bên 2": "khoảng 1.000 chết và bị thương"
+    },
+    "label": "Trận Cửa Thuận An năm 1883"
+  },
+  {
+    "overview": "Trận Sơn Tây (1883), là trận đánh mà quân đội viễn chinh Pháp tấn công vào thành Sơn Tây, diễn ra từ ngày 13 tháng 12 năm 1883, kết thúc vào tối ngày 16 tháng 12 cùng năm",
+    "claims": {
+      "tên khác": "Pháp đánh thành Sơn Tây",
+      "Thời gian": "11 tháng 12 năm 1883 - 16 tháng 12 năm 1883",
+      "Địa điểm": "Sơn Tây",
+      "Kết quả": "Quân Pháp chiếm được thành Sơn Tây.",
+      "Tham chiến bên 1": "Nhà Thanh-Nhà Nguyễn",
+      "Tham chiến bên 2": "Pháp",
+      "Chỉ huy bên 1": "Đề đốc Lưu Vĩnh Phúc",
+      "Chỉ huy bên 2": "Phó Đô đốc Courbet.",
+      "Lực lượng bên 1": "3.000-5.000 quân chính quy (theo Henry McAleavy)\n Số vũ khí: không rõ.",
+      "Lực lượng bên 2": "5.900 quân chính quy\n Số tàu chiến và đại bác: không rõ.",
+      "Tổn thất bên 1": "Gần 1.000 người chết và bị thương",
+      "Tổn thất bên 2": "Theo báo cáo của Pháp: ~100 người chết và 350 người bị thương."
+    },
+    "label": "Trận Sơn Tây năm 1883"
+  },
+  {
+    "overview": "Trận Bắc Ninh hay Trận Pháp đánh thành Bắc Ninh là một phần của cuộc chiến tranh Pháp-Việt 1858-1884 diễn ra từ ngày 7 tháng 3 năm 1884 và kết thúc vào ngày 12 tháng 3 cùng năm",
+    "claims": {
+      "tên khác": "Pháp đánh thành Bắc Ninh",
+      "Thời gian": "8 tháng 3 năm 1884 - 16 tháng 3 năm 1884",
+      "Địa điểm": "Bắc Ninh, Việt Nam",
+      "Kết quả": "Quân Pháp chiếm được thành Bắc Ninh.",
+      "Tham chiến bên 1": " Nhà Thanh",
+      "Tham chiến bên 2": " Pháp",
+      "Chỉ huy bên 1": "Chỉ huy chính:\n Hoàng Quế Lan\n Triệu Ốc",
+      "Chỉ huy bên 2": "Chỉ huy chính:\n Thống tướng Charles Millot\n Thiếu tướng Brière de l\u0027Isle\n Thiếu tướng François de Négrier",
+      "Lực lượng bên 1": "10.000 quân Thanh, số đại bác: không rõ",
+      "Lực lượng bên 2": "16.300 quân, 55 khẩu đại bác và 6 tàu chiến",
+      "Tổn thất bên 1": "100 chết và 400 bị thương",
+      "Tổn thất bên 2": "9 chết và 39 bị thương"
+    },
+    "label": "Trận Bắc Ninh năm 1884"
+  },
+  {
+    "overview": "Trận Hưng Hóa hay Pháp đánh thành Hưng Hóa là một phần của cuộc chiến tranh Pháp-Việt 1858-1884 diễn ra từ ngày 11 tháng 4 năm 1884 và kết thúc vào ngày 12 tháng 4 cùng năm",
+    "claims": {
+      "tên khác": "Trận Hưng Hóa",
+      "Thời gian": "11 tháng 4 năm 1884 - 12 tháng 4 năm 1884",
+      "Địa điểm": "Hưng Hóa, Việt Nam",
+      "Kết quả": "Quân Pháp chiếm được thành Hưng Hóa.",
+      "Tham chiến bên 1": "Nhà Nguyễn-Nhà Thanh",
+      "Tham chiến bên 2": "Pháp",
+      "Chỉ huy bên 1": "Chỉ huy chính:\n Sầm Dục Anh\n Lưu Vĩnh Phúc\n Hoàng Tá Viêm\n Nguyễn Quang Bích",
+      "Chỉ huy bên 2": "Chỉ huy chính:\n Thống tướng Charles-Théodore Millot\n Thiếu tướng Brière de l\u0027Isle\n Thiếu tướng François de Négrier",
+      "Lực lượng bên 1": "3.000 quân Cờ Đen\n 6.000 quân nhà Nguyễn\n Số quân Thanh: không rõ\n Số đại bác: không rõ.",
+      "Lực lượng bên 2": "7.000 quân chính quy\n Số tàu chiến: không rõ\n Số đại bác: không rõ.",
+      "Tổn thất bên 1": "Không rõ.",
+      "Tổn thất bên 2": "5 lính và 12 dân công bị chết đuối khi qua sông, không có ai chết hay bị thương khi giao chiến."
+    },
+    "label": "Trận Hưng Hóa năm 1884"
+  },
+  {
+    "overview": "Trận Tuyên Quang hay Pháp đánh thành Tuyên Quang là một phần của cuộc chiến tranh Pháp-Việt 1858-1884 diễn ra từ khoảng cuối tháng 5 năm 1884 và kết thúc vào ngày 3 tháng 3 năm 1885",
+    "claims": {
+      "tên khác": "Trận Tuyên Quang",
+      "Thời gian": "Khoảng cuối tháng 5 năm 1884 – 3 tháng 3 năm 1885",
+      "Địa điểm": "Tuyên Quang, Việt Nam",
+      "Kết quả": "Quân Pháp chiếm được thành Tuyên Quang.",
+      "Tham chiến bên 1": " Nhà Thanh",
+      "Tham chiến bên 2": "Pháp",
+      "Chỉ huy bên 1": "Chỉ huy chính:\n Sầm Dục Anh\n Lưu Vĩnh Phúc",
+      "Chỉ huy bên 2": "Chỉ huy chính:\n Thống tướng Charles Millot\n Trung tướng Brière de l\u0027Isle\n Trung tá Duchesne\n Tướng Giovanninelli\n Đại tá Dominé\n Đại tá Duchesne",
+      "Lực lượng bên 1": "12.000 quân, đại bác: không rõ.",
+      "Lực lượng bên 2": "630 quân, đại bác: không rõ.",
+      "Tổn thất bên 1": "1000 chết,\n 2000 bị thương.",
+      "Tổn thất bên 2": "50 chết,\n 224 bị thương."
+    },
+    "label": "Trận Tuyên Quang năm 1884"
+  },
+  {
+    "overview": "Trận Bắc Lệ hay còn gọi là Trận cầu Quan Âm, đã diễn ra từ ngày 23 tháng 6 năm 1884 và kết thúc vào ngày 3 tháng 7 cùng năm, là một trận giao tranh lớn giữa quân thực dân Pháp và quân liên minh Việt - Thanh",
+    "claims": {
+      "tên khác": "Trận Bắc Lệ",
+      "Thời gian": "23 tháng 6 năm 1884 – 3 tháng 7 năm 1884",
+      "Địa điểm": "Bắc Lệ, Bắc Giang, Việt Nam",
+      "Kết quả": "Quân Pháp đại bại",
+      "Tham chiến bên 1": "Đại Nam\n  Đại Thanh",
+      "Tham chiến bên 2": " Pháp",
+      "Chỉ huy bên 1": "Lã Xuân Oai\n Nguyễn Thiện Thuật\n Tạ Hiện\n Phạm Huy Quang\n  Phan Đỉnh Tân\n Sầm Dục Anh\n Vương Đức Bảng",
+      "Chỉ huy bên 2": " Charles-Théodore Millot\n  François Oscar de Négrier\n  Alphonse Dugenne",
+      "Lực lượng bên 1": "8.000 quân Thanh[cần dẫn nguồn]\n Số quân Việt: không rõ",
+      "Lực lượng bên 2": "450 lính Pháp, 350 dân phu Bắc Kỳ[cần dẫn nguồn].\n Số đại bác: không rõ.",
+      "Tổn thất bên 1": "Không rõ",
+      "Tổn thất bên 2": "Tử trận: 28, bị thương: 46, còn dân phu chết rất nhiều (theo Việt Nam sử lược). Thiệt hại vật chất: nhiều, nhưng không thống kê được."
+    },
+    "label": "Trận Bắc Lệ năm 1884"
+  },
+  {
+    "overview": "Trận Lạng Sơn (1885) hay Pháp đánh Lạng Sơn là tên gọi một chiến dịch gồm vài trận giao tranh lớn nhỏ giữa quân Pháp và quân Thanh, đã diễn ra từ đầu tháng 2 năm 1885 và kết thúc vào 1 tháng 4 cùng năm",
+    "claims": {
+      "tên khác": "Trận Lạng Sơn (1885)",
+      "Thời gian": "Đầu tháng 2 năm 1885 – 1 tháng 4 năm 1885",
+      "Địa điểm": "Lạng Sơn, Bắc Kỳ, Việt Nam",
+      "Kết quả": "Quân Pháp đại bại",
+      "Tham chiến bên 1": " Nhà Thanh",
+      "Tham chiến bên 2": " Pháp",
+      "Chỉ huy bên 1": "Chỉ huy chính:\n  Phan Đỉnh Tân (潘鼎新)\n  Phùng Tử Tài (馮子才)\n  Vương Đức Bảng (王德榜)",
+      "Chỉ huy bên 2": "Chỉ huy chính:\n  Thiếu tướng Brière de l\u0027Isle\n  Chuẩn tướng De Négrier\n  Trung tá Herbinger",
+      "Lực lượng bên 1": "Số quân Thanh: 20 vạn",
+      "Lực lượng bên 2": "Số quân ban đầu khoảng 7.500, sau lên đến 35.000 (theo Việt Nam sử lược)",
+      "Tổn thất bên 1": "Không rõ",
+      "Tổn thất bên 2": "Xem bài"
+    },
+    "label": "Trận Lạng Sơn năm 1885"
+  },
+  {
+    "overview": "Trận kinh thành Huế năm 1885 là một sự kiện chính trị, một trận tập kích của quân triều đình nhà Nguyễn do Tôn Thất Thuyết chỉ huy đánh vào lực lượng Pháp",
+    "claims": {
+      "tên khác": "Trận Kinh thành Huế 1885",
+      "Thời gian": "4 tháng 7 - 5 tháng 7 năm 1885",
+      "Địa điểm": "Huế, Việt Nam",
+      "Kết quả": "Quân đội Pháp chiến thắng",
+      "Tham chiến bên 1": "[[[Nhà Nguyễn]]",
+      "Tham chiến bên 2": "Quân đội Pháp",
+      "Chỉ huy bên 1": "Vua Hàm Nghi\n Tôn Thất Thuyết\n Trần Xuân Soạn\n Tôn Thất Liệt",
+      "Chỉ huy bên 2": "De Courcy",
+      "Lực lượng bên 1": "12.000-20.000 quân\n 1.100 khẩu pháo",
+      "Lực lượng bên 2": "1.400 quân\n 17 khẩu pháo",
+      "Tổn thất bên 1": "1.200-1.500 chết\n 812 khẩu pháo\n 16.000 súng trường\n Bị thương không rõ1 ",
+      "Tổn thất bên 2": "16 chết\n 80 bị thương2 "
+    },
+    "label": "Trận Kinh thành Huế năm 1885"
+  },
+  {
+    "overview": "Chiến dịch Việt Bắc Thu - Đông 1947, hay Chiến dịch Léa theo cách gọi của người Pháp, là một chiến dịch quân sự do quân đội Pháp thực hiện tại Việt Nam trong Chiến tranh Đông Dương",
+    "claims": {
+      "tên khác": "Chiến dịch Việt Bắc",
+      "Thời gian": "7 tháng 10 - 22 tháng 12 năm 1947",
+      "Địa điểm": "Bắc Việt Nam",
+      "Kết quả": "Pháp chiếm giữ một số khu vực biên giới nhưng thất bại về mặt chiến lược Việt Minh giành thắng lợi chiến lược",
+      "Tham chiến bên 1": "Liên hiệp Pháp",
+      "Tham chiến bên 2": "Việt Minh",
+      "Chỉ huy bên 1": " Jean-Etienne Valluy",
+      "Chỉ huy bên 2": " Võ Nguyên Giáp\n  Hoàng Văn Thái\n Trần Tử Bình\n Lê Thiết Hùng",
+      "Lực lượng bên 1": "15.0001 ",
+      "Lực lượng bên 2": "Khoảng 20.000",
+      "Tổn thất bên 1": "Theo Việt Minh: 6.000 chết và bị thương2 \n Theo Pháp: 700 chết, bị thương hoặc bị bắt",
+      "Tổn thất bên 2": "Theo Pháp: 10.000 chết và bị thương1 \n Theo Việt Minh: 260 chết, 168 bị thương 3 "
+    },
+    "label": "Chiến dịch Việt Bắc năm 1947"
+  },
+  {
+    "overview": "Chiến dịch Biên giới Thu đông 1950 còn gọi là Chiến dịch Lê Hồng Phong 2, là một chiến dịch trong Chiến tranh Đông Dương do quân đội Việt Minh thực hiện từ ngày 16 tháng 9 đến 17 tháng 10 năm 1950, nhằm phá thế bị cô lập của căn cứ địa Việt Bắc, khai thông biên giới Việt - Trung để mở đầu cầu tiếp nhận viện trợ",
+    "claims": {
+      "tên khác": "Chiến dịch Biên giới Thu đông 1950",
+      "Thời gian": "16 tháng 9 - 18 tháng 10 năm 1950",
+      "Địa điểm": "Việt Nam",
+      "Kết quả": "Thắng lợi chiến lược của Quân đội Nhân dân Việt Nam",
+      "Tham chiến bên 1": "Liên hiệp Pháp\n Quốc gia Việt Nam",
+      "Tham chiến bên 2": "Quân đội Nhân dân Việt Nam",
+      "Chỉ huy bên 1": " Marcel-Maurice Carpentier\n  Maurice Le Page\n  Pierre Charton\n  Pierre Jeanpierre",
+      "Chỉ huy bên 2": " Võ Nguyên Giáp (Chỉ huy trưởng Bộ chỉ huy chiến dịch)\n  Hoàng Văn Thái (Tham mưu trưởng chiến dịch)\n  Trần Đăng Ninh (Chủ nhiệm Tổng cục Cung cấp phụ trách hậu cần chiến dịch)\n  Vương Thừa Vũ\n  Lê Quảng Ba\n  Đặng Văn Việt",
+      "Lực lượng bên 1": "12.000 lính Pháp và Quốc gia Việt Nam (thuộc Pháp)",
+      "Lực lượng bên 2": "Khoảng 30.000",
+      "Tổn thất bên 1": "Pháp: 4.800 chết hoặc bị thương\n 2.000 mất tích hoặc bị bắt\n Quốc gia Việt Nam: Hơn 1.000 chết hoặc bị thương, hơn 500 bị bắt",
+      "Tổn thất bên 2": "Khoảng 1.000 chết\n 1.550 bị thương"
+    },
+    "label": "Chiến dịch Biên giới năm 1950"
+  },
+  {
+    "overview": "Chiến dịch Trần Hưng Đạo hay Chiến dịch Trung du là một trong những cuộc tiến công lớn của Quân đội nhân dân Việt Nam vào phòng tuyến trung du Bắc Bộ của quân Liên hiệp Pháp",
+    "claims": {
+      "tên khác": "Chiến dịch Trần Hưng Đạo",
+      "Thời gian": "25 tháng 12 năm 1950 – 17 tháng 1 năm 1951",
+      "Địa điểm": "Tuyến trung du Bắc Bộ từ Việt Trì tới Bắc Giang, Đông Bắc Việt Nam, Liên khu III",
+      "Kết quả": "Việt Minh phá được vòng vây ở Vĩnh Yên",
+      "Tham chiến bên 1": " Liên hiệp Pháp\n  Trung Hoa dân quốc1 ",
+      "Tham chiến bên 2": " Quân đội nhân dân Việt Nam\n (Việt Nam Dân chủ Cộng hòa)",
+      "Chỉ huy bên 1": " De Lattre\n  Boyer de Latour\n  Raoul Salan\n  Maurice Redon\n  Paul Vanuxem\n  Alain de Maricourt",
+      "Chỉ huy bên 2": " Võ Nguyên Giáp\n  Nguyễn Chí Thanh\n  Chu Văn Tấn\n  Trần Hữu Dực\n  Đào Văn Trường\n  Hoàng Văn Thái",
+      "Lực lượng bên 1": "14.806\n (2 binh đoàn cơ động và nhiều đơn vị khác)",
+      "Lực lượng bên 2": "27.638\n (gồm 2 đại đoàn, 2 trung đoàn, 4 tiểu đoàn và nhiều đơn vị binh chủng, quân y)",
+      "Tổn thất bên 1": "Theo Việt Nam:\n Chiến trường chính:\n 2.565 chết và bị thương\n 1.577 bị bắt\n Toàn chiến trường:\n ~5.000 thương vong\n ~2.000 bị bắt\n \n Theo Pháp:\n Chiến trường chính:\n 43 chết\n 545 bị bắt hoặc mất tích\n 160 bị thương",
+      "Tổn thất bên 2": "Theo Việt Nam:\n Chiến trường chính:\n 675 chết\n 1.730 bị thương\n 80 mất tích\n Toàn mặt trận:\n 2.931 thương vong\n (trong đó 815 chết)"
+    },
+    "label": "Chiến dịch Trần Hưng Đạo năm 1950 - 1951"
+  },
+  {
+    "overview": "Chiến dịch Hoàng Hoa Thám là một trong những cuộc tiến công lớn của Quân đội nhân dân Việt Nam vào khu vực Hải Phòng thuộc đồng bằng Bắc Bộ do quân Liên hiệp Pháp kiểm soát",
+    "claims": {
+      "tên khác": "Chiến dịch Hoàng Hoa Thám",
+      "Thời gian": "23 tháng 3 năm 1951 – 5 tháng 4 năm 1952",
+      "Địa điểm": "Đường 18 đoạn từ Phả lại đến Uông Bí, Mạo Khê",
+      "Kết quả": "Việt Minh giành chiến thắng1",
+      "Tham chiến bên 1": " Liên hiệp Pháp\n Quốc gia Việt Nam",
+      "Tham chiến bên 2": " Quân đội nhân dân Việt Nam",
+      "Chỉ huy bên 1": " De Lattre de Tassigny\n  Raoul Salan",
+      "Chỉ huy bên 2": " Võ Nguyên Giáp\n  Vương Thừa Vũ\n  Lê Trọng Tấn",
+      "Lực lượng bên 1": "Binh đoàn cơ động số 7 của Pháp cùng quân đồn trú của Quốc gia Việt Nam, tổng cộng 11 tiểu đoàn.",
+      "Lực lượng bên 2": "2 đại đoàn và 2 trung đoàn bộ binh, bộ đội địa phương",
+      "Tổn thất bên 1": "Theo Việt Nam: 2.900 thương vong (bao gồm 580 bị bắt, 39 ra hàng)2 \n Thu 413 súng các loại, phá huỷ 49 xe quân sự",
+      "Tổn thất bên 2": "2.262 thương vong (495 chết, bị thương 1.673, mất tích 94)2 "
+    },
+    "label": "Chiến dịch Hoàng Hoa Thám năm 1950 - 1951"
+  },
+  {
+    "overview": "Chiến dịch Hà Nam Ninh (còn gọi là chiến dịch Quang Trung) tiến hành từ 28-5 đến 20-6-1951, do Bộ Tổng tư lệnh Quân đội Nhân dân Việt Nam trực tiếp chỉ huy, nhằm phá vỡ phòng tuyến sông Đáy của thực dân Pháp ở mặt trận Hà Nam Ninh thuộc địa bàn 3 tỉnh Hà Nam, Nam Định, Ninh Bình ngày nay",
+    "claims": {
+      "tên khác": "Chiến dịch Hà Nam Ninh (Chiến dịch Quang Trung)",
+      "Thời gian": "28 tháng 5 năm 1951 – 20 tháng 6 năm 1951",
+      "Địa điểm": "Hà Nam, Nam Định, Ninh Bình (Việt Nam)",
+      "Kết quả": "Việt Minh chiến thắng1",
+      "Tham chiến bên 1": " Liên hiệp Pháp\n Quốc gia Việt Nam\n Tự vệ Công giáo",
+      "Tham chiến bên 2": " Quân đội nhân dân Việt Nam",
+      "Chỉ huy bên 1": " De Lattre\n  De Linarès\n Hoàng Quỳnh",
+      "Chỉ huy bên 2": " Võ Nguyên Giáp\n  Hoàng Văn Thái\n  Lê Thanh Nghị\n  Văn Tiến Dũng\n  Hoàng Sâm\n  Nguyễn Chí Thanh",
+      "Lực lượng bên 1": "2 binh đoàn cơ động, 1 hải đoàn xung kích cùng nhiều đơn vị khác",
+      "Lực lượng bên 2": "3 đại đoàn, cùng nhiều đơn vị binh chủng và địa phương",
+      "Tổn thất bên 1": "Theo QĐNDVN: khoảng 4.050 chết và bị thương, bị bắt (có 40 phần trăm Âu - Phi của GM1, GM4)",
+      "Tổn thất bên 2": "546 chết, 1.700 bị thương, 280 mất tích2 "
+    },
+    "label": "Chiến dịch Hà Nam Ninh năm 1951"
+  },
+  {
+    "overview": "Chiến dịch Hòa Bình (10 tháng 12 năm 1951 - 25 tháng 2 năm 1952) là chiến dịch tiến công của Quân đội Nhân dân Việt Nam (Việt Minh) ở khu vực tại thị xã Hoà Bình-Sông Đà-Đường 6 (cách Hà Nội khoảng 40 – 60 km về phía tây) nhằm diệt sinh lực địch, đánh bại kế hoạch chiếm đóng Hoà Bình của Pháp, phá phòng tuyến Sông Đà (hướng chủ yếu) và tạo điều kiện phát triển chiến tranh du kích ở đồng bằng Bắc Bộ (hướng phối hợp)",
+    "claims": {
+      "tên khác": "Chiến dịch Hòa Bình",
+      "Thời gian": "10 tháng 11 năm 1951 - 25 tháng 2 năm 1952",
+      "Địa điểm": "Hòa Bình, Việt Nam",
+      "Kết quả": "Quân đội Nhân dân Việt Nam giành thắng lợi chiến lược",
+      "Tham chiến bên 1": [
+        "Pháp",
+        "Quốc gia Việt Nam"
+      ],
+      "Tham chiến bên 2": "Việt Minh",
+      "Chỉ huy bên 1": " Jean de Lattre de Tassigny\n  Raoul Salan",
+      "Chỉ huy bên 2": " Võ Nguyên Giáp\n  Hoàng Văn Thái\n  Nguyễn Chí Thanh",
+      "Lực lượng bên 1": "Tại Hòa Bình:6 binh đoàn cơ động, khoảng 20.000 quân (chưa kể quân Quốc gia Việt Nam)\n Mặt trận đồng bằng sông Hồng: Khoảng 100 ngàn quân",
+      "Lực lượng bên 2": "Tại Hòa Bình:3 đại đoàn bộ binh, 1 đại đoàn pháo binh (khoảng 30.000 quân)\n Mặt trận đồng bằng sông Hồng: Khoảng 20 ngàn quân chủ lực và hàng chục ngàn dân quân du kích",
+      "Tổn thất bên 1": "Theo Pháp: 436 chết, 458 mất tích, 2.060 bị thương (chỉ tính riêng ở khu vực Hòa Bình)\n Quốc gia Việt Nam): Không rõ thương vong.\n *Theo Việt Minh: 14.030 chết hoặc bị thương, 7.219 bị bắt (tính chung toàn mặt trận).",
+      "Tổn thất bên 2": "2.692 chết, 8.501 bị thương hoặc bị bắt.1 "
+    },
+    "label": "Chiến dịch Hòa Bình năm 1952"
+  },
+  {
+    "overview": "Chiến dịch Tây Bắc (từ 14 tháng 10 đến 10 tháng 12 năm 1952) là chiến dịch tiến công của Quân đội Nhân dân Việt Nam (QĐNDVN) trên hướng Tây Bắc Việt Nam nhằm tiêu diệt sinh lực đối phương, giải phóng một bộ phận đất đai, làm thất bại ý đồ của thực dân Pháp lập \"Xứ Thái tự trị\"",
+    "claims": {
+      "tên khác": "Chiến dịch Tây Bắc",
+      "Thời gian": "14 tháng 10 - 10 tháng 12 năm 1952.",
+      "Địa điểm": "Đông Dương thuộc Pháp, phần lớn tại Việt Nam",
+      "Kết quả": "Quân đội Nhân dân Việt Nam chiến thắng, giải phóng một vùng rộng lớn ở địa bàn chiến lược quan trọng",
+      "Tham chiến bên 1": [
+        "Pháp Quân đoàn Viễn Đông Pháp",
+        "Quân đoàn Viễn Đông Pháp",
+        "Liên bang Đông Dương",
+        "Quốc gia Việt Nam"
+      ],
+      "Chỉ huy bên 1": " Raoul Salan",
+      "Chỉ huy bên 2": "Võ Nguyên Giáp\n Hoàng Văn Thái",
+      "Tổn thất bên 1": "Hướng Tây Bắc: 4 tiểu đoàn và 28 đại đội, tổng cộng 1.005 chết hoặc bị thương, 5.024 bị bắt\n Hướng Phú Thọ: 1.711 chết hoặc bị thương, 173 bị bắt",
+      "Tổn thất bên 2": "Khoảng 600 chết"
+    },
+    "label": "Chiến dịch Tây Bắc năm 1952"
+  },
+  {
+    "overview": "Chiến dịch Thượng Lào (13",
+    "claims": {
+      "tên khác": "Chiến dịch Thượng Lào",
+      "Thời gian": "13 tháng 4 - 18 tháng 5 năm 1953.",
+      "Địa điểm": "Lào",
+      "Kết quả": "Quân đội Nhân dân Việt Nam và Quân Giải phóng Nhân dân Lào chiến thắng",
+      "Thay đổi lãnh thổ": "Chính phủ Kháng chiến Lào kiểm soát Sầm Nưa và Xiêng Khoảng",
+      "Tham chiến bên 1": [
+        "Vương quốc Lào"
+      ],
+      "Chỉ huy bên 1": " Raoul Salan",
+      "Chỉ huy bên 2": " Võ Nguyên Giáp\n  Hoàng Văn Thái\n Souphanouvong\n Kaysone Phomvihane\n Phoumi Vongvichit",
+      "Tổn thất bên 1": "2.800 bị loại khỏi vòng chiến",
+      "Tổn thất bên 2": "Không rõ"
+    },
+    "label": "Chiến dịch Thượng Lào năm 1953"
+  },
+  {
+    "overview": "",
+    "claims": {
+      "tên khác": "Chiến dịch Điện Biên Phủ",
+      "Thời gian": "13 tháng 3 – 7 tháng 5 năm 1954",
+      "Địa điểm": "Thung lũng Mường Thanh, Điện Biên Phủ",
+      "Kết quả": "Thắng lợi quyết định của Việt Nam Dân chủ Cộng hòa1 Hiệp định Genève được ký kết, Pháp trao trả độc lập cho 3 nước Đông Dương.",
+      "Tham chiến bên 1": [
+        "Pháp.",
+        "Quốc gia Việt Nam."
+      ],
+      "Tham chiến bên 2": "Việt Nam Dân chủ Cộng hòa\nQuân đội Nhân dân Việt Nam\n Đảng Lao động Việt Nam\n Hỗ trợ\n Cố vấn Trung Quốc",
+      "Chỉ huy bên 1": " Christian de Castries \n  André Trancart  \n  Jules Gaucher  †\n  Pierre Langlais  \n  André Lalande  \n  Charles Piroth  †",
+      "Chỉ huy bên 2": " Võ Nguyên Giáp\n  Hoàng Văn Thái\n  Lê Liêm\n  Đặng Kim Giang\n  Lê Trọng Tấn\n  Chu Huy Mân\n  Vương Thừa Vũ\n  Hoàng Minh Thảo\n  Lê Quảng Ba\n  Song Hào",
+      "Lực lượng bên 1": "16 tiểu đoàn bộ binh, 7 đại đội bộ binh, pháo binh, 1 đại đội xe tăng, 1 phi đội máy bay\n Quân số ban đầu là 10.814 người, sau được tăng viện 4.291 người. Tại thời kỳ cao điểm lên tới khoảng 16.200 người\n 3.000 PIM (culi) vận tải hậu cần, 30.000 quân nhân kỹ thuật (vận hành không quân Pháp)\n Khoảng 420 máy bay yểm trợ, thả 4.000 tấn hàng và 5.000 tấn bom.\n Pháo binh bắn yểm trợ hơn 110.000 viên đạn pháo\n 10 xe tăng\n  37 phi công Mỹ",
+      "Lực lượng bên 2": "10 trung đoàn bộ binh, 1 đại đoàn công binh và pháo binh.\n Lúc đầu có 55.000, sau tăng viện thêm khoảng 4.000 người.\n 230.000 dân công vận tải hậu cần.\n Pháo binh bắn yểm trợ 20.700 viên đạn pháo.",
+      "Tổn thất bên 1": "1.747 đến 2.293 tử trận,\n 1.729 mất tích,\n 5.240 đến 6.650 bị thương,\n 11.721 bị bắt2 Hoa Kỳ: 2 phi công thiệt mạng\n Tổng cộng: ~18.000 thương vong\n 10 xe tăng, hàng trăm xe vận tải bị phá hủy hoặc bị thu giữ\n 62 máy bay bị bắn rơi, 186 máy bay bị hư hại",
+      "Tổn thất bên 2": "4.020 tử trận,\n 9.118 bị thương,\n 792 mất tích3 \n Tổng cộng: ~14.000 thương vong4 5 "
+    },
+    "label": "Chiến dịch Điện Biên Phủ năm 1954"
+  },
+  {
+    "overview": "Chiến dịch Hoàng Diệu (1955) là chiến dịch của Quân đội Quốc gia Việt Nam, theo lệnh của Thủ tướng Ngô Đình Diệm, diễn ra từ ngày 21 tháng 9 năm 1955 và kết thúc ngày 24 tháng 10 năm 1955 nhằm mục đích truy kích và tiêu diệt tàn quân Bình Xuyên",
+    "claims": {},
+    "label": "Chiến dịch Hoàng Diệu năm 1955"
+  },
+  {
+    "overview": "",
+    "claims": {
+      "tên khác": "Trận Ấp Bắc",
+      "Thời gian": "2 tháng 1 năm 1963",
+      "Địa điểm": "10°36′32″B 106°3′1″Đ / 10,60889°B 106,05028°Đ / 10.60889; 106.05028Tọa độ: 10°36′32″B 106°3′1″Đ / 10,60889°B 106,05028°Đ / 10.60889; 106.05028 Ấp Bắc, Việt Nam Cộng hòa UTM Grid XS 29-551",
+      "Kết quả": "Quân Giải phóng chiến thắng",
+      "Tham chiến bên 1": "Mặt trận dân tộc giải phóng miền Nam Việt Nam",
+      "Tham chiến bên 2": "Việt Nam Cộng hòa\n Hoa Kỳ",
+      "Chỉ huy bên 1": "Hai Hoàng",
+      "Chỉ huy bên 2": "Bùi Đình Đàm\n Huỳnh Văn Cao\n John Paul Vann",
+      "Lực lượng bên 1": "350",
+      "Lực lượng bên 2": "1.400",
+      "Tổn thất bên 1": "18 chết\n 39 bị thương",
+      "Tổn thất bên 2": "86 chết\n 108 bị thương\n 5 trực thăng, 3 xe thiết giáp bị hạ[cần dẫn nguồn]"
+    },
+    "label": "Trận Ấp Bắc năm 1963"
+  },
+  {
+    "overview": "Tại Ia Đrăng: Tiểu đoàn 7 và 9/Trung đoàn 66 và Tiểu đoàn 1/Trung đoàn 33 (khoảng 1",
+    "claims": {
+      "tên khác": "Trận Ia Đrăng",
+      "Thời gian": "14 tháng 11-18 tháng 11 năm 1965",
+      "Địa điểm": "13°35′B 107°43′Đ / 13,583°B 107,717°Đ / 13.583; 107.717 (Battle of la Drang)Tọa độ: 13°35′B 107°43′Đ / 13,583°B 107,717°Đ / 13.583; 107.717 (Battle of la Drang) Rặng núi Chu Prông,1 , Việt Nam",
+      "Kết quả": "Quân Giải phóng miền Nam Việt Nam chiến thắng2 3 4",
+      "Tham chiến bên 1": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+      "Tham chiến bên 2": " Hoa Kỳ\n Hỗ trợ bởi:\n  Việt Nam Cộng hòa5 ",
+      "Chỉ huy bên 1": "Chu Huy Mân (Tư lệnh Mặt Trận B3 của Quân Giải phóng)\n  Nguyễn Hữu An (B3 Tiền Phương)\n Vũ Sắc(Trung đoàn 33)6 \n Lê Tiến Hòa (Trung đoàn 66)\n Phạm Công Cửu (Phó 66) †\n Lã Ngọc Châu (Chính ủy 66)\n Lê Xuân Phối(8/66)\n Nguyễn Văn Định(9/66)\n Không rõ tên (H-409)",
+      "Chỉ huy bên 2": " Stanley Larsen (IFFV HQ)7 \n  Harry Kinnard (1ACD HQ)8 \n  Richard Knowles (1ÀCD CP) 9 \n  Thomas W. Brown8 (3rd AC Brigade)\n  Ray Lynch (2nd AC Brigade)10 \n  Harold G. Moore (1/7)\n  Robert McDade (2/7)\n  Walter B. Tully (2/5)",
+      "Lực lượng bên 1": "Toàn chiến dịch: 3 trung đoàn bộ binh (khoảng 6.600 bộ binh)11 , 1 tiểu đoàn pháo binh, 1 tiểu đoàn đặc công.\nTại Ia Đrăng: Tiểu đoàn 7 và 9/Trung đoàn 66 và Tiểu đoàn 1/Trung đoàn 33 (khoảng 1.500 bộ binh)",
+      "Lực lượng bên 2": "Toàn chiến dịch: Lữ đoàn 3 Không Kỵ Hoa Kỳ, 2 chiến đoàn biệt động quân, 2 chiến đoàn Dù, Chiến đoàn 3 thiết giáp VNCH (khoảng 8.000 bộ binh)\nTại Ia Đrăng: 3 tiểu đoàn Không Kỵ (Hơn 1.400 quân)\n 2 tiểu đoàn pháo binh yểm trợ (khoảng 1.000 quân với 24 khẩu pháo), bắn 6.000 đạn pháo/ngày\n Hơn 100 trực thăng\n Không quân ném bom yểm trợ (xuất kích 740 phi vụ ném bom và 96 loạt B-52 rải thảm, tổng cộng đã ném 5.048 tấn bom",
+      "Tổn thất bên 1": "Tại Ia Đrăng:\n Theo QGP: 208 chết, 146 bị thương 12 \n Tính chung cho chiến dịch Ia Drang (không chỉ cho các trận đánh này):\nTheo QGP: 554 chết và 669 bị thương 13 \n Theo Hoa Kỳ: 1.519 chết theo cách đếm số xác người [1]",
+      "Tổn thất bên 2": "Tại Ia Đrăng: 234 chết, 245 bị thương (79 chết, 121 bị thương ở Bãi đáp X-ray và 155 chết, 124 bị thương ở Bãi đáp Albany)\nTính chung cho chiến dịch Ia Đrăng (không chỉ cho các trận đánh này):\n Theo Hoa Kỳ: 305 chết [2]\n 524 bị thương [3]14 .\n 4 trực thăng bị bắn rơi, 55 trực thăng bị bắn hỏng\n Không rõ thương vong của quân VNCH\n Theo QGP: 2.974 chết và bị thương (có khoảng 1.700 lính Mỹ). Phá huỷ 88 xe quân sự (có 42 xe tăng và xe bọc thép), 5 khẩu pháo 105mm, bắn rơi 59 máy bay.13 "
+    },
+    "label": "Trận Ia Đrăng năm 1965"
+  },
+  {
+    "overview": "Trận Ba Gia diễn ra từ ngày 29 tháng 5 đến 31 tháng 5 năm 1965 trên địa bàn thị trấn Ba Gia, huyện Sơn Tịnh, tỉnh Quảng Ngãi, là trận đánh góp phần đẩy nhanh sự phá sản của chiến lược Chiến tranh đặc biệt trong Chiến tranh Việt Nam",
+    "claims": {
+      "tên khác": "Trận Ba Gia",
+      "Thời gian": "29 tháng 5 - 31 tháng 5 năm 1965",
+      "Địa điểm": "Ba Gia, Quảng Ngãi, Nam Việt Nam",
+      "Kết quả": "Quân Giải phóng thắng",
+      "Tham chiến bên 1": "Việt Nam Cộng hòa\n  Hoa Kỳ",
+      "Tham chiến bên 2": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+      "Chỉ huy bên 1": "Nguyễn Chánh Thi",
+      "Chỉ huy bên 2": "Chu Huy Mân",
+      "Lực lượng bên 1": "2.500",
+      "Lực lượng bên 2": "2.000",
+      "Tổn thất bên 1": "Theo MTDTGPMNVN:\n 915 chết và bị thương\n 270 bị bắt.",
+      "Tổn thất bên 2": "Theo VNCH: 556 chết1 "
+    },
+    "label": "Chiến dịch Ba Gia năm 1965"
+  },
+  {
+    "overview": "",
+    "claims": {
+      "tên khác": "Trận Bình Giã",
+      "Thời gian": "28 tháng 12 năm 1964- 1 tháng 1 năm 1965",
+      "Địa điểm": "Bình Giã, miền Nam Việt Nam UTM Grid YS 50-781",
+      "Kết quả": "Thắng lợi của Quân giải phóng miền Nam",
+      "Tham chiến bên 1": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam\nViệt Nam Dân chủ Cộng hòa-hỗ trợ về hậu cần-kỹ thuật",
+      "Tham chiến bên 2": "Việt Nam Cộng hòa\n Hoa Kỳ",
+      "Chỉ huy bên 1": " Lê Trọng Tấn\n Dương Văn Nhứt\n  Trần Đình Xu",
+      "Chỉ huy bên 2": "Đại úy Franklin P. Eller (cố vấn cao cấp)",
+      "Lực lượng bên 1": "Ước tính 1.8002 ",
+      "Lực lượng bên 2": "4.3002 ",
+      "Tổn thất bên 1": "Tranh cãi\n ít nhất 32 chết2 ",
+      "Tổn thất bên 2": "201 chết (5 Mỹ)\n 192 bị thương (8 Mỹ)\n 68 mất tích (3 Mỹ).2 "
+    },
+    "label": "Trận Bình Giã năm 1964"
+  },
+  {
+    "overview": "",
+    "claims": {
+      "tên khác": "Trận Đồng Xoài",
+      "Thời gian": "10 tháng 6-11 tháng 6 năm 1965",
+      "Địa điểm": "Đồng Xoài, Nam Việt Nam UTM Grid YT 0764-75971",
+      "Kết quả": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam giành chiến thắng",
+      "Tham chiến bên 1": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+      "Tham chiến bên 2": "Bộ chỉ huy Viện trợ Quân sự Mỹ tại Việt Nam\n Quân lực Việt Nam Cộng hòa",
+      "Chỉ huy bên 1": "Lê Trọng Tấn",
+      "Chỉ huy bên 2": "Cao Văn Viên,\n Charles W. Williams",
+      "Lực lượng bên 1": "1500",
+      "Lực lượng bên 2": "2000\n Không quân và pháo binh yểm trợ",
+      "Tổn thất bên 1": "Hoa Kỳ báo cáo tìm thấy 126 thi thể",
+      "Tổn thất bên 2": "Quân đội Việt Nam Cộng hòa: 416 chết, 174 bị thương, 233 mất tích\n Mỹ: 20 chết và bị thương, 13 mất tích"
+    },
+    "label": "Trận Đồng Xoài năm 1965"
+  },
+  {
+    "overview": "",
+    "claims": {
+      "tên khác": "Trận Long Tân",
+      "Thời gian": "18 tháng 8-19, 1966",
+      "Địa điểm": "Long Tân, Phước Tuy Vietnam",
+      "Kết quả": "Quân đội Úc thắng về chiến thuật, Quân Giải phóng miền Nam Việt Nam bảo vệ được các căn cứ ở Long Tân",
+      "Tham chiến bên 1": "Úc,\n New Zealand,\n Hoa Kỳ",
+      "Tham chiến bên 2": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+      "Chỉ huy bên 1": "Harry Smith",
+      "Chỉ huy bên 2": "Nguyễn Thanh Hồng,\n Trần Minh Tâm (tỉnh đội Bà Rịa-Vũng Tàu),\n Đặng Hữu Thuấn (tỉnh đội Bà Rịa-Vũng Tàu)",
+      "Lực lượng bên 1": "Nguồn Úc: 108 lính\n Pháo binh từ căn cứ Núi Đất yểm trợ, gồm 18 khẩu L-5 (105mm) và 6 khẩu M-109 (155mm)\n 10 xe thiết giáp M-113 (bao gồm 130 lính bên trong)\n 2 trực thăng Bell UH-1 Iroquois, 1 trực thăng Bell H-13 Sioux\n 3 máy bay ném bom F-4 Phantom1 Nguồn Việt Nam:: 3 đại đội, pháo binh từ căn cứ Núi Đất, pháo hạm, trực thăng và xe thiết giáp yểm trợ",
+      "Lực lượng bên 2": "Nguồn Việt Nam: 700 lính2 \n Nguồn Úc: 1.500 lính3 4 Trang bị một số súng cối và DKZ",
+      "Tổn thất bên 1": "Úc tuyên bố:18 chết\n 24 bị thương\n 2 xe thiết giáp bị phá hủy Nguồn Việt Nam: gần 500 thương vong, 2 xe tăng-thiết giáp bị phá hủy5 ",
+      "Tổn thất bên 2": "Nguồn Việt Nam: Khoảng 50 chết, 100 bị thương6 Úc tuyên bố: 245 chết, 3 bị bắt7 "
+    },
+    "label": "Trận Long Tân năm 1966"
+  },
+  {
+    "overview": "Theo Quân Giải phóng miền Nam Việt Nam: 4",
+    "claims": {
+      "tên khác": "Chiến dịch Đắk Tô-Tân Cảnh",
+      "Thời gian": "3 – 22 tháng 11 năm 1967",
+      "Địa điểm": "Đắk Tô, tỉnh Kon Tum, Nam Việt Nam",
+      "Kết quả": "Quân Giải phóng miền Nam Việt Nam giành chiến thắng cả về chiến lược lẫn chiến thuật",
+      "Tham chiến bên 1": " Hoa Kỳ\n  Việt Nam Cộng hòa",
+      "Tham chiến bên 2": " Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+      "Chỉ huy bên 1": " William R. Peers",
+      "Chỉ huy bên 2": " Hoàng Minh Thảo (Tư lệnh)\n  Trần Thế Môn (Chính ủy)\n  Cao Văn Khánh (Phó Tư lệnh)\n  Bùi Nam Hà (Tham mưu trưởng)\n  Đặng Vũ Hiệp (Chủ nhiệm Chính trị)",
+      "Lực lượng bên 1": "16.000 quân\n Pháo binh bắn yểm trợ 151.900 viên đạn pháo\n 2.101 phi vụ trực thăng chiến đấu hoặc vận tải\n Không quân hỗ trợ 2.096 phi vụ ném bom, 257 phi vụ B-52, ném tổng cộng hơn 10.000 tấn bom",
+      "Lực lượng bên 2": "~6.000 quân\n Một số đại đội súng cối hỗ trợ.",
+      "Tổn thất bên 1": "Hoa Kỳ:\n 361 chết, 15 mất tích\n 1.441 bị thương1 \n VNCH:\n 73 chết, 18 mất tích, hàng trăm bị thương\n Tổn thất về trang bị: 40 máy bay trực thăng, 2 máy bay vận tải, 1 máy bay F4 Phantom bị phá hủy2 3 \n 32 xe quân sự, 15 khẩu pháo bị phá hủy4 Theo Quân Giải phóng miền Nam Việt Nam: 4.570 chết hoặc bị thương (có 4.030 lính Mỹ), phá hủy 70 máy bay, phá hỏng 3 san bay, 52 xe quân sự (gồm 16 tăng-thiết giáp), 18 pháo và súng cối, 2 kho đạn, 3 kho xăng; thu 104 súng các loại và 17 vô tuyến điện5 ",
+      "Tổn thất bên 2": "Không rõ\n (Hoa Kỳ tuyên bố có 1.000–1.664 quân Giải phóng chết,6 ~1.000–2.000 bị thương, nhưng con số này là phóng đại vì thực tế lính Mỹ chỉ thu giữ được 94 vũ khí cộng đồng và 275 vũ khí cá nhân trong suốt chiến dịch7 )"
+    },
+    "label": "Chiến dịch Đắk Tô - Tân Cảnh năm 1967"
+  },
+  {
+    "overview": "Trận Ông Thành là một trận đánh trong Chiến tranh Việt Nam, diễn ra vào ngày 17 tháng 10 năm 1967 tại khu vực Suối Ông Thành, thuộc huyện Chơn Thành, tỉnh Bình Dương (cách Sài Gòn 60 km về phía tây bắc)",
+    "claims": {
+      "tên khác": "Trận Ông Thành",
+      "Thời gian": "17 tháng 10 năm 1967",
+      "Địa điểm": "Suối Ông Thành, Chơn Thành, Bình Dương, Nam Việt Nam",
+      "Kết quả": "Mặt trận Dân tộc Giải phóng miền Nam thắng",
+      "Tham chiến bên 1": " Hoa Kỳ",
+      "Tham chiến bên 2": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+      "Chỉ huy bên 1": "Terry de la Mesa Allen, Jr. †",
+      "Chỉ huy bên 2": "Võ Minh Triết",
+      "Thành phần tham chiến bên 1": [
+        "Tiểu đoàn 2/Trung đoàn 28/Sư đoàn 1 Bộ binh"
+      ],
+      "Lực lượng bên 1": "142–1551 ",
+      "Lực lượng bên 2": "~600-1,4001 ",
+      "Tổn thất bên 1": "64 chết,\n 2 mất tích,\n 75 bị thương.2 ",
+      "Tổn thất bên 2": "Không rõ (Hoa Kỳ tuyên bố có 103 chết, nhưng không thể kiểm chứng)3 "
+    },
+    "label": "Trận Ông Thành năm 1967"
+  },
+  {
+    "overview": "",
+    "claims": {
+      "tên khác": "Chiến dịch Đường 9 - Khe Sanh",
+      "Thời gian": "Theo Hoa Kỳ: 21 tháng 1 năm 1968 – 8 tháng 4 năm 1968 Theo Việt Nam: 21 tháng 1 năm 1968 – 15 tháng 7 năm 1968",
+      "Địa điểm": "Khe Sanh, Quảng Trị - UTM Grid XD 852-4181",
+      "Kết quả": [
+        "Quân Mỹ rút khỏi Khe Sanh, Quân Giải phóng miền Nam Việt Nam chiếm Khe Sanh từ giữa tháng 7.",
+        "Trung tâm chỉ huy Hàng rào điện tử McNamara bị phá hủy. Chiến lược cắt Đường mòn Hồ Chí Minh của Hoa Kỳ thất bại. Đường mòn Hồ Chí Minh được mở rộng về phía Đông.",
+        "Hoa Kỳ thất bại trong mục tiêu \"giữ Khe Sanh bằng mọi giá\" mà Tổng thống Johnson từng tuyên bố.5"
+      ],
+      "Tham chiến bên 1": "Hoa Kỳ\n Việt Nam Cộng hòa\n  Vương quốc Lào",
+      "Tham chiến bên 2": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam\n Pathet Lào",
+      "Chỉ huy bên 1": "Đại tướng William C. Westmoreland (toàn chiến trường)\n Đại tá David E. Lownds (tại chỗ)",
+      "Chỉ huy bên 2": "Đại tướng Võ Nguyên Giáp (toàn chiến trường)\n Thiếu tướng Trần Quý Hai (tại chỗ)\n Thiếu tướng Lê Quang Đạo (tại chỗ)\n Đại tá Cao Văn Khánh",
+      "Lực lượng bên 1": "~45.000 (sau tăng lên 69.000) trên toàn tuyến, trong đó 6.680 đóng tại Khe Sanh6 Chiến dịch Pegasus: ~20.000 (Sư đoàn 1 Không Kỵ, 2 trung đoàn TQLC Mỹ và 1 trung đoàn biệt kích Dù VNCH)\n Chiến dịch Niagara và Chiến dịch Arc Light: Không quân chiến thuật và chiến lược Hoa Kỳ (khoảng 2.000 máy bay và 3.300 trực thăng), ném hơn 114.810 tấn bom (chỉ tính tới tháng 4, chưa kể lượng bom ném sau đó).\n Hàng trăm xe tăng, xe thiết giáp\n Pháo binh bắn chi viện 159.000 viên đạn pháo7 ",
+      "Lực lượng bên 2": "~40.000 trên toàn tuyến, trong đó 17.000 lính Quân Giải phóng miền Nam Việt Nam bao vây Khe Sanh (Sư đoàn 304 và sư đoàn 325), 17.000 quân phòng ngự Đường 9 (Sư đoàn 320 và sư đoàn 324) thuộc lQuân Giải phóng miền Nam Việt Nam8 \n 14 xe tăng hạng nhẹ PT-76\n Pháo binh bắn chi viện 10.900 viên đạn pháo.",
+      "Tổn thất bên 1": "Tại Khe Sanh:\n  Mỹ: 274 chết, 2.541 bị thương (chưa kể thương vong của Biệt động quân VNCH, Sở chỉ huy tiền phương FOB-3 của Lục quân Mỹ và Quân đội Hoàng gia Lào)9 \nChiến dịch Scotland I và chiến dịch Pegasus:\n  Mỹ: 730 chết, 2.642 bị thương, 7 mất tích, 3 bị bắt\n  VNCH:\n 229 chết, 436 bị thương\n Dân vệ (CIDG): 1.000 - 1.500 chết, 250 bị bắt, hàng nghìn bị thương10 \n Chiến dịch Scotland II và Chiến dịch Charlie (Từ 15 tháng 4 đến 15 tháng 7):\n Gần 3.000 thương vong11 Tổng cộng:\n Từ 20 tháng 1 đến 14 tháng 4:\n Trên 9.000 thương vong (khoảng 2.500 chết, 6.500 bị thương, 7 mất tích, 253 bị bắt)9 12 13 \n Toàn chiến dịch: Trên 13.000 thương vong (khoảng 3.500 chết, 8.500 bị thương, vài trăm bị bắt), chưa kể vài trăm thương vong của Lục quân Mỹ và Quân đội Hoàng gia LàoTheo Quân Giải phóng miền Nam Việt Nam: ~11.900 chết hoặc bị thương (trong đó có khoảng 9.000 lính Mỹ); 197 máy bay, 78 xe tăng-thiết giáp, 46 khẩu pháo, 50 kho đạn bị phá hủy14 ",
+      "Tổn thất bên 2": "Theo Quân Giải phóng miền Nam Việt Nam:\n Nguồn 1: Khoảng 3.500 chết hoặc mất tích, 5.500 bị thương15 \nNguồn 2: 2.469 tử trận (tính từ 20 tháng 1 đến 20 tháng 7 năm 1968).16 Theo Hoa Kỳ: Phát hiện 1.600 thi thể,17 Hoa Kỳ tuyên bố trước dư luận Quân Giải phóng miền Nam Việt Nam có khoảng 10.000-15.000 người chết, nhưng báo cáo mật ước tính chỉ khoảng 5.550 chết.16 Tổng cộng toàn chiến dịch:\n Khoảng 9.000 - 11.000 thương vong"
+    },
+    "label": "Chiến dịch Đường 9 - Khe Sanh năm 1968"
+  },
+  {
+    "overview": "Theo QĐNDVN: 25",
+    "claims": {
+      "tên khác": "Trận Huế",
+      "Thời gian": "30 tháng 1 - 3 tháng 3 1968",
+      "Địa điểm": "16°28′30,9″B 107°34′33,6″Đ / 16,46667°B 107,56667°Đ / 16.46667; 107.56667 (Battle of Huế)Tọa độ: 16°28′30,9″B 107°34′33,6″Đ / 16,46667°B 107,56667°Đ / 16.46667; 107.56667 (Battle of Huế) Huế, Việt Nam Cộng hòa",
+      "Kết quả": "Hoa Kỳ và Việt Nam Cộng hòa thắng về chiến thuật. Thắng lợi về chính trị cho Mặt trận Dân tộc Giải phóng miền Nam.",
+      "Tham chiến bên 1": "Hoa Kỳ\n Việt Nam Cộng hòa",
+      "Tham chiến bên 2": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+      "Chỉ huy bên 1": "Ngô Quang Trưởng\n Foster LaHue",
+      "Chỉ huy bên 2": "Lê Minh (Lê Tư Minh)",
+      "Lực lượng bên 1": "Khoảng 40.000 trên toàn tuyến. Trong đó khoảng 15.000 trực tiếp tham gia trận đánh trong thành phố\n Không quân và Hải quân Mỹ yểm trợ hỏa lực",
+      "Lực lượng bên 2": "8.000, sau tăng lên 12.000",
+      "Tổn thất bên 1": "Nguồn Hoa Kỳ (chỉ tính từ 30/1 tới 25/2):\n Hoa Kỳ: 216 chết, 1.584 bị thương\n Việt Nam Cộng Hòa: 452 chết, 2.123 bị thương1 \n Tổng (chỉ tính từ 30/1 tới 25/2):: 668 chết, 3.707 bị thương\nTheo QĐNDVN: 25.000 chết, bị thương, bị bắt hoặc tan rã. Phá hủy và làm hư hỏng hơn 200 máy bay, 41 tàu chiến và ca nô, 533 xe quân sự.",
+      "Tổn thất bên 2": "Tính từ 30/1 đến 25/2: 1.042 chết và mất tích2 \n Tính từ 30/1 đến 28/3: khoảng 2.400 chết và mất tích, 3.000 bị thương, 98 bị bắt3 "
+    },
+    "label": "Trận Mậu Thân tại Huế năm 1968"
+  },
+  {
+    "overview": "Theo Quân Giải phóng miền Nam Việt Nam: Khoảng 1",
+    "claims": {
+      "tên khác": "Trận Đồi Thịt Băm",
+      "Thời gian": "10 tháng 5 - 20 tháng 5 năm 1969",
+      "Địa điểm": "16°15′11″B 107°10′29″Đ / 16,25306°B 107,17472°Đ / 16.25306; 107.17472 Tỉnh Thừa Thiên, Việt Nam",
+      "Kết quả": "Hai bên cùng tuyên bố chiến thắng, quân Mỹ sau đó rút đi, Quân Giải phóng miền Nam Việt Nam chiếm lại đồi.",
+      "Tham chiến bên 1": " Quân đội Hoa Kỳ\n Quân lực Việt Nam Cộng hoà",
+      "Tham chiến bên 2": "Quân đội Nhân dân Việt Nam\n Quân Giải phóng miền Nam Việt Nam",
+      "Chỉ huy bên 1": "Melvin Zais",
+      "Chỉ huy bên 2": "Ma Vĩnh Lan",
+      "Lực lượng bên 1": "Khoảng 1.800 bộ binh\n 10 tiểu đoàn pháo binh (bắn 19.213 viên đạn pháo)\n Không quân yểm trợ 272 phi vụ, ném 890 tấn bom nổ và 115 tấn bom napalm.1 ",
+      "Lực lượng bên 2": "2 tiểu đoàn, ước tính khoảng 800 người",
+      "Tổn thất bên 1": "Theo Hoa Kì:\n  72 chết, 372 bị thương\n Không rõ\n Vài trực thăng bị bắn rơi hoặc bắn hỏng Theo Quân Giải phóng miền Nam Việt Nam: Khoảng 1.300 chết hoặc bị thương\n 6 trực thăng bị bắn rơi, nhiều chiếc khác bị bắn hỏng",
+      "Tổn thất bên 2": "Không rõ (Mỹ tuyên bố có 630 chết, nhưng con số này bị xem là phóng đại do thực tế Mỹ chỉ thu được 89 vũ khí cá nhân và 22 vũ khí cộng đồng1 )"
+    },
+    "label": "Trận Đồi Thịt Băm năm 1969"
+  },
+  {
+    "overview": "Trận Bản Đông là một trận đánh then chốt của Quân đội Nhân dân Việt Nam trong Chiến dịch Đường 9 - Nam Lào, diễn ra từ ngày 8 tháng 2 đến ngày 20 tháng 3 năm 1971",
+    "claims": {
+      "tên khác": "Trận Bản Đông",
+      "Thời gian": "8 tháng 2 – 20 tháng 3 năm 1971",
+      "Địa điểm": "18°16′38″B 102°41′0″Đ / 18,27722°B 102,68333°Đ / 18.27722; 102.68333 (Ban Dong)Tọa độ: 18°16′38″B 102°41′0″Đ / 18,27722°B 102,68333°Đ / 18.27722; 102.68333 (Ban Dong) Bản Đông, huyện Tchepone, tỉnh Savannakhet, Lào",
+      "Kết quả": "Quân đội Nhân dân Việt Nam thắng",
+      "Tham chiến bên 1": "Việt Nam Cộng hòa\n  Hoa Kỳ",
+      "Tham chiến bên 2": " Việt Nam Dân chủ Cộng hòa\n  Pathet Lào",
+      "Chỉ huy bên 1": "Hoàng Xuân Lãm",
+      "Chỉ huy bên 2": "Lê Trọng Tấn",
+      "Lực lượng bên 1": "8,000+",
+      "Lực lượng bên 2": "Không rõ",
+      "Tổn thất bên 1": "1,500+ chết\n 250 bị bắt\n 9 máy bay bị hạ\n Theo QĐNDVN: 1.762 chết, 107 bị bắt, 113 xe, 24 khẩu pháo, 52 máy bay hoặc trực thăng1 ",
+      "Tổn thất bên 2": "300"
+    },
+    "label": "Trận Bản Đông năm 1971"
+  },
+  {
+    "overview": "Chiến dịch Đắk Tô, thường được biết đến là trận trận Đắk Tô - Tân Cảnh là trận đánh mở màn cho Chiến dịch Bắc Tây Nguyên 1972 của Quân Giải phóng miền Nam Việt Nam, diễn ra từ ngày 23 tháng 4 đến ngày 24 tháng 4 năm 1972 trên địa bàn Đắk Tô và Tân Cảnh thuộc tỉnh Kon Tum",
+    "claims": {
+      "tên khác": "Chiến dịch Đắk Tô",
+      "Thời gian": "23 tháng 4-24 tháng 4 năm 1972",
+      "Địa điểm": "Cụm cứ điểm Đắk Tô - Tân Cảnh, tỉnh Kon Tum Nam Việt Nam",
+      "Kết quả": "Quân Giải phóng miền Nam Việt Nam chiến thắng1 2 3",
+      "Tham chiến bên 1": "Việt Nam Cộng hòa\n Hoa Kỳ",
+      "Tham chiến bên 2": "Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam",
+      "Chỉ huy bên 1": "Lý Tòng Bá\n Ngô Du\n John Paul Vann †",
+      "Chỉ huy bên 2": "Hoàng Minh Thảo"
+    },
+    "label": "Chiến dịch Đắk Tô năm 1972"
+  },
+  {
+    "overview": "Chiến dịch đường 14-Phước Long là trận đụng độ quân sự lớn giữa Quân Giải phóng miền Nam Việt Nam và Quân lực Việt Nam Cộng hòa diễn ra trên địa bàn tỉnh Phước Long trong chiến tranh Việt Nam, kết quả là Quân Giải phóng miền Nam Việt Nam] chiến thắng và chiếm được Phước Long",
+    "claims": {
+      "tên khác": "Chiến dịch đường 14-Phước Long",
+      "Thời gian": "13/12/1974 - 6/1/1975",
+      "Địa điểm": "11°51′3″B 106°59′48″Đ / 11,85083°B 106,99667°Đ / 11.85083; 106.99667Tọa độ: 11°51′3″B 106°59′48″Đ / 11,85083°B 106,99667°Đ / 11.85083; 106.99667 Phước Long, Nam Việt Nam",
+      "Kết quả": "Chiến thắng quyết định của Quân Giải phóng miền Nam Việt Nam1",
+      "Tham chiến bên 1": "Quân đội Nhân dân Việt Nam\n Quân Giải phóng miền Nam",
+      "Tham chiến bên 2": "Quân lực Việt Nam Cộng hòa",
+      "Chỉ huy bên 1": " Hoàng Cầm",
+      "Chỉ huy bên 2": "Dư Quốc Đống\n Nguyễn Thống Thành",
+      "Lực lượng bên 1": "khoảng 14.5002 ",
+      "Lực lượng bên 2": "Khoảng 7.800 người\n Tại Phước Long: 5.4003 \n Tại Đồng Xoài: 1.3004 \n Các cứ điểm còn lại:1100.2 ",
+      "Tổn thất bên 1": "Theo nguồn Hoa Kỳ:\n khoảng 1.300 chết và bị thương.5 ",
+      "Tổn thất bên 2": "Theo nguồn Việt Nam:\n 1.160 chết, 2.146 bị bắt chưa kể số bị thương.6 \n Theo nguồn Hoa Kỳ: hơn 3.000 chết, 2.444 bị bắt5 \n Theo cựu binh VNCH: 4.550 chết hoặc bị bắt3 "
+    },
+    "label": "Chiến dịch Đường 14 - Phước Long năm 1974 - 1975"
+  },
+  {
+    "overview": "Chiến dịch Tây Nguyên (từ 4 tháng 3 đến 3 tháng 4 năm 1975), mật danh Chiến dịch 275, là chiến dịch mở đầu cuộc Tổng tấn công và nổi dậy mùa Xuân năm 1975 do Quân Giải phóng miền Nam Việt Nam phát động tấn công",
+    "claims": {
+      "tên khác": "Chiến dịch Tây Nguyên",
+      "Thời gian": "4/3 - 3/4/1975",
+      "Địa điểm": "Tây Nguyên, bao gồm các tỉnh Đắc Lắc, Phú Bổn, Gia Lai, Kon Tum, Quảng Đức, Việt Nam",
+      "Kết quả": "Chiến thắng quyết định của Quân Giải phóng miền Nam Việt Nam1",
+      "Tham chiến bên 1": "Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam\n Mặt trận Dân tộc Giải phóng Miền Nam Việt Nam",
+      "Tham chiến bên 2": "Việt Nam Cộng hòa",
+      "Chỉ huy bên 1": " Hoàng Minh Thảo",
+      "Chỉ huy bên 2": " Phạm Văn Phú",
+      "Lực lượng bên 1": "65.141 người (trong đó có 43.020 quân chủ lực)\n 57 xe tăng, 679 ô tô,\n 88 khẩu pháo cỡ lớn (105 mm - 130 mm), 55 pháo phản lực cỡ nhỏ (DKB, H12)\n 349 sơn pháo, súng không giật hoặc súng cối 120mm, 160mm\n 343 súng phòng không các cỡ\n 1561 súng chống tăng cá nhân, 6 cơ cấu bắn B-72",
+      "Lực lượng bên 2": "78.300 người\n 488 xe tăng, xe thiết giáp, hàng nghìn ô tô\n 376 khẩu pháo cỡ lớn (105mm - 175mm), vài trăm pháo cỡ nhỏ và súng cối hạng nặng\n 134 máy bay chiến đấu, 250 trực thăng, 101 máy bay trinh sát, vận tải và huấn luyện\n 2 hải đoàn tuần duyên, 2 giang đội trên sông",
+      "Tổn thất bên 1": "~600 chết,\n 2416 bị thương2 ",
+      "Tổn thất bên 2": "Hơn 3/4 quân số bị chết, bị bắt hoặc tan rã.\n Hầu hết vũ khí hạng nặng bị phá hủy hoặc thu giữ"
+    },
+    "label": "Chiến dịch Tây Nguyên năm 1975"
+  },
+  {
+    "overview": "",
+    "claims": {
+      "tên khác": "Tổng tấn công và nổi dậy mùa xuân 1975",
+      "Thời gian": "31 tháng 12 năm 1974 - 30 tháng 4 năm 1975",
+      "Địa điểm": "Miền Nam Việt Nam",
+      "Kết quả": "Quân Giải phóng miền Nam Việt Nam giành chiến thắng1 Chính quyền Việt Nam Cộng hòa đầu hàng2",
+      "Tham chiến bên 1": "Quân Giải phóng miền Nam Việt Nam,\n Quân đội Nhân dân Việt Nam",
+      "Tham chiến bên 2": "Quân lực Việt Nam Cộng Hòa\nQuân đội Hoa Kỳ (cố vấn)",
+      "Chỉ huy bên 1": "Văn Tiến Dũng\n  Lê Trọng Tấn\n  Hoàng Minh Thảo\n  Trần Văn Trà\n Hoàng Cầm\n Nguyễn Hữu An\n Đinh Đức Thiện\n Lê Đức Anh\n Nguyễn Hòa\n Vũ Lăng",
+      "Chỉ huy bên 2": " Nguyễn Văn Thiệu\n Cao Văn Viên\n  Ngô Quang Trưởng\n  Phạm Văn Phú\n  Nguyễn Văn Toàn\n  Nguyễn Khoa Nam\n Đổng Văn Khuyến\n  Trần Văn Đôn\n Chung Tấn Cang\n Fredrick C. Weyand",
+      "Lực lượng bên 1": "Khoảng 200.000-270.000 quân chính quy\n Khoảng 65.000-70.000 lính hậu cần (Đoàn 559), bộ đội địa phương và du kích 3 \n 320 xe tăng, 250 xe bọc thép\n 1.076 đại bác và súng chống tăng\n 6 máy bay A-37",
+      "Lực lượng bên 2": "Theo Văn Tiến Dũng: 495.000 quân chính quy, 475.000 quân địa phương. 1,4 triệu lính phòng vệ dân sự (trong đó 381.000 có vũ trang)4 .\n Theo TS Nguyễn Tiến Hưng: 1.200.000 quân chính quy, bảo an, địa phương và 120.000 cảnh sát5 \n 2.044 xe tăng và xe thiết giáp\n 1.683 máy bay các loại (trong đó có khoảng 900 trực thăng và 80 máy bay vận tải)\n 1.556 đại bác (chưa kể súng chống tăng)\n 579 tàu chiến các loại.",
+      "Tổn thất bên 1": "Chưa có thống kê chi tiết.",
+      "Tổn thất bên 2": "Hầu hết quân số của QLVNCH bị chết, bị bắt, đầu hàng hoặc tan rã tại chỗ.\n Toàn bộ vũ khí bị phá hủy hoặc thu giữ."
+    },
+    "label": "Chiến dịch Mùa Xuân năm 1975"
+  },
+  {
+    "overview": "Chính sách chống Việt Nam của chính quyền Khmer Đỏ",
+    "claims": {
+      "tên khác": "Chiến tranh biên giới Tây Nam",
+      "Thời gian": "Năm 1977 - tháng 12 năm 1989",
+      "Địa điểm": "Campuchia",
+      "Nguyên nhân bùng nổ": "Căng thẳng Quan hệ giữa Việt Nam và Campuchia dưới chế độ Khmer Đỏ được Trung Quốc hậu thuẫn. Chính sách chống Việt Nam của chính quyền Khmer Đỏ. Pol Pot mở cuộc tấn công xâm lược Việt Nam trên toàn tuyến biên giới Tây Nam, thi hành chính sách diệt chủng đối với người Việt.",
+      "Kết quả": "Quân đội Nhân dân Việt Nam chiến thắng Chế độ Khmer Đỏ bị lật đổ. Quân đội Nhân dân Việt Nam rút quân lần 1 năm 1982 Quân đội Nhân dân Việt Nam cơ bản hoàn thành các nỗ lực bình định vào năm 1986. Tiếp tục xung đột giữa các bè phái Campuchia.",
+      "Thay đổi lãnh thổ": "Việt Nam đóng quân tại Campuchia cho tới ngày 26 tháng 09 năm 1989. Campuchia Dân chủ bị đẩy về biên giới Thái Lan. Cộng hòa Nhân dân Campuchia thành lập. Hội nghị Paris về Campuchia được thành lập Sau khi Việt Nam rút quân, Campuchia thành lập chính chính phủ liên hiệp 3 phái Phiên tòa xử tội ác chiến tranh, tội ác diệt chủng, tội ác chống lại loài người của Khmer Đỏ được thành lập năm 1997",
+      "Tham chiến bên 1": "Cộng hòa xã hội chủ nghĩa Việt Nam\n Cộng hòa Nhân dân Campuchia",
+      "Tham chiến bên 2": "Campuchia Dân chủ\n Thái Lan\n Hỗ trợ bởi:\n Cộng hòa Nhân dân Trung Hoa",
+      "Chỉ huy bên 1": " Lê Trọng Tấn\n  Lê Đức Anh\n Hun Sen\n Heng Samrin\n Chea Sim",
+      "Chỉ huy bên 2": "Pol Pot\n Ieng Sary\n Khieu Samphan\n Nuon Chea\n Ta Mok",
+      "Lực lượng bên 1": "180.000 quân Việt Nam, hỗ trợ bởi khoảng 20.000 quân KNUFNS",
+      "Lực lượng bên 2": "Nguồn phương Tây: 19 sư đoàn với 90.000 quân (năm 1979)\nNguồn Việt Nam: 23 sư đoàn với gần 200.000 quân, trong đó 19 sư đoàn đã tham gia tấn công vào Việt Nam1 ",
+      "Tổn thất bên 1": "Từ 1977 tới trước tháng 12-1978: Khoảng 3.000 chết, 5.500 bị thương2 .\n \n \n \n Từ tháng 12-1978 tới tháng 1-1979: 8.000 chết hoặc bị thương\n \n Toàn cuộc chiến (từ năm 1977 tới 1989, bao gồm cả thời kỳ đóng quân ở Campuchia): ~ 10.0003 tới 15.000 quân nhân chết4 \n ~30.000 quân nhân bị thương.5 \n 55.300 chết hoặc bị thương (tính cả dân thường) từ năm 1977 tới tháng 10-19896 7 ",
+      "Tổn thất bên 2": "Từ tháng 6-1977 đến trước tháng 12-1978: 38.563 chết hoặc bị thương, 5.800 bị bắt (thống kê của Việt Nam)1 \n \n Từ tháng 12-1978 tới 5-1979: ~30.000 chết và bị thương8 , ~50.000 bị bắt\nToàn cuộc chiến (từ năm 1977 tới 1989): Trên 100.000 lính Khmer Đỏ chết\n hàng chục ngàn dân thường chết vì bệnh tật hoặc thiếu ăn"
+    },
+    "label": "Chiến tranh biên giới Tây Nam năm 1975 - 1978"
+  },
+  {
+    "overview": "Hải chiến Trường Sa 1988 là tên gọi của một trận đánh trên biển Đông năm 1988 khi Hải quân Quân giải phóng Nhân dân Trung Hoa đưa quân tấn công hòng chiếm đóng bãi đá Cô Lin, bãi đá Len Đao và bãi đá Gạc Ma thuộc quần đảo Trường Sa",
+    "claims": {
+      "tên khác": "Hải chiến Gạc Ma-Cô Lin-Len Đao (14-3-1988)",
+      "Thời gian": "14 tháng 3 năm 1988",
+      "Địa điểm": "Đá Gạc Ma, đá Cô Lin, đá Len Đao thuộc quần đảo Trường Sa",
+      "Kết quả": "Trung Quốc chiếm đá Gạc Ma Việt Nam giữ được đá Cô Lin và đá Len Đao",
+      "Tham chiến bên 1": "Hải quân Quân giải phóng Nhân dân Trung Quốc",
+      "Tham chiến bên 2": "Hải quân Quân đội Nhân dân Việt Nam",
+      "Chỉ huy bên 1": "Trần Vĩ Văn /Chen Weiwen/陈伟文, thuyền trưởng 502 Nam Sung (Nanchong)",
+      "Chỉ huy bên 2": " Trần Đức Thông, lữ đoàn phó Lữ đoàn 146\n Lê Lệnh Sơn, thuyền trưởng HQ-605\n Vũ Phi Trừ, thuyền trưởng HQ-604\n Vũ Huy Lễ, thuyền trưởng HQ-505",
+      "Lực lượng bên 1": [
+        "Tàu khu trục 502 Nanchong / Nam Sung / 南充, lớp Giang Nam/065 (Jiangnan Class/065)",
+        "Tàu khu trục 556 Xiangtan / Tương Đàm / 湘潭, lớp Giang Hộ II/053H1 (Jianghu II Class/053H1)",
+        "Tàu khu trục 531 Yingtan / Ưng Đàm / 鹰潭, lớp Giang Đông/053K (Jiangdong Class/053K)"
+      ],
+      "Tổn thất bên 1": "Hải quân: 1 bị thương 1 2 3 4 5 6 \n *Lực lượng đổ bộ: Một số xuồng đổ bộ bị bắn hỏng. 6 chết, 18 bị thương7 "
+    },
+    "label": "Hải chiến Trường Sa năm 1988"
+  },
+  {
+    "overview": "",
+    "claims": {
+      "tên khác": "Chiến dịch Linebacker II",
+      "Thời gian": "Từ 18 tháng 12 đến 30 tháng 12 năm 1972",
+      "Địa điểm": "Miền Bắc Việt Nam: Hà Nội, Hải Phòng, Thái Nguyên, Lạng Sơn, Bắc Giang.",
+      "Kết quả": "Thắng lợi chiến lược của VNDCCH (Mỹ chấp nhận ký kết Hiệp định Paris với nội dung tương tự với bản dự thảo hiệp định vào tháng 10 năm 1972 - bản mà Hoa Kỳ đã từ chối ký kết).",
+      "Tham chiến bên 1": "Không lực Hoa Kỳ",
+      "Tham chiến bên 2": "Quân đội Nhân dân Việt Nam",
+      "Chỉ huy bên 1": "John Dale Ryan\n John W. Vogt Jr",
+      "Chỉ huy bên 2": " Văn Tiến Dũng\n  Phùng Thế Tài\n  Lê Văn Tri",
+      "Lực lượng bên 1": "197 đến 207 máy bay ném bom chiến lược B-52,\n 14 liên đội không quân chiến thuật gồm 1.077 máy bay các loại từ 3 căn cứ không quân và 6 tàu sân bay1 ",
+      "Lực lượng bên 2": "Lực lượng phòng không và không quân và dân quân (trong đó có 23 tiểu đoàn tên lửa SA-2 và khoảng 50 máy bay tiêm kích MiG).2 ",
+      "Tổn thất bên 1": "Số liệu từ Hoa Kỳ:3 \n12 phi cơ chiến thuật bị bắn rơi\n 16 B-52 bị bắn rơi\n 4 B-52 bị hư hại nặng\n 5 B-52 bị hư hại trung bình\n 43 tử thương\n 49 bị bắt làm tù binh3 4 Số liệu của Việt Nam:5 \n 81 phi cơ bị bắn rơi\n gồm có 34 B-52 (16 rơi tại chỗ) và 5 F-1116 ",
+      "Tổn thất bên 2": "1.624 thường dân thiệt mạng\n Thương vong về quân sự không rõ7 3 MiG-21 bị bắn rơi8 "
+    },
+    "label": "Trận Điện Biên Phủ trên không năm 1972"
+  },
+  {
+    "overview": "",
+    "claims": {
+      "tên khác": "Chiến tranh biên giới Việt–Trung 1979",
+      "Thời gian": "17 tháng 2 – 16 tháng 3 năm 1979",
+      "Địa điểm": "Toàn tuyến biên giới phía bắc của Việt Nam.",
+      "Nguyên nhân bùng nổ": "Căng thẳng quan hệ Việt Nam - Trung Quốc thập niên 1970",
+      "Kết quả": [
+        "Trung Quốc phải rút quân.",
+        "Việt Nam tái chiếm lãnh thổ, tiếp tục tham chiến ở Campuchia.",
+        "Xung đột Biên giới kéo dài đến năm 1990"
+      ],
+      "Thay đổi lãnh thổ": "Trung Quốc chiếm một số huyện, thị xã gần biên giới với Việt Nam trước khi rút quân",
+      "Tham chiến bên 1": " Trung Quốc",
+      "Tham chiến bên 2": " Việt Nam \nỦng hộ \n  Cuba \n  Liên Xô",
+      "Chỉ huy bên 1": " Đặng Tiểu Bình \n Từ Hướng Tiền \n  Dương Đắc Chí\nHứa Thế Hữu",
+      "Chỉ huy bên 2": " Lê Duẩn \n  Võ Nguyên Giáp\n Văn Tiến Dũng\n Đàm Quang Trung\n Vũ Lập",
+      "Lực lượng bên 1": "hơn 300.000 bộ binh và 400 xe tăng, hàng chục vạn dân công hỗ trợ vận tải (theo Việt Nam có hơn 600.000 lính Trung Quốc tham chiến)1 \n(lực lượng của 7 quân đoàn với 21 sư đoàn tác chiến, 9 sư đoàn dự bị)2 ",
+      "Lực lượng bên 2": "60.000-100.000 quân chính quy và 150.000 dân quân tự vệ\n(7 sư đoàn, 15 trung đoàn độc lập, biên phòng và dân quân tự vệ)2 ",
+      "Tổn thất bên 1": "Tranh cãi\nViệt Nam tuyên bố 26.000 chết, 37.000 bị thương, 280 xe tăng bị phá hủy.3 \n Trung Quốc tuyên bố 6.954 chết, 14.800 bị thương4 \n (nguồn khác của Trung Quốc thống kê có 8.531 chết, 21.000 bị thương5 \n Phương Tây ước tính: \n ~28.000 chết,6 hoặc hơn 20.000 chết3 hoặc ~13.000 chết,7 chưa kể hàng chục ngàn bị thương",
+      "Tổn thất bên 2": "Tranh cãi\n Trung Quốc tuyên bố 30.000 chết3 -57.000 lính chết, 70.000 du kích chết8 \nPhương Tây ước tính: Khoảng 20.000 chết hoặc bị thương.4 (trong đó ~8.000 chết7 )\n Việt Nam tuyên bố 10.000 dân thường bị thiệt mạng, nhưng chưa công bố số liệu chi tiết về thương vong quân sự4 "
+    },
+    "label": "Chiến tranh biên giới Việt–Trung 1979"
+  }
+]

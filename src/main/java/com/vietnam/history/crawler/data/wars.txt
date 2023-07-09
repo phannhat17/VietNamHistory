@@ -1,0 +1,1017 @@
+[
+  {
+    "title": "Thâm nhập Lào",
+    "href": "/wiki/Th%C3%A2m_nh%E1%BA%ADp_L%C3%A0o",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Chiến dịch Sunrise (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Sunrise\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Ấp Bắc",
+    "href": "/wiki/Tr%E1%BA%ADn_%E1%BA%A4p_B%E1%BA%AFc",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Gò Công",
+    "href": "/wiki/Tr%E1%BA%ADn_G%C3%B2_C%C3%B4ng",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Hiệp Hòa (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Hi%E1%BB%87p_H%C3%B2a\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Chà Là (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Ch%C3%A0_L%C3%A0\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Chiến dịch 34A (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_34A\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Long Định",
+    "href": "/wiki/Tr%E1%BA%ADn_Long_%C4%90%E1%BB%8Bnh",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Chiến dịch Quyết Thắng 202",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Quy%E1%BA%BFt_Th%E1%BA%AFng_202",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Đột kích tàu USNS Card",
+    "href": "/wiki/%C4%90%E1%BB%99t_k%C3%ADch_t%C3%A0u_USNS_Card",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Nam Đông (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Nam_%C4%90%C3%B4ng\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận An Lão",
+    "href": "/wiki/Tr%E1%BA%ADn_An_L%C3%A3o",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Bình Giã",
+    "href": "/wiki/Tr%E1%BA%ADn_B%C3%ACnh_Gi%C3%A3",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận tấn công Căn cứ không quân Pleiku",
+    "href": "/wiki/Tr%E1%BA%ADn_t%E1%BA%A5n_c%C3%B4ng_C%C4%83n_c%E1%BB%A9_kh%C3%B4ng_qu%C3%A2n_Pleiku",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Sông Bé",
+    "href": "/wiki/Tr%E1%BA%ADn_S%C3%B4ng_B%C3%A9",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Ba Gia",
+    "href": "/wiki/Tr%E1%BA%ADn_Ba_Gia",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Đồng Xoài",
+    "href": "/wiki/Tr%E1%BA%ADn_%C4%90%E1%BB%93ng_Xo%C3%A0i",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Ka Nak",
+    "href": "/wiki/Tr%E1%BA%ADn_Ka_Nak",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Đèo Nhông",
+    "href": "/wiki/Tr%E1%BA%ADn_%C4%90%C3%A8o_Nh%C3%B4ng",
+    "type": "Giai đoạn Mỹ thực hiện\r\nChiến tranh đặc biệt (1960-1964)"
+  },
+  {
+    "title": "Trận Núi Thành",
+    "href": "/wiki/Tr%E1%BA%ADn_N%C3%BAi_Th%C3%A0nh",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Starlite",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Starlite",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Vạn Tường",
+    "href": "/wiki/Tr%E1%BA%ADn_V%E1%BA%A1n_T%C6%B0%E1%BB%9Dng",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Chu Lai (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Chu_Lai\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Hump",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Hump",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Đông Xuân 1965 - 1966 của Quân Giải phóng miền Nam Việt Nam (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90%C3%B4ng_Xu%C3%A2n_1965_-_1966_c%E1%BB%A7a_Qu%C3%A2n_Gi%E1%BA%A3i_ph%C3%B3ng_mi%E1%BB%81n_Nam_Vi%E1%BB%87t_Nam\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Hiệp Đức – Đồng Dương",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Hi%E1%BB%87p_%C4%90%E1%BB%A9c_%E2%80%93_%C4%90%E1%BB%93ng_D%C6%B0%C6%A1ng",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Đồng Dương",
+    "href": "/wiki/Tr%E1%BA%ADn_%C4%90%E1%BB%93ng_D%C6%B0%C6%A1ng",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Cẩm Khê (1965)",
+    "href": "/wiki/Tr%E1%BA%ADn_C%E1%BA%A9m_Kh%C3%AA_(1965)",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Gang Toi (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Gang_Toi\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Bàu Bàng, 1965",
+    "href": "/wiki/Tr%E1%BA%ADn_B%C3%A0u_B%C3%A0ng,_1965",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Plei Me",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Plei_Me",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Ia Đrăng",
+    "href": "/wiki/Tr%E1%BA%ADn_Ia_%C4%90r%C4%83ng",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Crimp (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Crimp\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Masher",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Masher",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Kim Sơn (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Kim_S%C6%A1n\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận A Sầu",
+    "href": "/wiki/Tr%E1%BA%ADn_A_S%E1%BA%A7u",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Hà Vy",
+    "href": "/wiki/Tr%E1%BA%ADn_H%C3%A0_Vy",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Bông Trang - Nhà Đỏ",
+    "href": "/wiki/Tr%E1%BA%ADn_B%C3%B4ng_Trang_-_Nh%C3%A0_%C4%90%E1%BB%8F",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Võ Su (1966) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_V%C3%B5_Su_(1966)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Birmingham",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Birmingham",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Xã Cẩm Mỹ (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_X%C3%A3_C%E1%BA%A9m_M%E1%BB%B9\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Hastings",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Hastings",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Prairie",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Prairie",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Đức Cơ",
+    "href": "/wiki/Tr%E1%BA%ADn_%C4%90%E1%BB%A9c_C%C6%A1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Long Tân",
+    "href": "/wiki/Tr%E1%BA%ADn_Long_T%C3%A2n",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Beaver Cage (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Beaver_Cage\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Attleboro",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Attleboro",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Bồng Sơn (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_B%E1%BB%93ng_S%C6%A1n\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Bắc Bình Định (1966) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_B%E1%BA%AFc_B%C3%ACnh_%C4%90%E1%BB%8Bnh_(1966)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Tây Sơn Tịnh (1966) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_T%C3%A2y_S%C6%A1n_T%E1%BB%8Bnh_(1966)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Bắc Phú Yên (1966) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_B%E1%BA%AFc_Ph%C3%BA_Y%C3%AAn_(1966)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Tấn công sân bay Tân Sơn Nhất (1966)",
+    "href": "/wiki/T%E1%BA%A5n_c%C3%B4ng_s%C3%A2n_bay_T%C3%A2n_S%C6%A1n_Nh%E1%BA%A5t_(1966)",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Sa Thầy (1966)",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Sa_Th%E1%BA%A7y_(1966)",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Tây Ninh (1966) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_T%C3%A2y_Ninh_(1966)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Quảng Ngãi (1966) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Qu%E1%BA%A3ng_Ng%C3%A3i_(1966)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Cedar Falls",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Cedar_Falls",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Tuscaloosa (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Tuscaloosa\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Quang Thạnh (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Quang_Th%E1%BA%A1nh\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Bribie (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Bribie\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Junction City",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Junction_City",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Francis Marion (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Francis_Marion\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Union (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Union\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Đồi 881 (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_%C4%90%E1%BB%93i_881\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Malheur I và II (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Malheur_I_v%C3%A0_II\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Baker (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Baker\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Union II (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Union_II\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Buffalo (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Buffalo\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận ngày 2 tháng 6 (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_ng%C3%A0y_2_th%C3%A1ng_6\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Quang Thạnh (1967)",
+    "href": "/wiki/Tr%E1%BA%ADn_Quang_Th%E1%BA%A1nh_(1967)",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Hong Kil Dong",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Hong_Kil_Dong",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Suoi Chau Pha (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Suoi_Chau_Pha\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Swift (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Swift\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Wheeler/Wallowa (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Wheeler/Wallowa\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Medina (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Medina\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Ông Thành",
+    "href": "/wiki/Tr%E1%BA%ADn_%C3%94ng_Th%C3%A0nh",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Lộc Ninh (1967)",
+    "href": "/wiki/Tr%E1%BA%ADn_L%E1%BB%99c_Ninh_(1967)",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Bàu Nâu",
+    "href": "/wiki/Tr%E1%BA%ADn_B%C3%A0u_N%C3%A2u",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Kentucky (Việt Nam) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Kentucky_(Vi%E1%BB%87t_Nam)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Sa Thầy (1967)",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Sa_Th%E1%BA%A7y_(1967)",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Đắk Tô, 1967",
+    "href": "/wiki/Tr%E1%BA%ADn_%C4%90%E1%BA%AFk_T%C3%B4,_1967",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Phượng Hoàng",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Ph%C6%B0%E1%BB%A3ng_Ho%C3%A0ng",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Đường 9 - Khe Sanh",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90%C6%B0%E1%BB%9Dng_9_-_Khe_Sanh",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Huội San (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Hu%E1%BB%99i_San\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Chư Tan Kra (1968) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Ch%C6%B0_Tan_Kra_(1968)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Tây Ninh - Bình Long (1968) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_T%C3%A2y_Ninh_-_B%C3%ACnh_Long_(1968)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Coburg (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Coburg\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Sự kiện Tết Mậu Thân",
+    "href": "/wiki/S%E1%BB%B1_ki%E1%BB%87n_T%E1%BA%BFt_M%E1%BA%ADu_Th%C3%A2n",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Mậu Thân tại Sài Gòn",
+    "href": "/wiki/Tr%E1%BA%ADn_M%E1%BA%ADu_Th%C3%A2n_t%E1%BA%A1i_S%C3%A0i_G%C3%B2n",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Mậu Thân tại Huế",
+    "href": "/wiki/Tr%E1%BA%ADn_M%E1%BA%ADu_Th%C3%A2n_t%E1%BA%A1i_Hu%E1%BA%BF",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Mậu Thân tại Quảng Trị (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_M%E1%BA%ADu_Th%C3%A2n_t%E1%BA%A1i_Qu%E1%BA%A3ng_Tr%E1%BB%8B\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Làng Vây",
+    "href": "/wiki/Tr%E1%BA%ADn_L%C3%A0ng_V%C3%A2y",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Lima Site 85 (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Lima_Site_85\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Toàn Thắng I (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_To%C3%A0n_Th%E1%BA%AFng_I\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Delaware (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Delaware\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Sự kiện Tết Mậu Thân",
+    "href": "/wiki/S%E1%BB%B1_ki%E1%BB%87n_T%E1%BA%BFt_M%E1%BA%ADu_Th%C3%A2n",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Khâm Đức",
+    "href": "/wiki/Tr%E1%BA%ADn_Kh%C3%A2m_%C4%90%E1%BB%A9c",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Coral–Balmoral (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Coral%E2%80%93Balmoral\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Hoa Đà-Sông Mao (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Hoa_%C4%90%C3%A0-S%C3%B4ng_Mao\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Speedy Express",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Speedy_Express",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Dewey Canyon (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Dewey_Canyon\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Taylor Common (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Taylor_Common\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Đắk Tô (1969) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90%E1%BA%AFk_T%C3%B4_(1969)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Long Khánh (1969) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Long_Kh%C3%A1nh_(1969)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Bù Răng - Đức Lập (1969) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_B%C3%B9_R%C4%83ng_-_%C4%90%E1%BB%A9c_L%E1%BA%ADp_(1969)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Phước Bình - Bù Đốp (1969) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Ph%C6%B0%E1%BB%9Bc_B%C3%ACnh_-_B%C3%B9_%C4%90%E1%BB%91p_(1969)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Tết 1969",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_T%E1%BA%BFt_1969",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Apache Snow (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Apache_Snow\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Đồi Thịt Băm",
+    "href": "/wiki/Tr%E1%BA%ADn_%C4%90%E1%BB%93i_Th%E1%BB%8Bt_B%C4%83m",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Chiến dịch Twinkletoes (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Twinkletoes\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện Chiến tranh cục bộ (1964-1969)"
+  },
+  {
+    "title": "Trận Bình Ba (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_B%C3%ACnh_Ba\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Pat To (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Pat_To\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Texas Star (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Texas_Star\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Cuộc rút lui của Mặt trận Dân tộc Giải phóng miền Nam Việt Nam tại Campuchia (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dCu%E1%BB%99c_r%C3%BAt_lui_c%E1%BB%A7a_M%E1%BA%B7t_tr%E1%BA%ADn_D%C3%A2n_t%E1%BB%99c_Gi%E1%BA%A3i_ph%C3%B3ng_mi%E1%BB%81n_Nam_Vi%E1%BB%87t_Nam_t%E1%BA%A1i_Campuchia\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Campuchia",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Campuchia",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Kompong Speu",
+    "href": "/wiki/Tr%E1%BA%ADn_Kompong_Speu",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Prey Veng",
+    "href": "/wiki/Tr%E1%BA%ADn_Prey_Veng",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Snoul (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_Snoul\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận đánh Căn cứ hỏa lực Ripcord",
+    "href": "/wiki/Tr%E1%BA%ADn_%C4%91%C3%A1nh_C%C4%83n_c%E1%BB%A9_h%E1%BB%8Fa_l%E1%BB%B1c_Ripcord",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Tailwind (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Tailwind\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Chenla I\u0027\u0027 (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Chenla_I%27%27\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Jefferson Glenn (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Jefferson_Glenn\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Vụ tập kích Sơn Tây",
+    "href": "/wiki/V%E1%BB%A5_t%E1%BA%ADp_k%C3%ADch_S%C6%A1n_T%C3%A2y",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Lam Sơn 719",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Lam_S%C6%A1n_719",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Bản Đông",
+    "href": "/wiki/Tr%E1%BA%ADn_B%E1%BA%A3n_%C4%90%C3%B4ng",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Đồi 723 (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_%C4%90%E1%BB%93i_723\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Chenla II",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Chenla_II",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận đánh Căn cứ hỏa lực Mary Ann (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_%C4%91%C3%A1nh_C%C4%83n_c%E1%BB%A9_h%E1%BB%8Fa_l%E1%BB%B1c_Mary_Ann\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Long Khánh",
+    "href": "/wiki/Tr%E1%BA%ADn_Long_Kh%C3%A1nh",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Núi Lệ (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dTr%E1%BA%ADn_N%C3%BAi_L%E1%BB%87\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến cục năm 1972 tại Việt Nam",
+    "href": "/wiki/Chi%E1%BA%BFn_c%E1%BB%A5c_n%C4%83m_1972_t%E1%BA%A1i_Vi%E1%BB%87t_Nam",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Xuân - Hè 1972",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Xu%C3%A2n_-_H%C3%A8_1972",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Mặt trận Trị Thiên Huế năm 1972",
+    "href": "/wiki/M%E1%BA%B7t_tr%E1%BA%ADn_Tr%E1%BB%8B_Thi%C3%AAn_Hu%E1%BA%BF_n%C4%83m_1972",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Trị Thiên",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Tr%E1%BB%8B_Thi%C3%AAn",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Thành cổ Quảng Trị",
+    "href": "/wiki/Tr%E1%BA%ADn_Th%C3%A0nh_c%E1%BB%95_Qu%E1%BA%A3ng_Tr%E1%BB%8B",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Mặt trận Tây Nguyên và Bắc Bình Định năm 1972",
+    "href": "/wiki/M%E1%BA%B7t_tr%E1%BA%ADn_T%C3%A2y_Nguy%C3%AAn_v%C3%A0_B%E1%BA%AFc_B%C3%ACnh_%C4%90%E1%BB%8Bnh_n%C4%83m_1972",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Bắc Tây Nguyên 1972",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_B%E1%BA%AFc_T%C3%A2y_Nguy%C3%AAn_1972",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Đắk Tô - Tân Cảnh, 1972",
+    "href": "/wiki/Tr%E1%BA%ADn_%C4%90%E1%BA%AFk_T%C3%B4_-_T%C3%A2n_C%E1%BA%A3nh,_1972",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Kontum",
+    "href": "/wiki/Tr%E1%BA%ADn_Kontum",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Mặt trận Đông Nam Bộ năm 1972",
+    "href": "/wiki/M%E1%BA%B7t_tr%E1%BA%ADn_%C4%90%C3%B4ng_Nam_B%E1%BB%99_n%C4%83m_1972",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Nguyễn Huệ",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Nguy%E1%BB%85n_Hu%E1%BB%87",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Lộc Ninh (1972)",
+    "href": "/wiki/Tr%E1%BA%ADn_L%E1%BB%99c_Ninh_(1972)",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận An Lộc",
+    "href": "/wiki/Tr%E1%BA%ADn_An_L%E1%BB%99c",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Cửa Việt",
+    "href": "/wiki/Tr%E1%BA%ADn_C%E1%BB%ADa_Vi%E1%BB%87t",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Ấp Đá Biên",
+    "href": "/wiki/Tr%E1%BA%ADn_%E1%BA%A4p_%C4%90%C3%A1_Bi%C3%AAn",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Tam giác sắt (1974)",
+    "href": "/wiki/Tr%E1%BA%ADn_Tam_gi%C3%A1c_s%E1%BA%AFt_(1974)",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Trận Thượng Đức (1974)",
+    "href": "/wiki/Tr%E1%BA%ADn_Th%C6%B0%E1%BB%A3ng_%C4%90%E1%BB%A9c_(1974)",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch La Sơn - Mỏ Tàu (1974) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_La_S%C6%A1n_-_M%E1%BB%8F_T%C3%A0u_(1974)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Hưng Long (1974) (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_H%C6%B0ng_Long_(1974)\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Mùa Xuân 1975",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_M%C3%B9a_Xu%C3%A2n_1975",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Đường 14 - Phước Long",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_%C4%90%C6%B0%E1%BB%9Dng_14_-_Ph%C6%B0%E1%BB%9Bc_Long",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Tây Nguyên",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_T%C3%A2y_Nguy%C3%AAn",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Huế - Đà Nẵng",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Hu%E1%BA%BF_-_%C4%90%C3%A0_N%E1%BA%B5ng",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Phan Rang - Xuân Lộc",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Phan_Rang_-_Xu%C3%A2n_L%E1%BB%99c",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Hồ Chí Minh",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_H%E1%BB%93_Ch%C3%AD_Minh",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Xuân Lộc",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Xu%C3%A2n_L%E1%BB%99c",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Sự kiện 30 tháng 4 năm 1975",
+    "href": "/wiki/S%E1%BB%B1_ki%E1%BB%87n_30_th%C3%A1ng_4_n%C4%83m_1975",
+    "type": "Giai đoạn Mỹ thực hiện \"Việt Nam hóa chiến tranh\" (1969-1975)"
+  },
+  {
+    "title": "Chiến dịch Farm Gate (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Farm_Gate\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Chopper (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Chopper\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Ranch Hand",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Ranch_Hand",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Mũi Tên Xuyên",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_M%C5%A9i_T%C3%AAn_Xuy%C3%AAn",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Barrel Roll (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Barrel_Roll\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Pony Express (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Pony_Express\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Flaming Dart",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Flaming_Dart",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Iron Hand (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Iron_Hand\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Sấm Rền",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_S%E1%BA%A5m_R%E1%BB%81n",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Steel Tiger (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Steel_Tiger\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Arc Light (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Arc_Light\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Tiger Hound (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Tiger_Hound\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Shed Light (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Shed_Light\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Tập kích cầu Hàm Rồng (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dT%E1%BA%ADp_k%C3%ADch_c%E1%BA%A7u_H%C3%A0m_R%E1%BB%93ng\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Bolo",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Bolo",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Popeye",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Popeye",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Yên Viên",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Y%C3%AAn_Vi%C3%AAn",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Niagara",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Niagara",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Igloo White",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Igloo_White",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Giant Lance (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Giant_Lance\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Commando Hunt",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Commando_Hunt",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Menu (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Menu\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Patio (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Patio\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Freedom Deal (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Freedom_Deal\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Mặt trận đất đối không miền Bắc Việt Nam 1972",
+    "href": "/wiki/M%E1%BA%B7t_tr%E1%BA%ADn_%C4%91%E1%BA%A5t_%C4%91%E1%BB%91i_kh%C3%B4ng_mi%E1%BB%81n_B%E1%BA%AFc_Vi%E1%BB%87t_Nam_1972",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Linebacker",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Linebacker",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Enhance Plus (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Enhance_Plus\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Linebacker II",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Linebacker_II",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Homecoming",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Homecoming",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Pháo kích sân bay Tân Sơn Nhất (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dPh%C3%A1o_k%C3%ADch_s%C3%A2n_bay_T%C3%A2n_S%C6%A1n_Nh%E1%BA%A5t\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Không vận Trẻ em Việt Nam",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Kh%C3%B4ng_v%E1%BA%ADn_Tr%E1%BA%BB_em_Vi%E1%BB%87t_Nam",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Cuộc sống mới",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Cu%E1%BB%99c_s%E1%BB%91ng_m%E1%BB%9Bi",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Eagle Pull",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Eagle_Pull",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Chiến dịch Gió lốc",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Gi%C3%B3_l%E1%BB%91c",
+    "type": "Các trận đánh và chiến dịch không quân"
+  },
+  {
+    "title": "Sự kiện Vịnh Bắc Bộ",
+    "href": "/wiki/S%E1%BB%B1_ki%E1%BB%87n_V%E1%BB%8Bnh_B%E1%BA%AFc_B%E1%BB%99",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Chiến dịch Market Time",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Market_Time",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Sự kiện Vũng Rô",
+    "href": "/wiki/S%E1%BB%B1_ki%E1%BB%87n_V%C5%A9ng_R%C3%B4",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Chiến dịch Game Warden (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Game_Warden\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Chiến dịch Sea Dragon",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Sea_Dragon",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Chiến dịch Deckhouse Five (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Deckhouse_Five\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Chiến dịch Bồ Đề-Nha Trang (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_B%E1%BB%93_%C4%90%E1%BB%81-Nha_Trang\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Chiến dịch Sealords (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Sealords\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Trận cảng Hải Phòng",
+    "href": "/wiki/Tr%E1%BA%ADn_c%E1%BA%A3ng_H%E1%BA%A3i_Ph%C3%B2ng",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Trận Đồng Hới",
+    "href": "/wiki/Tr%E1%BA%ADn_%C4%90%E1%BB%93ng_H%E1%BB%9Bi",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Chiến dịch Custom Tailor (trang không tồn tại)",
+    "href": "/w/index.php?title\u003dChi%E1%BA%BFn_d%E1%BB%8Bch_Custom_Tailor\u0026action\u003dedit\u0026redlink\u003d1",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Hải chiến Hoàng Sa 1974",
+    "href": "/wiki/H%E1%BA%A3i_chi%E1%BA%BFn_Ho%C3%A0ng_Sa_1974",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  },
+  {
+    "title": "Chiến dịch Trường Sa và các đảo trên Biển Đông",
+    "href": "/wiki/Chi%E1%BA%BFn_d%E1%BB%8Bch_Tr%C6%B0%E1%BB%9Dng_Sa_v%C3%A0_c%C3%A1c_%C4%91%E1%BA%A3o_tr%C3%AAn_Bi%E1%BB%83n_%C4%90%C3%B4ng",
+    "type": "Các trận đánh và chiến dịch hải quân"
+  }
+]
