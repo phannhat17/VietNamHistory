@@ -1,6 +1,6 @@
-package com.vietnam.history.model.loader;
+package com.vietnam.history.gui.loader;
 
-import com.vietnam.history.model.Dynasty;
+import com.vietnam.history.gui.model.Dynasty;
 
 /**
  * A class for loading dynasty data from JSON files.

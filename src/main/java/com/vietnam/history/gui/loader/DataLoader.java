@@ -1,9 +1,9 @@
-package com.vietnam.history.model.loader;
+package com.vietnam.history.gui.loader;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectReader;
-import com.vietnam.history.model.HistoricalEntity;
+import com.vietnam.history.gui.model.HistoricalEntity;
 import javafx.collections.FXCollections;
 import javafx.collections.ObservableList;
 

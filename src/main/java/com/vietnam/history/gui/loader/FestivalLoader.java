@@ -1,7 +1,7 @@
-package com.vietnam.history.model.loader;
+package com.vietnam.history.gui.loader;
 
 
-import com.vietnam.history.model.Festival;
+import com.vietnam.history.gui.model.Festival;
 
 /**
  * A class for loading festival data from JSON files.

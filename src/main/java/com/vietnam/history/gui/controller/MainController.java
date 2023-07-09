@@ -1,6 +1,6 @@
-package com.vietnam.history.controller;
+package com.vietnam.history.gui.controller;
 
-import com.vietnam.history.App;
+import com.vietnam.history.gui.App;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.layout.VBox;

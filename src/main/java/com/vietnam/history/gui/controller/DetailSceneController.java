@@ -1,9 +1,9 @@
-package com.vietnam.history.controller;
+package com.vietnam.history.gui.controller;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.node.ArrayNode;
-import com.vietnam.history.App;
-import com.vietnam.history.model.HistoricalEntity;
+import com.vietnam.history.gui.App;
+import com.vietnam.history.gui.model.HistoricalEntity;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.Cursor;

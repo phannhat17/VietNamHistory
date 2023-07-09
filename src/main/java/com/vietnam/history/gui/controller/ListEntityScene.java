@@ -1,7 +1,7 @@
-package com.vietnam.history.controller;
+package com.vietnam.history.gui.controller;
 
-import com.vietnam.history.App;
-import com.vietnam.history.model.HistoricalEntity;
+import com.vietnam.history.gui.App;
+import com.vietnam.history.gui.model.HistoricalEntity;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.collections.ObservableList;
 import javafx.collections.transformation.FilteredList;
