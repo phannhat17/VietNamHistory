@@ -10,6 +10,10 @@ Project for Object-oriented Programming course of SoICT - HUST
 | Phan Dinh Nhat    | 20210654    | nhat.pd210654@sis.hust.edu.vn  |
 | Nguyen Quoc Trung | 20214976    | trung.nq214976@sis.hust.edu.vn |  
 
+## Data crawler
+
+The source code for data collection and processing can be found in [Hieu's repo here](https://github.com/tronghieu220403/Wikipedia-DBPedia-Crawler-VietnamHistory)
+
 ## Video demo
 
 [Demo](https://youtu.be/fMUTJTSCy20)
